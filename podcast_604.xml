@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Антологія. Український альбом</title>
+    <link>https://ukr.radio/prog.html?id=604</link>
+    <description>Історія становлення українського шоу-бізнесу у персоналіях.</description>
+    <pubDate>Mon, 13 Nov 2023 12:12:45 +0000</pubDate>
+    <item>
+      <title>Юркеш “Менуети” 2007</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211103/2979820.mp3</link>
+      <description>Юркеш “Менуети” 2007</description>
+      <pubDate>Wed, 03 Nov 2021 19:04:03 +0000</pubDate>
+      <dc:date>2021-11-03T19:04:03+00:00</dc:date>
+    </item>
+    <item>
+      <title>Pianoбой Альбом &quot;Хісторі&quot; - 2019 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211027/2974216.mp3</link>
+      <description>Pianoбой Альбом &quot;Хісторі&quot; - 2019 рік</description>
+      <pubDate>Wed, 27 Oct 2021 19:04:01 +0000</pubDate>
+      <dc:date>2021-10-27T19:04:01+00:00</dc:date>
+    </item>
+    <item>
+      <title>Гапочка Альбом &quot;Необхідна&quot; - 2019 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211020/2967219.mp3</link>
+      <description>Гапочка Альбом &quot;Необхідна&quot; - 2019 рік ч.2</description>
+      <pubDate>Wed, 20 Oct 2021 19:25:05 +0000</pubDate>
+      <dc:date>2021-10-20T19:25:05+00:00</dc:date>
+    </item>
+    <item>
+      <title>Гапочка Альбом &quot;Необхідна&quot; - 2019 рік  ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211020/2967123.mp3</link>
+      <description>Гапочка Альбом &quot;Необхідна&quot; - 2019 рік  ч.1</description>
+      <pubDate>Wed, 20 Oct 2021 19:03:59 +0000</pubDate>
+      <dc:date>2021-10-20T19:03:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Дах Дотерс альбом Air – 2018 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211013/2961552.mp3</link>
+      <description>Дах Дотерс альбом Air – 2018 рік ч.2</description>
+      <pubDate>Wed, 13 Oct 2021 19:27:22 +0000</pubDate>
+      <dc:date>2021-10-13T19:27:22+00:00</dc:date>
+    </item>
+    <item>
+      <title>Дах Дотерс альбом Air – 2018 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211013/2961456.mp3</link>
+      <description>Дах Дотерс альбом Air – 2018 рік ч.1</description>
+      <pubDate>Wed, 13 Oct 2021 19:04:01 +0000</pubDate>
+      <dc:date>2021-10-13T19:04:01+00:00</dc:date>
+    </item>
+    <item>
+      <title>Панівалькова. Альбом ДОНТВОРІ 2016 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211006/2954970.mp3</link>
+      <description>Панівалькова. Альбом ДОНТВОРІ 2016 рік ч.2</description>
+      <pubDate>Wed, 06 Oct 2021 19:26:44 +0000</pubDate>
+      <dc:date>2021-10-06T19:26:44+00:00</dc:date>
+    </item>
+    <item>
+      <title>Панівалькова. Альбом ДОНТВОРІ 2016 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20211006/2954874.mp3</link>
+      <description>Панівалькова. Альбом ДОНТВОРІ 2016 рік ч.1</description>
+      <pubDate>Wed, 06 Oct 2021 19:03:59 +0000</pubDate>
+      <dc:date>2021-10-06T19:03:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Вагоновожатые. Альбом &quot;Вассервага&quot;. – 2015 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210929/2947635.mp3</link>
+      <description>Вагоновожатые. Альбом &quot;Вассервага&quot;. – 2015 рік ч.2</description>
+      <pubDate>Wed, 29 Sep 2021 19:28:46 +0000</pubDate>
+      <dc:date>2021-09-29T19:28:46+00:00</dc:date>
+    </item>
+    <item>
+      <title>Вагоновожатые. Альбом &quot;Вассервага&quot;. – 2015 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210929/2947539.mp3</link>
+      <description>Вагоновожатые. Альбом &quot;Вассервага&quot;. – 2015 рік ч.1</description>
+      <pubDate>Wed, 29 Sep 2021 19:03:58 +0000</pubDate>
+      <dc:date>2021-09-29T19:03:58+00:00</dc:date>
+    </item>
+    <item>
+      <title>Крихітка Альбом &quot;Рецепт&quot; - 2009 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210922/2942773.mp3</link>
+      <description>Крихітка Альбом &quot;Рецепт&quot; - 2009 рік ч.2</description>
+      <pubDate>Wed, 22 Sep 2021 19:26:56 +0000</pubDate>
+      <dc:date>2021-09-22T19:26:56+00:00</dc:date>
+    </item>
+    <item>
+      <title>Крихітка Альбом &quot;Рецепт&quot; - 2009 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210922/2942046.mp3</link>
+      <description>Крихітка Альбом &quot;Рецепт&quot; - 2009 рік ч.1</description>
+      <pubDate>Wed, 22 Sep 2021 19:04:02 +0000</pubDate>
+      <dc:date>2021-09-22T19:04:02+00:00</dc:date>
+    </item>
+    <item>
+      <title>Бумбокс &quot;Меломанія&quot; - 2005 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210915/2932882.mp3</link>
+      <description>Бумбокс &quot;Меломанія&quot; - 2005 рік</description>
+      <pubDate>Wed, 15 Sep 2021 19:04:02 +0000</pubDate>
+      <dc:date>2021-09-15T19:04:02+00:00</dc:date>
+    </item>
+    <item>
+      <title>Фактично самі. Альбом Lo-Fi TRавми – 2005 рік </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210908/2927651.mp3</link>
+      <description>Фактично самі. Альбом Lo-Fi TRавми – 2005 рік </description>
+      <pubDate>Wed, 08 Sep 2021 19:03:58 +0000</pubDate>
+      <dc:date>2021-09-08T19:03:58+00:00</dc:date>
+    </item>
+    <item>
+      <title>Нумер 482 альбом &quot;Кавай&quot; – 2004 рік  ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210901/2921226.mp3</link>
+      <description>Нумер 482 альбом &quot;Кавай&quot; – 2004 рік  ч.2</description>
+      <pubDate>Wed, 01 Sep 2021 19:21:19 +0000</pubDate>
+      <dc:date>2021-09-01T19:21:19+00:00</dc:date>
+    </item>
+    <item>
+      <title>Нумер 482 альбом &quot;Кавай&quot; – 2004 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210901/2921128.mp3</link>
+      <description>Нумер 482 альбом &quot;Кавай&quot; – 2004 рік ч.1</description>
+      <pubDate>Wed, 01 Sep 2021 19:00:11 +0000</pubDate>
+      <dc:date>2021-09-01T19:00:11+00:00</dc:date>
+    </item>
+    <item>
+      <title>Тартак. Альбом &quot;Система нервів&quot; - 2003 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210825/2914274.mp3</link>
+      <description>Тартак. Альбом &quot;Система нервів&quot; - 2003 рік ч.2</description>
+      <pubDate>Wed, 25 Aug 2021 19:23:28 +0000</pubDate>
+      <dc:date>2021-08-25T19:23:28+00:00</dc:date>
+    </item>
+    <item>
+      <title>Тартак. Альбом &quot;Система нервів&quot; - 2003 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210825/2914176.mp3</link>
+      <description>Тартак. Альбом &quot;Система нервів&quot; - 2003 рік ч.1</description>
+      <pubDate>Wed, 25 Aug 2021 19:00:11 +0000</pubDate>
+      <dc:date>2021-08-25T19:00:11+00:00</dc:date>
+    </item>
+    <item>
+      <title>Alina Pash &quot;Pintea&quot; 2019 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201211/2674045.mp3</link>
+      <description>Alina Pash &quot;Pintea&quot; 2019 рік</description>
+      <pubDate>Fri, 11 Dec 2020 18:05:37 +0000</pubDate>
+      <dc:date>2020-12-11T18:05:37+00:00</dc:date>
+    </item>
+    <item>
+      <title>Alyona Alyona &quot;Пушка&quot; 2019 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201204/2666650.mp3</link>
+      <description>Alyona Alyona &quot;Пушка&quot; 2019 рік</description>
+      <pubDate>Fri, 04 Dec 2020 18:06:00 +0000</pubDate>
+      <dc:date>2020-12-04T18:06:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>Жадан и собаки &quot;Мадонна&quot; 2019 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201127/2660630.mp3</link>
+      <description>Жадан и собаки &quot;Мадонна&quot; 2019 рік</description>
+      <pubDate>Fri, 27 Nov 2020 18:06:01 +0000</pubDate>
+      <dc:date>2020-11-27T18:06:01+00:00</dc:date>
+    </item>
+    <item>
+      <title>Христина Соловій &quot;Любий друг&quot; 2018</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201120/2654419.mp3</link>
+      <description>Христина Соловій &quot;Любий друг&quot; 2018</description>
+      <pubDate>Fri, 20 Nov 2020 18:06:01 +0000</pubDate>
+      <dc:date>2020-11-20T18:06:01+00:00</dc:date>
+    </item>
+    <item>
+      <title>Фіолет «Аврора» 2018 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201113/2649375.mp3</link>
+      <description>Фіолет «Аврора» 2018 ч.2</description>
+      <pubDate>Fri, 13 Nov 2020 18:31:15 +0000</pubDate>
+      <dc:date>2020-11-13T18:31:15+00:00</dc:date>
+    </item>
+    <item>
+      <title>Фіолет «Аврора» 2018 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201113/2649309.mp3</link>
+      <description>Фіолет «Аврора» 2018 ч.1</description>
+      <pubDate>Fri, 13 Nov 2020 18:06:02 +0000</pubDate>
+      <dc:date>2020-11-13T18:06:02+00:00</dc:date>
+    </item>
+    <item>
+      <title>The Hardkiss &quot;Залізна ластівка&quot; 2018 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201106/2641542.mp3</link>
+      <description>The Hardkiss &quot;Залізна ластівка&quot; 2018 рік</description>
+      <pubDate>Fri, 06 Nov 2020 18:05:53 +0000</pubDate>
+      <dc:date>2020-11-06T18:05:53+00:00</dc:date>
+    </item>
+    <item>
+      <title>Джамала &quot;Крила&quot; 2018 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201030/2635315.mp3</link>
+      <description>Джамала &quot;Крила&quot; 2018 рік</description>
+      <pubDate>Fri, 30 Oct 2020 18:05:53 +0000</pubDate>
+      <dc:date>2020-10-30T18:05:53+00:00</dc:date>
+    </item>
+    <item>
+      <title>Димна суміш &quot;В країні ілюзій&quot; 2008 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201023/2628889.mp3</link>
+      <description>Димна суміш &quot;В країні ілюзій&quot; 2008 рік ч.2</description>
+      <pubDate>Fri, 23 Oct 2020 18:31:19 +0000</pubDate>
+      <dc:date>2020-10-23T18:31:19+00:00</dc:date>
+    </item>
+    <item>
+      <title>Димна суміш &quot;В країні ілюзій&quot; 2008 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201023/2628823.mp3</link>
+      <description>Димна суміш &quot;В країні ілюзій&quot; 2008 рік ч.1</description>
+      <pubDate>Fri, 23 Oct 2020 18:06:01 +0000</pubDate>
+      <dc:date>2020-10-23T18:06:01+00:00</dc:date>
+    </item>
+    <item>
+      <title>&quot;5'nizza&quot; альбом &quot;Пятница&quot; 2003 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201016/2621104.mp3</link>
+      <description>&quot;5'nizza&quot; альбом &quot;Пятница&quot; 2003 рік</description>
+      <pubDate>Fri, 16 Oct 2020 18:06:04 +0000</pubDate>
+      <dc:date>2020-10-16T18:06:04+00:00</dc:date>
+    </item>
+    <item>
+      <title>Катя Чілі &quot;Русалки in da House&quot; 1998 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201009/2616399.mp3</link>
+      <description>Катя Чілі &quot;Русалки in da House&quot; 1998 рік ч.2</description>
+      <pubDate>Fri, 09 Oct 2020 18:28:58 +0000</pubDate>
+      <dc:date>2020-10-09T18:28:58+00:00</dc:date>
+    </item>
+    <item>
+      <title>Катя Чілі &quot;Русалки in da House&quot; 1998 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201009/2616333.mp3</link>
+      <description>Катя Чілі &quot;Русалки in da House&quot; 1998 рік ч.1</description>
+      <pubDate>Fri, 09 Oct 2020 18:06:03 +0000</pubDate>
+      <dc:date>2020-10-09T18:06:03+00:00</dc:date>
+    </item>
+    <item>
+      <title>Гурт СТЕП &quot;Ти не пожалкуєш&quot; 1997 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201002/2614876.mp3</link>
+      <description>Гурт СТЕП &quot;Ти не пожалкуєш&quot; 1997 рік ч.2</description>
+      <pubDate>Fri, 02 Oct 2020 18:25:35 +0000</pubDate>
+      <dc:date>2020-10-02T18:25:35+00:00</dc:date>
+    </item>
+    <item>
+      <title>Гурт СТЕП &quot;Ти не пожалкуєш&quot; 1997 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20201002/2608476.mp3</link>
+      <description>Гурт СТЕП &quot;Ти не пожалкуєш&quot; 1997 рік ч.1</description>
+      <pubDate>Fri, 02 Oct 2020 18:05:54 +0000</pubDate>
+      <dc:date>2020-10-02T18:05:54+00:00</dc:date>
+    </item>
+    <item>
+      <title>Брати Гадюкины &quot;Все чьотко&quot; 1989 рік ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200925/2602663.mp3</link>
+      <description>Брати Гадюкины &quot;Все чьотко&quot; 1989 рік ч.2</description>
+      <pubDate>Fri, 25 Sep 2020 18:31:19 +0000</pubDate>
+      <dc:date>2020-09-25T18:31:19+00:00</dc:date>
+    </item>
+    <item>
+      <title>Брати Гадюкины &quot;Все чьотко&quot; 1989 рік ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200925/2602597.mp3</link>
+      <description>Брати Гадюкины &quot;Все чьотко&quot; 1989 рік ч.1</description>
+      <pubDate>Fri, 25 Sep 2020 18:06:03 +0000</pubDate>
+      <dc:date>2020-09-25T18:06:03+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Козак Систем, альбом “Не моя” 2018</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200821/2571963.mp3</link>
+      <description>
+	Козак Систем, альбом “Не моя” 2018</description>
+      <pubDate>Fri, 21 Aug 2020 21:00:10 +0000</pubDate>
+      <dc:date>2020-08-21T21:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>Оторвальд, альбом “Ти Є”– 2014</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200814/2566561.mp3</link>
+      <description>Оторвальд, альбом “Ти Є”– 2014</description>
+      <pubDate>Fri, 14 Aug 2020 21:00:10 +0000</pubDate>
+      <dc:date>2020-08-14T21:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	ВУЗВ, альбом “Планове засідання” 1997</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200724/2549482.mp3</link>
+      <description>
+	ВУЗВ, альбом “Планове засідання” 1997</description>
+      <pubDate>Fri, 24 Jul 2020 21:00:10 +0000</pubDate>
+      <dc:date>2020-07-24T21:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>Олександр Пономарьов, альбом “З ранку до ночі”   1996</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200717/2547329.mp3</link>
+      <description>Олександр Пономарьов, альбом “З ранку до ночі”   1996</description>
+      <pubDate>Fri, 17 Jul 2020 21:00:10 +0000</pubDate>
+      <dc:date>2020-07-17T21:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>Без обмежень (5 хвилин)2017 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200612/2518480.mp3</link>
+      <description>Без обмежень (5 хвилин)2017 ч.2</description>
+      <pubDate>Fri, 12 Jun 2020 18:32:56 +0000</pubDate>
+      <dc:date>2020-06-12T18:32:56+00:00</dc:date>
+    </item>
+    <item>
+      <title>Без обмежень (5 хвилин)2017 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200612/2518416.mp3</link>
+      <description>Без обмежень (5 хвилин)2017 ч.1</description>
+      <pubDate>Fri, 12 Jun 2020 18:06:03 +0000</pubDate>
+      <dc:date>2020-06-12T18:06:03+00:00</dc:date>
+    </item>
+    <item>
+      <title>Даха Браха (Шлях)2016 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200605/2510893.mp3</link>
+      <description>Даха Браха (Шлях)2016 ч.2</description>
+      <pubDate>Fri, 05 Jun 2020 18:28:32 +0000</pubDate>
+      <dc:date>2020-06-05T18:28:32+00:00</dc:date>
+    </item>
+    <item>
+      <title>Даха Браха (Шлях)2016 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200605/2510829.mp3</link>
+      <description>Даха Браха (Шлях)2016 ч.1</description>
+      <pubDate>Fri, 05 Jun 2020 18:00:10 +0000</pubDate>
+      <dc:date>2020-06-05T18:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>Антитіла, альбом “Сонце” 2016 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200529/2506197.mp3</link>
+      <description>Антитіла, альбом “Сонце” 2016 ч.2</description>
+      <pubDate>Fri, 29 May 2020 18:31:03 +0000</pubDate>
+      <dc:date>2020-05-29T18:31:03+00:00</dc:date>
+    </item>
+    <item>
+      <title>Антитіла, альбом “Сонце” 2016 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200529/2506133.mp3</link>
+      <description>Антитіла, альбом “Сонце” 2016 ч.1</description>
+      <pubDate>Fri, 29 May 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-05-29T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Оторвальд, альбом “Ти Є”– 2014 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200515/2493877.mp3</link>
+      <description>Оторвальд, альбом “Ти Є”– 2014 ч.2</description>
+      <pubDate>Fri, 15 May 2020 18:33:56 +0000</pubDate>
+      <dc:date>2020-05-15T18:33:56+00:00</dc:date>
+    </item>
+    <item>
+      <title>Оторвальд, альбом “Ти Є”– 2014 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200515/2493811.mp3</link>
+      <description>Оторвальд, альбом “Ти Є”– 2014 ч.1</description>
+      <pubDate>Fri, 15 May 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-05-15T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Гудімов, альбом “Монополія” 2007 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200508/2488171.mp3</link>
+      <description>Гудімов, альбом “Монополія” 2007 ч.2</description>
+      <pubDate>Fri, 08 May 2020 18:30:21 +0000</pubDate>
+      <dc:date>2020-05-08T18:30:21+00:00</dc:date>
+    </item>
+    <item>
+      <title>Скай (Те що треба) – 2006</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200501/2484504.mp3</link>
+      <description>Скай (Те що треба) – 2006</description>
+      <pubDate>Fri, 01 May 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-05-01T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Лама (Мені так треба) – 2006</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200424/2477231.mp3</link>
+      <description>
+	Лама (Мені так треба) – 2006</description>
+      <pubDate>Fri, 24 Apr 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-04-24T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Крихітка Цахес (На першому місці)– 2005</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200410/2467631.mp3</link>
+      <description>
+	Крихітка Цахес (На першому місці)– 2005</description>
+      <pubDate>Fri, 10 Apr 2020 18:30:31 +0000</pubDate>
+      <dc:date>2020-04-10T18:30:31+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Крихітка Цахес (На першому місці)– 2005</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200410/2467565.mp3</link>
+      <description>
+	Крихітка Цахес (На першому місці)– 2005</description>
+      <pubDate>Fri, 10 Apr 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-04-10T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Моторолла, альбом “Шо кому не ясно” 2005</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200403/2462087.mp3</link>
+      <description>
+	Моторолла, альбом “Шо кому не ясно” 2005</description>
+      <pubDate>Fri, 03 Apr 2020 18:34:19 +0000</pubDate>
+      <dc:date>2020-04-03T18:34:19+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Моторолла, альбом “Шо кому не ясно” 2005</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200403/2462021.mp3</link>
+      <description>
+	Моторолла, альбом “Шо кому не ясно” 2005</description>
+      <pubDate>Fri, 03 Apr 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-04-03T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	ТНМК, альбом “Пожежі міста Вавілон” 2004</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200327/2453812.mp3</link>
+      <description>
+	ТНМК, альбом “Пожежі міста Вавілон” 2004</description>
+      <pubDate>Fri, 27 Mar 2020 18:32:47 +0000</pubDate>
+      <dc:date>2020-03-27T18:32:47+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	ТНМК, альбом “Пожежі міста Вавілон” 2004</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200327/2453742.mp3</link>
+      <description>
+	ТНМК, альбом “Пожежі міста Вавілон” 2004</description>
+      <pubDate>Fri, 27 Mar 2020 18:06:59 +0000</pubDate>
+      <dc:date>2020-03-27T18:06:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Друга Ріка, альбом “Два”  2003</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200320/2447919.mp3</link>
+      <description>Друга Ріка, альбом “Два”  2003</description>
+      <pubDate>Fri, 20 Mar 2020 18:07:00 +0000</pubDate>
+      <dc:date>2020-03-20T18:07:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Тартак, альбом “Демографічний вибух” 2001 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200313/2444815.mp3</link>
+      <description>
+	Тартак, альбом “Демографічний вибух” 2001 рік</description>
+      <pubDate>Fri, 13 Mar 2020 18:32:50 +0000</pubDate>
+      <dc:date>2020-03-13T18:32:50+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Тартак, альбом “Демографічний вибух” 2001 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200313/2444745.mp3</link>
+      <description>
+	Тартак, альбом “Демографічний вибух” 2001 рік</description>
+      <pubDate>Fri, 13 Mar 2020 18:06:06 +0000</pubDate>
+      <dc:date>2020-03-13T18:06:06+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Океан Єльзи, альбом “Янанебібув” – 2000 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200306/2438981.mp3</link>
+      <description>
+	Океан Єльзи, альбом “Янанебібув” – 2000 рік</description>
+      <pubDate>Fri, 06 Mar 2020 18:34:15 +0000</pubDate>
+      <dc:date>2020-03-06T18:34:15+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Океан Єльзи, альбом “Янанебібув” – 2000 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200306/2438911.mp3</link>
+      <description>
+	Океан Єльзи, альбом “Янанебібув” – 2000 рік</description>
+      <pubDate>Fri, 06 Mar 2020 18:03:59 +0000</pubDate>
+      <dc:date>2020-03-06T18:03:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Мандри, альбом «Романсеро про ніжну королеву» 1999 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200228/2434783.mp3</link>
+      <description>Мандри, альбом «Романсеро про ніжну королеву» 1999 ч.2</description>
+      <pubDate>Fri, 28 Feb 2020 18:30:34 +0000</pubDate>
+      <dc:date>2020-02-28T18:30:34+00:00</dc:date>
+    </item>
+    <item>
+      <title>Мандри, альбом «Романсеро про ніжну королеву» 1999 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200228/2434713.mp3</link>
+      <description>Мандри, альбом «Романсеро про ніжну королеву» 1999 ч.1</description>
+      <pubDate>Fri, 28 Feb 2020 18:05:32 +0000</pubDate>
+      <dc:date>2020-02-28T18:05:32+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Юлія Лорд, альбом “Танець душ” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200221/2427105.mp3</link>
+      <description>
+	Юлія Лорд, альбом “Танець душ” 1998</description>
+      <pubDate>Fri, 21 Feb 2020 18:34:13 +0000</pubDate>
+      <dc:date>2020-02-21T18:34:13+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Юлія Лорд, альбом “Танець душ” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200221/2427035.mp3</link>
+      <description>
+	Юлія Лорд, альбом “Танець душ” 1998</description>
+      <pubDate>Fri, 21 Feb 2020 18:05:39 +0000</pubDate>
+      <dc:date>2020-02-21T18:05:39+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Руслана, альбом “Мить весни” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200214/2421961.mp3</link>
+      <description>
+	Руслана, альбом “Мить весни” 1998</description>
+      <pubDate>Fri, 14 Feb 2020 18:33:26 +0000</pubDate>
+      <dc:date>2020-02-14T18:33:26+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Руслана, альбом “Мить весни” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200214/2421891.mp3</link>
+      <description>
+	Руслана, альбом “Мить весни” 1998</description>
+      <pubDate>Fri, 14 Feb 2020 18:05:57 +0000</pubDate>
+      <dc:date>2020-02-14T18:05:57+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	The Вйо, альбом “Вироби з пластмаси” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200207/2416009.mp3</link>
+      <description>
+	The Вйо, альбом “Вироби з пластмаси” 1998</description>
+      <pubDate>Fri, 07 Feb 2020 18:30:57 +0000</pubDate>
+      <dc:date>2020-02-07T18:30:57+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	The Вйо, альбом “Вироби з пластмаси” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200207/2415939.mp3</link>
+      <description>
+	The Вйо, альбом “Вироби з пластмаси” 1998</description>
+      <pubDate>Fri, 07 Feb 2020 18:05:50 +0000</pubDate>
+      <dc:date>2020-02-07T18:05:50+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Віктор Павлік, альбом “Шикидим” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200131/2413311.mp3</link>
+      <description>
+	Віктор Павлік, альбом “Шикидим” 1998</description>
+      <pubDate>Fri, 31 Jan 2020 18:29:52 +0000</pubDate>
+      <dc:date>2020-01-31T18:29:52+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Віктор Павлік, альбом “Шикидим” 1998</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200131/2413241.mp3</link>
+      <description>
+	Віктор Павлік, альбом “Шикидим” 1998</description>
+      <pubDate>Fri, 31 Jan 2020 18:06:02 +0000</pubDate>
+      <dc:date>2020-01-31T18:06:02+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	ВУЗВ, альбом “Планове засідання” 1997</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200124/2407107.mp3</link>
+      <description>
+	ВУЗВ, альбом “Планове засідання” 1997</description>
+      <pubDate>Fri, 24 Jan 2020 18:04:38 +0000</pubDate>
+      <dc:date>2020-01-24T18:04:38+00:00</dc:date>
+    </item>
+    <item>
+      <title>Ель Кравчук, альбом “Нічий” 1997 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200117/2401160.mp3</link>
+      <description>Ель Кравчук, альбом “Нічий” 1997 ч.2</description>
+      <pubDate>Fri, 17 Jan 2020 18:29:52 +0000</pubDate>
+      <dc:date>2020-01-17T18:29:52+00:00</dc:date>
+    </item>
+    <item>
+      <title>Ель Кравчук, альбом “Нічий” 1997 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200117/2401089.mp3</link>
+      <description>Ель Кравчук, альбом “Нічий” 1997 ч.1</description>
+      <pubDate>Fri, 17 Jan 2020 18:05:50 +0000</pubDate>
+      <dc:date>2020-01-17T18:05:50+00:00</dc:date>
+    </item>
+    <item>
+      <title>Табула Раса, альбом “Сказка про май” 1997 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200110/2399837.mp3</link>
+      <description>Табула Раса, альбом “Сказка про май” 1997 ч.2</description>
+      <pubDate>Fri, 10 Jan 2020 18:28:35 +0000</pubDate>
+      <dc:date>2020-01-10T18:28:35+00:00</dc:date>
+    </item>
+    <item>
+      <title>Табула Раса, альбом “Сказка про май” 1997 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200110/2399766.mp3</link>
+      <description>Табула Раса, альбом “Сказка про май” 1997 ч.1</description>
+      <pubDate>Fri, 10 Jan 2020 18:00:10 +0000</pubDate>
+      <dc:date>2020-01-10T18:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>Аква Віта, альбом “А тепер усе інакше” 1997 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200103/2396743.mp3</link>
+      <description>Аква Віта, альбом “А тепер усе інакше” 1997 ч.2</description>
+      <pubDate>Fri, 03 Jan 2020 18:22:44 +0000</pubDate>
+      <dc:date>2020-01-03T18:22:44+00:00</dc:date>
+    </item>
+    <item>
+      <title>Аква Віта, альбом “А тепер усе інакше” 1997 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200103/2390545.mp3</link>
+      <description>Аква Віта, альбом “А тепер усе інакше” 1997 ч.1</description>
+      <pubDate>Fri, 03 Jan 2020 18:00:10 +0000</pubDate>
+      <dc:date>2020-01-03T18:00:10+00:00</dc:date>
+    </item>
+    <item>
+      <title>Воплі Відоплясова, альбом “Музіка” 1997 </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191227/2389370.mp3</link>
+      <description>Воплі Відоплясова, альбом “Музіка” 1997 </description>
+      <pubDate>Fri, 27 Dec 2019 18:06:25 +0000</pubDate>
+      <dc:date>2019-12-27T18:06:25+00:00</dc:date>
+    </item>
+    <item>
+      <title>Олександр Пономарьов, альбом “З ранку до ночі” 1996</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191220/2382095.mp3</link>
+      <description>Олександр Пономарьов, альбом “З ранку до ночі” 1996</description>
+      <pubDate>Fri, 20 Dec 2019 18:05:30 +0000</pubDate>
+      <dc:date>2019-12-20T18:05:30+00:00</dc:date>
+    </item>
+    <item>
+      <title>Скрябін, альбом “Казки” 1996 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191213/2378797.mp3</link>
+      <description>Скрябін, альбом “Казки” 1996 ч.2</description>
+      <pubDate>Fri, 13 Dec 2019 18:32:50 +0000</pubDate>
+      <dc:date>2019-12-13T18:32:50+00:00</dc:date>
+    </item>
+    <item>
+      <title>Скрябін, альбом “Казки” 1996 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191213/2378733.mp3</link>
+      <description>Скрябін, альбом “Казки” 1996 ч.1</description>
+      <pubDate>Fri, 13 Dec 2019 18:03:44 +0000</pubDate>
+      <dc:date>2019-12-13T18:03:44+00:00</dc:date>
+    </item>
+    <item>
+      <title>Плач Єремії, альбом &quot;Най буде все, як є&quot; 1995</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191206/2374025.mp3</link>
+      <description>Плач Єремії, альбом &quot;Най буде все, як є&quot; 1995</description>
+      <pubDate>Fri, 06 Dec 2019 18:06:03 +0000</pubDate>
+      <dc:date>2019-12-06T18:06:03+00:00</dc:date>
+    </item>
+    <item>
+      <title>Марина Одольська, альбом &quot;Марина Одольська&quot; 1995 ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191129/2369089.mp3</link>
+      <description>Марина Одольська, альбом &quot;Марина Одольська&quot; 1995 ч.2</description>
+      <pubDate>Fri, 29 Nov 2019 18:31:21 +0000</pubDate>
+      <dc:date>2019-11-29T18:31:21+00:00</dc:date>
+    </item>
+    <item>
+      <title>Марина Одольська, альбом &quot;Марина Одольська&quot; 1995 ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191129/2369018.mp3</link>
+      <description>Марина Одольська, альбом &quot;Марина Одольська&quot; 1995 ч.1</description>
+      <pubDate>Fri, 29 Nov 2019 18:06:37 +0000</pubDate>
+      <dc:date>2019-11-29T18:06:37+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	&quot;Скрябін&quot;, альбом &quot;Птахи&quot; 1995</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191122/2363778.mp3</link>
+      <description>
+	&quot;Скрябін&quot;, альбом &quot;Птахи&quot; 1995</description>
+      <pubDate>Fri, 22 Nov 2019 18:05:55 +0000</pubDate>
+      <dc:date>2019-11-22T18:05:55+00:00</dc:date>
+    </item>
+    <item>
+      <title>Пікардійська терція, альбом &quot;Пікардійська терція&quot; 1994 р. ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191115/2362531.mp3</link>
+      <description>Пікардійська терція, альбом &quot;Пікардійська терція&quot; 1994 р. ч.2</description>
+      <pubDate>Fri, 15 Nov 2019 18:33:59 +0000</pubDate>
+      <dc:date>2019-11-15T18:33:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>Пікардійська терція, альбом &quot;Пікардійська терція&quot; 1994 р. ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191115/2362460.mp3</link>
+      <description>Пікардійська терція, альбом &quot;Пікардійська терція&quot; 1994 р. ч.1</description>
+      <pubDate>Fri, 15 Nov 2019 18:05:58 +0000</pubDate>
+      <dc:date>2019-11-15T18:05:58+00:00</dc:date>
+    </item>
+    <item>
+      <title>Марія Бурмака, альбом &quot;Лишається надія&quot; 1994</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191108/2354579.mp3</link>
+      <description>Марія Бурмака, альбом &quot;Лишається надія&quot; 1994</description>
+      <pubDate>Fri, 08 Nov 2019 18:06:35 +0000</pubDate>
+      <dc:date>2019-11-08T18:06:35+00:00</dc:date>
+    </item>
+    <item>
+      <title>Брати Гадюкіни, альбом “Було не любити” 1994</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191101/2347653.mp3</link>
+      <description>Брати Гадюкіни, альбом “Було не любити” 1994</description>
+      <pubDate>Fri, 01 Nov 2019 18:05:41 +0000</pubDate>
+      <dc:date>2019-11-01T18:05:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Нічлава, альбом “Вставай, сонце” 1993</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191025/2342768.mp3</link>
+      <description>Нічлава, альбом “Вставай, сонце” 1993</description>
+      <pubDate>Fri, 25 Oct 2019 18:06:41 +0000</pubDate>
+      <dc:date>2019-10-25T18:06:41+00:00</dc:date>
+    </item>
+    <item>
+      <title>Мертвий півень, альбом &quot;Ето&quot; 1992</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191018/2337705.mp3</link>
+      <description>Мертвий півень, альбом &quot;Ето&quot; 1992</description>
+      <pubDate>Fri, 18 Oct 2019 18:06:32 +0000</pubDate>
+      <dc:date>2019-10-18T18:06:32+00:00</dc:date>
+    </item>
+    <item>
+      <title>Віка Врадій, альбом &quot;Мамо, я дурна&quot; 1989</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191011/2336816.mp3</link>
+      <description>Віка Врадій, альбом &quot;Мамо, я дурна&quot; 1989</description>
+      <pubDate>Fri, 11 Oct 2019 18:05:12 +0000</pubDate>
+      <dc:date>2019-10-11T18:05:12+00:00</dc:date>
+    </item>
+    <item>
+      <title>Руся, альбом &quot;Руся&quot; 1989</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20191004/2331390.mp3</link>
+      <description>Руся, альбом &quot;Руся&quot; 1989</description>
+      <pubDate>Fri, 04 Oct 2019 18:06:04 +0000</pubDate>
+      <dc:date>2019-10-04T18:06:04+00:00</dc:date>
+    </item>
+    <item>
+      <title>Vivienne Mort диск &quot;Досвід&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190531/2242659.mp3</link>
+      <description>Vivienne Mort диск &quot;Досвід&quot;</description>
+      <pubDate>Fri, 31 May 2019 18:05:59 +0000</pubDate>
+      <dc:date>2019-05-31T18:05:59+00:00</dc:date>
+    </item>
+    <item>
+      <title>«Не Моя» — третій студійний альбом українського гурту «Kozak System»</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190524/2235894.mp3</link>
+      <description>«Не Моя» — третій студійний альбом українського гурту «Kozak System»</description>
+      <pubDate>Fri, 24 May 2019 18:05:12 +0000</pubDate>
+      <dc:date>2019-05-24T18:05:12+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Гудімов. Альбом &quot;Монополія&quot;. 2007 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190517/2231123.mp3</link>
+      <description>
+	Гудімов. Альбом &quot;Монополія&quot;. 2007 рік</description>
+      <pubDate>Fri, 17 May 2019 18:05:44 +0000</pubDate>
+      <dc:date>2019-05-17T18:05:44+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Антитіла. Альбом &quot;Сонце&quot;. 2016</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190510/2225693.mp3</link>
+      <description>
+	Антитіла. Альбом &quot;Сонце&quot;. 2016</description>
+      <pubDate>Fri, 10 May 2019 18:05:35 +0000</pubDate>
+      <dc:date>2019-05-10T18:05:35+00:00</dc:date>
+    </item>
+    <item>
+      <title>Один в каное. Альбом &quot;Один в каное&quot;.2016</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190503/2220815.mp3</link>
+      <description>Один в каное. Альбом &quot;Один в каное&quot;.2016</description>
+      <pubDate>Fri, 03 May 2019 18:06:00 +0000</pubDate>
+      <dc:date>2019-05-03T18:06:00+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Бумбокс. Альбом &quot;Family Business&quot;. 2006 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190426/2213250.mp3</link>
+      <description>
+	Бумбокс. Альбом &quot;Family Business&quot;. 2006 рік</description>
+      <pubDate>Fri, 26 Apr 2019 18:06:04 +0000</pubDate>
+      <dc:date>2019-04-26T18:06:04+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	ТНМК. Диск &quot;Пожежі міста Вавілон&quot;. 2004 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190419/2208818.mp3</link>
+      <description>
+	ТНМК. Диск &quot;Пожежі міста Вавілон&quot;. 2004 рік</description>
+      <pubDate>Fri, 19 Apr 2019 18:06:19 +0000</pubDate>
+      <dc:date>2019-04-19T18:06:19+00:00</dc:date>
+    </item>
+    <item>
+      <title>
+	Тартак. Альбом &quot;Демографічний вибух&quot;. 2001 рік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20190412/2202537.mp3</link>
+      <description>
+	Тартак. Альбом &quot;Демографічний вибух&quot;. 2001 рік</description>
+      <pubDate>Fri, 12 Apr 2019 18:05:48 +0000</pubDate>
+      <dc:date>2019-04-12T18:05:48+00:00</dc:date>
+    </item>
+    <dc:date>2023-11-13T12:12:45+00:00</dc:date>
+  </channel>
+</rss>
