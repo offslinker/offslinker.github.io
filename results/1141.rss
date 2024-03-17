@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Мережа Незалежність</title>
+    <link>https://ukr.radio/prog.html?id=1141</link>
+    <description>Програма про відомі, або, навпаки, маловідомі спецоперації та миротворчі місії з часів незалежності України. Це унікальна добірка ексклюзивних розповідей безпосередньо учасників тих подій: цікаві факти про виконані спецзавдання, особливості їхнього здійснення і внутрішню організацію спецоперацій чи місій і їх вплив на хід історичних подій.</description>
+    <pubDate>Sun, 17 Mar 2024 00:57:44 +0000</pubDate>
+    <item>
+      <title>&quot;Вивозили і живих, і мертвих&quot;. Як ЗСУ врятували в Абхазії майже 8 тисяч біженців.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20240312/3783707.mp3</link>
+      <description>&quot;Вивозили і живих, і мертвих&quot;. Як ЗСУ врятували в Абхазії майже 8 тисяч біженців.</description>
+      <pubDate>Tue, 12 Mar 2024 10:07:11 +0000</pubDate>
+      <dc:date>2024-03-12T10:07:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154331_65c11b9b7ddab.png"/>
+    </item>
+    <item>
+      <title>Серія 4. &quot;Врятували більше 5 тисяч людей&quot;. Українці миротворці у Боснії і Герцеговині.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20240227/3769193.mp3</link>
+      <description>Серія 4. &quot;Врятували більше 5 тисяч людей&quot;. Українці миротворці у Боснії і Герцеговині.</description>
+      <pubDate>Tue, 27 Feb 2024 10:08:21 +0000</pubDate>
+      <dc:date>2024-02-27T10:08:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154331_65c11b9b7ddab.png"/>
+    </item>
+    <item>
+      <title>Серія 3. &quot;Ми воювали в Абхазії за Україну&quot;. Українські добровольці у Грузії, 1993 рік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20240220/3760682.mp3</link>
+      <description>Серія 3. &quot;Ми воювали в Абхазії за Україну&quot;. Українські добровольці у Грузії, 1993 рік.</description>
+      <pubDate>Tue, 20 Feb 2024 10:07:10 +0000</pubDate>
+      <dc:date>2024-02-20T10:07:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154331_65c11b9b7ddab.png"/>
+    </item>
+    <item>
+      <title>Серія 2. &quot;Вивозили і живих, і мертвих&quot;. Як ЗСУ врятували в Абхазії майже 8 тисяч біженців.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20240213/3749986.mp3</link>
+      <description>Серія 2. &quot;Вивозили і живих, і мертвих&quot;. Як ЗСУ врятували в Абхазії майже 8 тисяч біженців.</description>
+      <pubDate>Tue, 13 Feb 2024 10:08:24 +0000</pubDate>
+      <dc:date>2024-02-13T10:08:24+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154331_65c11b9b7ddab.png"/>
+    </item>
+    <item>
+      <title>Серія 1. &quot;Я відмовився виконувати наказ росіянина&quot;. Повстання українських моряків на Чорноморському флоті 1992 року.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20240206/3741251.mp3</link>
+      <description>Серія 1. &quot;Я відмовився виконувати наказ росіянина&quot;. Повстання українських моряків на Чорноморському флоті 1992 року.</description>
+      <pubDate>Tue, 06 Feb 2024 10:06:59 +0000</pubDate>
+      <dc:date>2024-02-06T10:06:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154331_65c11b9b7ddab.png"/>
+    </item>
+    <dc:date>2024-03-17T00:57:44+00:00</dc:date>
+  </channel>
+</rss>
