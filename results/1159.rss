@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>До дня народження. Шевченко. Відомі та маловідомі факти</title>
+    <link>https://ukr.radio/prog.html?id=1159</link>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2024 10:04:29 +0000</pubDate>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3790880.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 10:40:39 +0000</pubDate>
+      <dc:date>2024-03-09T10:40:39+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3789818.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 10:15:47 +0000</pubDate>
+      <dc:date>2024-03-09T10:15:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3789817.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 09:41:33 +0000</pubDate>
+      <dc:date>2024-03-09T09:41:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3789815.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 09:14:14 +0000</pubDate>
+      <dc:date>2024-03-09T09:14:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3789812.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 08:41:31 +0000</pubDate>
+      <dc:date>2024-03-09T08:41:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3781883.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 08:16:33 +0000</pubDate>
+      <dc:date>2024-03-09T08:16:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3789806.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 07:40:02 +0000</pubDate>
+      <dc:date>2024-03-09T07:40:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR5/20240309/3789797.mp3</link>
+      <description></description>
+      <pubDate>Sat, 09 Mar 2024 07:16:06 +0000</pubDate>
+      <dc:date>2024-03-09T07:16:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio"/>
+    </item>
+    <dc:date>2024-03-19T10:04:29+00:00</dc:date>
+  </channel>
+</rss>

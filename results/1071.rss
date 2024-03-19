@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Незалежність. Формула успіху</title>
+    <link>https://ukr.radio/prog.html?id=1071</link>
+    <description>Документальний радіопроєкт до Дня Незалежності України.
+
+Ми звикли думати, що десь завжди краще, десь прогресивніше, зручніше і комфортніше. І часто так і є. Але, після повномасштабного вторгнення, коли багато українців вимушено живуть в інших країнах, з&#39;ясовувалося, що в нас не все так погано, як ми думаємо. Більше того, українці побачили, що в багатьох галузях і напрямках інші країни готові на нас рівнятися і переймати наш досвід. Онлайн банківські послуги (про які в інших країнах лише чули), Дія, електронна демократія, онлайн відкриття/ закриття бізнесу, пільговий податковий період, електронний рецепт та онлайн запис до лікаря. Всього цього — вже давно звичного для нас — дуже часто не вистачає українцям за кордоном. А головне, українська армія стала однією з найсильніших і професійних в світі. Тож яка вона - Формула успіху України? З чого складається? Яких елементів не вистачає? Що допомагає нам, перемагати і на передовій і на технологічних фронтах.</description>
+    <pubDate>Tue, 19 Mar 2024 10:10:26 +0000</pubDate>
+    <item>
+      <title>&quot;Бізнес&quot;, 3 серія.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230824/3553608.mp3</link>
+      <description>&quot;Бізнес&quot;, 3 серія.</description>
+      <pubDate>Thu, 24 Aug 2023 10:36:46 +0000</pubDate>
+      <dc:date>2023-08-24T10:36:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724617_64e4ed89c582d.jpg"/>
+    </item>
+    <item>
+      <title>&quot;Держава у смартфоні&quot;, 1 серія.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230824/3553589.mp3</link>
+      <description>&quot;Держава у смартфоні&quot;, 1 серія.</description>
+      <pubDate>Thu, 24 Aug 2023 10:00:19 +0000</pubDate>
+      <dc:date>2023-08-24T10:00:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724617_64e4ed89c582d.jpg"/>
+    </item>
+    <dc:date>2024-03-19T10:10:26+00:00</dc:date>
+  </channel>
+</rss>

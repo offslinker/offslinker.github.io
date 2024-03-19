@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Препаті Євробачення </title>
+    <link>https://ukr.radio/prog.html?id=1046</link>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2024 12:44:24 +0000</pubDate>
+    <item>
+      <title>Препаті фіналу Нацвідбору на Євробачення 2024.</title>
+      <link>https://ukr.radio</link>
+      <description>Препаті фіналу Нацвідбору на Євробачення 2024.</description>
+      <pubDate>Sat, 03 Feb 2024 17:00:13 +0000</pubDate>
+      <dc:date>2024-02-03T17:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683926073_645eac3959792.png"/>
+    </item>
+    <item>
+      <title>Препаті Євробачення 2023</title>
+      <link>https://ukr.radio</link>
+      <description>Препаті Євробачення 2023</description>
+      <pubDate>Sat, 13 May 2023 21:00:13 +0000</pubDate>
+      <dc:date>2023-05-13T21:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683926073_645eac3959792.png"/>
+    </item>
+    <dc:date>2024-03-19T12:44:24+00:00</dc:date>
+  </channel>
+</rss>
