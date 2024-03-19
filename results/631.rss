@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>У своїй тарілці</title>
+    <link>https://ukr.radio/prog.html?id=631</link>
+    <description>Не очікуйте чергового кулінарного радіо-шоу. Це погляд на історію та сучасність крізь нетипову призму — їжу. Наприклад, що про історію України може розповісти вафельний торт?</description>
+    <pubDate>Mon, 18 Mar 2024 08:55:47 +0000</pubDate>
+    <item>
+      <title>Південна Бессарабія. Гастрономічні історії та кулінарні скарби. Гість: Володимир Півторак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220218/3072134.mp3</link>
+      <description>Південна Бессарабія. Гастрономічні історії та кулінарні скарби. Гість: Володимир Півторак</description>
+      <pubDate>Fri, 18 Feb 2022 13:10:08 +0000</pubDate>
+      <dc:date>2022-02-18T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Розвиток гастротуризму та &quot;Маніфест української кухні&quot; шеф-кухарів України. Гості: Мар’яна Олеськів, Марина Ситник</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220211/3066414.mp3</link>
+      <description>Розвиток гастротуризму та &quot;Маніфест української кухні&quot; шеф-кухарів України. Гості: Мар’яна Олеськів, Марина Ситник</description>
+      <pubDate>Fri, 11 Feb 2022 13:10:08 +0000</pubDate>
+      <dc:date>2022-02-11T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Шкільне меню сьогодні. Все, що ви хотіли знати, але боялись запитати. Гостя — біологиня Дарка Озерна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220121/3046192.mp3</link>
+      <description>Шкільне меню сьогодні. Все, що ви хотіли знати, але боялись запитати. Гостя — біологиня Дарка Озерна</description>
+      <pubDate>Fri, 21 Jan 2022 13:10:08 +0000</pubDate>
+      <dc:date>2022-01-21T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Як святкують Василя на Закарпатті. Гість: Василь Коцан</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220114/3040108.mp3</link>
+      <description>Як святкують Василя на Закарпатті. Гість: Василь Коцан</description>
+      <pubDate>Fri, 14 Jan 2022 13:10:07 +0000</pubDate>
+      <dc:date>2022-01-14T13:10:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Побут і харчування в роки Великого терору. Гостя: Ніна Лапчинська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220112/3039629.mp3</link>
+      <description>Побут і харчування в роки Великого терору. Гостя: Ніна Лапчинська</description>
+      <pubDate>Wed, 12 Jan 2022 22:00:05 +0000</pubDate>
+      <dc:date>2022-01-12T22:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Різдво й Новий Рік у великому місті. Гість: Олексій Сокирко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211231/3029162.mp3</link>
+      <description>Різдво й Новий Рік у великому місті. Гість: Олексій Сокирко</description>
+      <pubDate>Fri, 31 Dec 2021 13:10:13 +0000</pubDate>
+      <dc:date>2021-12-31T13:10:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Споживчі практики до свят, через призму історії і гастрономії”: історик Мирослав Борисенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211224/3021937.mp3</link>
+      <description>Споживчі практики до свят, через призму історії і гастрономії”: історик Мирослав Борисенко</description>
+      <pubDate>Fri, 24 Dec 2021 13:10:14 +0000</pubDate>
+      <dc:date>2021-12-24T13:10:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Від Романа до Йордана. Традиції і смаки зимових свят в Україні. Гостя: Алла Дмитренко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211217/3014422.mp3</link>
+      <description>Від Романа до Йордана. Традиції і смаки зимових свят в Україні. Гостя: Алла Дмитренко</description>
+      <pubDate>Fri, 17 Dec 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-12-17T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Історія шкільного харчування в Україні. Гість - Олександр Міхно</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211210/3008764.mp3</link>
+      <description>Історія шкільного харчування в Україні. Гість - Олександр Міхно</description>
+      <pubDate>Fri, 10 Dec 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-12-10T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Ресторанна справа та гендерні стереотипи в Україні. Гостя: Тамара Марценюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211203/3002592.mp3</link>
+      <description>Ресторанна справа та гендерні стереотипи в Україні. Гостя: Тамара Марценюк</description>
+      <pubDate>Fri, 03 Dec 2021 13:10:09 +0000</pubDate>
+      <dc:date>2021-12-03T13:10:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Коли їжа - інструмент пізнання і мистецтва. Гості: Андрій Достлєв, Лія Достлєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211126/2995854.mp3</link>
+      <description>Коли їжа - інструмент пізнання і мистецтва. Гості: Андрій Достлєв, Лія Достлєва</description>
+      <pubDate>Fri, 26 Nov 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-11-26T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Кухня українських полярників. Гість: Алекс Заклецький</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211119/2988218.mp3</link>
+      <description>Кухня українських полярників. Гість: Алекс Заклецький</description>
+      <pubDate>Fri, 19 Nov 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-11-19T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Одещина гастрономічна. Гості: Дмитро Сікорський, Юлія Сущенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211112/2985087.mp3</link>
+      <description>Одещина гастрономічна. Гості: Дмитро Сікорський, Юлія Сущенко</description>
+      <pubDate>Fri, 12 Nov 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-11-12T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Сила гарбузів. Гостя: Дар&#39;я Анцибор</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211105/2976791.mp3</link>
+      <description>Сила гарбузів. Гостя: Дар&#39;я Анцибор</description>
+      <pubDate>Fri, 05 Nov 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-11-05T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Традиційна кухня Сумщини у проєкті “Сковорода. Гастробайки”. Гість: Денис Полак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211029/2972053.mp3</link>
+      <description>Традиційна кухня Сумщини у проєкті “Сковорода. Гастробайки”. Гість: Денис Полак</description>
+      <pubDate>Fri, 29 Oct 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-10-29T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Історії індустрії гостинності очима жінок. Гостя: Марія Банько</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211022/2963532.mp3</link>
+      <description>Історії індустрії гостинності очима жінок. Гостя: Марія Банько</description>
+      <pubDate>Fri, 22 Oct 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-10-22T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Висічені у камені, або чому та як з&#39;являються монументи їжі. Гостя: Олександра Гайдай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211015/2956934.mp3</link>
+      <description>Висічені у камені, або чому та як з&#39;являються монументи їжі. Гостя: Олександра Гайдай</description>
+      <pubDate>Fri, 15 Oct 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-10-15T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Традиції гостинності в Україні. Гостя: Марина Гримич</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211008/2950299.mp3</link>
+      <description>Традиції гостинності в Україні. Гостя: Марина Гримич</description>
+      <pubDate>Fri, 08 Oct 2021 13:10:10 +0000</pubDate>
+      <dc:date>2021-10-08T13:10:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Де ми їмо? Як карантин та робота з дому вплинула на нашу харчову поведінку. Погляд антрополога. Гостя: Тіна Полек</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211001/2946490.mp3</link>
+      <description>Де ми їмо? Як карантин та робота з дому вплинула на нашу харчову поведінку. Погляд антрополога. Гостя: Тіна Полек</description>
+      <pubDate>Fri, 01 Oct 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-10-01T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Будні та свята студентства серед. ХІХ ст. Гість:Тарас Самчук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210924/2940192.mp3</link>
+      <description>Будні та свята студентства серед. ХІХ ст. Гість:Тарас Самчук</description>
+      <pubDate>Fri, 24 Sep 2021 13:10:08 +0000</pubDate>
+      <dc:date>2021-09-24T13:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Кулінарна спадщина Поділля. Гостя - Олена Павлова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210910/2925580.mp3</link>
+      <description>Кулінарна спадщина Поділля. Гостя - Олена Павлова</description>
+      <pubDate>Fri, 10 Sep 2021 13:10:09 +0000</pubDate>
+      <dc:date>2021-09-10T13:10:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Пакистан: кулінарна мандрівка. Гостя: Дарія Анцибор</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210817/2904213.mp3</link>
+      <description>Пакистан: кулінарна мандрівка. Гостя: Дарія Анцибор</description>
+      <pubDate>Tue, 17 Aug 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-08-17T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Іван Франко: кулінарні традиції родини. Гості : Наталія та Богдан Тихолоз</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210810/2899480.mp3</link>
+      <description>Іван Франко: кулінарні традиції родини. Гості : Наталія та Богдан Тихолоз</description>
+      <pubDate>Tue, 10 Aug 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-08-10T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Промоція України у світі через культурні та дипломатичні заходи та її туристичний потенціал. Гості: Ярослав Ємельяненко, голова Асоціації чорнобильських туроператорів; Олена Мотузенко, експертка з винного та гастрономічного туризму, президентка національної мережі «Дороги вина та смаку України»</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210803/2891778.mp3</link>
+      <description>Промоція України у світі через культурні та дипломатичні заходи та її туристичний потенціал. Гості: Ярослав Ємельяненко, голова Асоціації чорнобильських туроператорів; Олена Мотузенко, експертка з винного та гастрономічного туризму, президентка національної мережі «Дороги вина та смаку України»</description>
+      <pubDate>Tue, 03 Aug 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-08-03T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Повсякденне життя євреїв під час Голокосту в Україні. Гостя: Софія Грачова, історикиня, наукова співробітниця Центру досліджень Голокосту Американського Меморіального Музею Голокосту </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210727/2885711.mp3</link>
+      <description>Повсякденне життя євреїв під час Голокосту в Україні. Гостя: Софія Грачова, історикиня, наукова співробітниця Центру досліджень Голокосту Американського Меморіального Музею Голокосту </description>
+      <pubDate>Tue, 27 Jul 2021 17:10:01 +0000</pubDate>
+      <dc:date>2021-07-27T17:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Сезони і смаки української кухні: традиції та інновації Гостя: Дарія Крікунова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210720/2880626.mp3</link>
+      <description>Сезони і смаки української кухні: традиції та інновації Гостя: Дарія Крікунова</description>
+      <pubDate>Tue, 20 Jul 2021 17:10:03 +0000</pubDate>
+      <dc:date>2021-07-20T17:10:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Вегетаріанство в Україні: минуле та сучасність. Гостя: Олена Пивоваренко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210713/2874681.mp3</link>
+      <description>Вегетаріанство в Україні: минуле та сучасність. Гостя: Олена Пивоваренко</description>
+      <pubDate>Tue, 13 Jul 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-07-13T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Місцевий продукт та традиційна їжа, загроза зникнення та шляхи збереження - Юлія Пітенко, Олена Мотузенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210706/2866156.mp3</link>
+      <description>Місцевий продукт та традиційна їжа, загроза зникнення та шляхи збереження - Юлія Пітенко, Олена Мотузенко</description>
+      <pubDate>Tue, 06 Jul 2021 17:10:05 +0000</pubDate>
+      <dc:date>2021-07-06T17:10:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Голод у СРСР 1930-ті роки і Україна. Гості: Ніколя Верт, французький історик та Валентина Стукалова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210629/2856209.mp3</link>
+      <description>Голод у СРСР 1930-ті роки і Україна. Гості: Ніколя Верт, французький історик та Валентина Стукалова</description>
+      <pubDate>Tue, 29 Jun 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-06-29T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Ресторанна справа та гендерні стереотипи в Україні. Гості: Тамара Марценюк, та Дарина-Марина Патюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210615/2844906.mp3</link>
+      <description>Ресторанна справа та гендерні стереотипи в Україні. Гості: Тамара Марценюк, та Дарина-Марина Патюк</description>
+      <pubDate>Tue, 15 Jun 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-06-15T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Гастрономічні традиції у родині Лесі Українки. Гостя - Тамара Скрипка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210601/2830224.mp3</link>
+      <description>Гастрономічні традиції у родині Лесі Українки. Гостя - Тамара Скрипка</description>
+      <pubDate>Tue, 01 Jun 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-06-01T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Сезони і смаки української кухні: традиції та інновації Гостя: Дарія Крікунова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210525/2824403.mp3</link>
+      <description>Сезони і смаки української кухні: традиції та інновації Гостя: Дарія Крікунова</description>
+      <pubDate>Tue, 25 May 2021 17:10:01 +0000</pubDate>
+      <dc:date>2021-05-25T17:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Їжа та історія кримськотатарського народу у ХІХ-ХХ ст. Олена Соболєва, історикиня, авторка книжки &quot;Кримськотатарська кухня&quot; </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210518/2817931.mp3</link>
+      <description>Їжа та історія кримськотатарського народу у ХІХ-ХХ ст. Олена Соболєва, історикиня, авторка книжки &quot;Кримськотатарська кухня&quot; </description>
+      <pubDate>Tue, 18 May 2021 17:10:01 +0000</pubDate>
+      <dc:date>2021-05-18T17:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Світ українського сиру: домашній, крафтовий, промисловий. Гість: Дмитро Чорнов </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210511/2813874.mp3</link>
+      <description>Світ українського сиру: домашній, крафтовий, промисловий. Гість: Дмитро Чорнов </description>
+      <pubDate>Tue, 11 May 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-05-11T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Великодні народні традиції. Гостя: Валентина Борисенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210504/2804521.mp3</link>
+      <description>Великодні народні традиції. Гостя: Валентина Борисенко</description>
+      <pubDate>Tue, 04 May 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-05-04T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title> Їжа у радянському кіно, непроговорені історії. Гостя: Олена Стяжкіна, докторка історичних наук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210427/2799866.mp3</link>
+      <description> Їжа у радянському кіно, непроговорені історії. Гостя: Олена Стяжкіна, докторка історичних наук</description>
+      <pubDate>Tue, 27 Apr 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-04-27T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Город у місті. Гості: ініціаторка створення спільноти &#39;Київ дружній до батьків та дітей&quot; Оля Мирцало; філософиня, журналістка на порталі UainKraków Аня Поляк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210420/2796508.mp3</link>
+      <description>Город у місті. Гості: ініціаторка створення спільноти &#39;Київ дружній до батьків та дітей&quot; Оля Мирцало; філософиня, журналістка на порталі UainKraków Аня Поляк</description>
+      <pubDate>Tue, 20 Apr 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-04-20T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Кулінарні мандри в Гетьманщину. Гість: Олексій Сокирко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210413/2786997.mp3</link>
+      <description>Кулінарні мандри в Гетьманщину. Гість: Олексій Сокирко</description>
+      <pubDate>Tue, 13 Apr 2021 17:09:45 +0000</pubDate>
+      <dc:date>2021-04-13T17:09:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Гастрономічні традиції Лівану. Марина Гримич</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210406/2779301.mp3</link>
+      <description>Гастрономічні традиції Лівану. Марина Гримич</description>
+      <pubDate>Tue, 06 Apr 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-04-06T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Українська кухня у світі. Як у різних країнах сприймають смаки та страви української кухні. Гість: Юрій Ковриженко, Аврора Огороднік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210330/2773151.mp3</link>
+      <description>Українська кухня у світі. Як у різних країнах сприймають смаки та страви української кухні. Гість: Юрій Ковриженко, Аврора Огороднік</description>
+      <pubDate>Tue, 30 Mar 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-03-30T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Англійські кулінарні традиції. Гостя: Люсі Варнава, шеф-кухарка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210323/2768471.mp3</link>
+      <description>Англійські кулінарні традиції. Гостя: Люсі Варнава, шеф-кухарка</description>
+      <pubDate>Tue, 23 Mar 2021 17:09:58 +0000</pubDate>
+      <dc:date>2021-03-23T17:09:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Українські дикороси та їх потенціал у гастрономічній сфері. Гостя: Юлія Красиленко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210316/2760419.mp3</link>
+      <description>Українські дикороси та їх потенціал у гастрономічній сфері. Гостя: Юлія Красиленко</description>
+      <pubDate>Tue, 16 Mar 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-03-16T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Гастрономічні традиції Масляної: історія та сучасність</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210308/2753076.mp3</link>
+      <description>Гастрономічні традиції Масляної: історія та сучасність</description>
+      <pubDate>Mon, 08 Mar 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-03-08T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Гастрономічні традиції у родині Лесі Українки. Гостя - Тамара Скрипка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210223/2744186.mp3</link>
+      <description>Гастрономічні традиції у родині Лесі Українки. Гостя - Тамара Скрипка</description>
+      <pubDate>Tue, 23 Feb 2021 17:09:54 +0000</pubDate>
+      <dc:date>2021-02-23T17:09:54+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Далекий чи близький Китай? Дізнаємось у розмові про китайські кулінарні традиції. Гості: Світлана Призинчук, Катерина Завертайло</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210216/2737407.mp3</link>
+      <description>Далекий чи близький Китай? Дізнаємось у розмові про китайські кулінарні традиції. Гості: Світлана Призинчук, Катерина Завертайло</description>
+      <pubDate>Tue, 16 Feb 2021 17:09:59 +0000</pubDate>
+      <dc:date>2021-02-16T17:09:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Їжа в місті: нова гастрономічна культура. Гостя: Владислава  Москалець</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210202/2724988.mp3</link>
+      <description>Їжа в місті: нова гастрономічна культура. Гостя: Владислава  Москалець</description>
+      <pubDate>Tue, 02 Feb 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-02-02T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>&quot;Соковиті цитати&quot; Їжа у творчості Карпенка-Карого. Гостя - Олена Гусейнова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210126/2718250.mp3</link>
+      <description>&quot;Соковиті цитати&quot; Їжа у творчості Карпенка-Карого. Гостя - Олена Гусейнова</description>
+      <pubDate>Tue, 26 Jan 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-01-26T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Безпечність харчових продуктів: сучасні підходи. Гості: Марія Тищенко, Людмила Чуркіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210119/2710632.mp3</link>
+      <description>Безпечність харчових продуктів: сучасні підходи. Гості: Марія Тищенко, Людмила Чуркіна</description>
+      <pubDate>Tue, 19 Jan 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-01-19T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Жіночий простір - кухня. Гостя - Олена Вілкова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210112/2705476.mp3</link>
+      <description>Жіночий простір - кухня. Гостя - Олена Вілкова</description>
+      <pubDate>Tue, 12 Jan 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-01-12T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Українське Різдво: традицій та трансформацій. Гостя - Олена Чебанюк, фольклористка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210105/2698354.mp3</link>
+      <description>Українське Різдво: традицій та трансформацій. Гостя - Олена Чебанюк, фольклористка</description>
+      <pubDate>Tue, 05 Jan 2021 17:10:00 +0000</pubDate>
+      <dc:date>2021-01-05T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Свята: час кулінарних випробувань. Гостя: Євгенія Кузнєцова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201229/2691390.mp3</link>
+      <description>Свята: час кулінарних випробувань. Гостя: Євгенія Кузнєцова</description>
+      <pubDate>Tue, 29 Dec 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-12-29T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>&quot;Як ми їли та про що мріяли у недалекому минулому”. Гостя: Ольга Карі</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201222/2686779.mp3</link>
+      <description>&quot;Як ми їли та про що мріяли у недалекому минулому”. Гостя: Ольга Карі</description>
+      <pubDate>Tue, 22 Dec 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-12-22T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>&quot;Смак свободи&quot; - українське кіно з кулінарними історіями&quot;. Гості - Наталія Тихолоз, Олена Моренцова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201215/2678272.mp3</link>
+      <description>&quot;Смак свободи&quot; - українське кіно з кулінарними історіями&quot;. Гості - Наталія Тихолоз, Олена Моренцова</description>
+      <pubDate>Tue, 15 Dec 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-12-15T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Смаки та традиції індійської кухні. Гостя: Ніна Антощенко, Адам Ховелл</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201208/2673118.mp3</link>
+      <description>Смаки та традиції індійської кухні. Гостя: Ніна Антощенко, Адам Ховелл</description>
+      <pubDate>Tue, 08 Dec 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-12-08T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Деколонізація та етнічні кухні колишніх колоній у Європі. Гість: Єгор Брайлян, історик, британіст</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201201/2665771.mp3</link>
+      <description>Деколонізація та етнічні кухні колишніх колоній у Європі. Гість: Єгор Брайлян, історик, британіст</description>
+      <pubDate>Tue, 01 Dec 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-12-01T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>1947 рік: рецепти виживання. Гостя: Наталія Ханенко Фрізен </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201124/2659537.mp3</link>
+      <description>1947 рік: рецепти виживання. Гостя: Наталія Ханенко Фрізен </description>
+      <pubDate>Tue, 24 Nov 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-11-24T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Студенти ХІХ ст., що їли, як розважались та навчались. Гостя: Тетяна Якусик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201117/2653555.mp3</link>
+      <description>Студенти ХІХ ст., що їли, як розважались та навчались. Гостя: Тетяна Якусик</description>
+      <pubDate>Tue, 17 Nov 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-11-17T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>Борщ: нові факти та історії. Гості: Сергій Леп’явко, Маріанна Душар</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201110/2647103.mp3</link>
+      <description>Борщ: нові факти та історії. Гості: Сергій Леп’явко, Маріанна Душар</description>
+      <pubDate>Tue, 10 Nov 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-11-10T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	“Не кулінарні книги, що розповідають про їжу”. Олексій Мустафін</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201027/2633523.mp3</link>
+      <description>
+	“Не кулінарні книги, що розповідають про їжу”. Олексій Мустафін</description>
+      <pubDate>Tue, 27 Oct 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-10-27T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Кулінарія - це мистецтво. Хто нас годує професійно? У день кухара та кулінара говоримо про те, як змінилась процесія - Катерина Авдеєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201020/2627541.mp3</link>
+      <description>
+	Кулінарія - це мистецтво. Хто нас годує професійно? У день кухара та кулінара говоримо про те, як змінилась процесія - Катерина Авдеєва</description>
+      <pubDate>Tue, 20 Oct 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-10-20T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	&quot;Смачна Кіровоградщина&quot;. Гостя - Інна Тільнова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201006/2614648.mp3</link>
+      <description>
+	&quot;Смачна Кіровоградщина&quot;. Гостя - Інна Тільнова</description>
+      <pubDate>Tue, 06 Oct 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-10-06T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	&quot;Соковиті цитати&quot; Їжа у творчості Карпенка-Карого. Гостя - Олена Гусейнова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200929/2607403.mp3</link>
+      <description>
+	&quot;Соковиті цитати&quot; Їжа у творчості Карпенка-Карого. Гостя - Олена Гусейнова</description>
+      <pubDate>Tue, 29 Sep 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-09-29T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Гастрономічні історії Харкова. Гість: Андрій Парамонов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200922/2600458.mp3</link>
+      <description>
+	Гастрономічні історії Харкова. Гість: Андрій Парамонов</description>
+      <pubDate>Tue, 22 Sep 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-09-22T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Українська кухня в США. Гостя: Маріанна Душар</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200915/2594261.mp3</link>
+      <description>
+	Українська кухня в США. Гостя: Маріанна Душар</description>
+      <pubDate>Tue, 15 Sep 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-09-15T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	“Кавунові історії”. Гості: Петро Гончар, Юрій Палічев</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200908/2588598.mp3</link>
+      <description>
+	“Кавунові історії”. Гості: Петро Гончар, Юрій Палічев</description>
+      <pubDate>Tue, 08 Sep 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-09-08T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Війна і їжа. Гостя: Тетяна Пастушенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200901/2582287.mp3</link>
+      <description>
+	Війна і їжа. Гостя: Тетяна Пастушенко</description>
+      <pubDate>Tue, 01 Sep 2020 17:10:00 +0000</pubDate>
+      <dc:date>2020-09-01T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Про яку їжу говорив Зеленський на День Незалежності</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200825/2576069.mp3</link>
+      <description>
+	Про яку їжу говорив Зеленський на День Незалежності</description>
+      <pubDate>Tue, 25 Aug 2020 17:04:38 +0000</pubDate>
+      <dc:date>2020-08-25T17:04:38+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Гастрономічні мандри</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200823/2574766.mp3</link>
+      <description>
+	Гастрономічні мандри</description>
+      <pubDate>Sun, 23 Aug 2020 10:11:42 +0000</pubDate>
+      <dc:date>2020-08-23T10:11:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Смаки, якими можемо пишатись. Гості -  Ігор Лильо, Ганна Антонюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200705/2541213.mp3</link>
+      <description>
+	Смаки, якими можемо пишатись. Гості -  Ігор Лильо, Ганна Антонюк</description>
+      <pubDate>Sun, 05 Jul 2020 10:13:40 +0000</pubDate>
+      <dc:date>2020-07-05T10:13:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	 “Хто росте на городі? Взаємини рослин і людей”. Гостя - Алевтіна Кахідзе</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200628/2535675.mp3</link>
+      <description>
+	 “Хто росте на городі? Взаємини рослин і людей”. Гостя - Алевтіна Кахідзе</description>
+      <pubDate>Sun, 28 Jun 2020 10:12:00 +0000</pubDate>
+      <dc:date>2020-06-28T10:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Кулінарні традиції міської інтелігенції кінця ХІХ ст. Гостя - Ольга Казакевич</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200607/2515725.mp3</link>
+      <description>
+	Кулінарні традиції міської інтелігенції кінця ХІХ ст. Гостя - Ольга Казакевич</description>
+      <pubDate>Sun, 07 Jun 2020 10:11:57 +0000</pubDate>
+      <dc:date>2020-06-07T10:11:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Кулінарні книги – історія змін. Гість: Оксана Хмара - ініціаторка проекту Авторська кухня українська, редакторка видавництва &quot;Богуславкнига&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200531/2509617.mp3</link>
+      <description>
+	Кулінарні книги – історія змін. Гість: Оксана Хмара - ініціаторка проекту Авторська кухня українська, редакторка видавництва &quot;Богуславкнига&quot;</description>
+      <pubDate>Sun, 31 May 2020 10:12:00 +0000</pubDate>
+      <dc:date>2020-05-31T10:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Наука в кухні. Гостя - Олена Лівінська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200524/2504509.mp3</link>
+      <description>
+	Наука в кухні. Гостя - Олена Лівінська</description>
+      <pubDate>Sun, 24 May 2020 10:04:48 +0000</pubDate>
+      <dc:date>2020-05-24T10:04:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Харчування гетьманського війська середини ХVII-XVIII  ст. Гість: Олексій Сокирко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200503/2486941.mp3</link>
+      <description>
+	Харчування гетьманського війська середини ХVII-XVIII  ст. Гість: Олексій Сокирко</description>
+      <pubDate>Sun, 03 May 2020 10:05:00 +0000</pubDate>
+      <dc:date>2020-05-03T10:05:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Наука в кухні. Гостя - Олена Лівінська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200426/2480861.mp3</link>
+      <description>
+	Наука в кухні. Гостя - Олена Лівінська</description>
+      <pubDate>Sun, 26 Apr 2020 10:12:18 +0000</pubDate>
+      <dc:date>2020-04-26T10:12:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Гості: Наталка Якимович, Євген Клопотенко. Проект “Борщ. Секретний інгредієнт” </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200223/2430523.mp3</link>
+      <description>
+	Гості: Наталка Якимович, Євген Клопотенко. Проект “Борщ. Секретний інгредієнт” </description>
+      <pubDate>Sun, 23 Feb 2020 10:12:00 +0000</pubDate>
+      <dc:date>2020-02-23T10:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя: Трофімцева Ольга. Тема: Харчова безпека </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200209/2420859.mp3</link>
+      <description>
+	Гостя: Трофімцева Ольга. Тема: Харчова безпека </description>
+      <pubDate>Sun, 09 Feb 2020 10:12:43 +0000</pubDate>
+      <dc:date>2020-02-09T10:12:43+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Фудблогер: професія чи хоббі? Гості: Олена Прохорчук, Марія Сердюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20191103/2353895.mp3</link>
+      <description>
+	Фудблогер: професія чи хоббі? Гості: Олена Прохорчук, Марія Сердюк</description>
+      <pubDate>Sun, 03 Nov 2019 10:12:02 +0000</pubDate>
+      <dc:date>2019-11-03T10:12:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - Олена Пивоваренко. Вегетаріанство: українська історія</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20191020/2342146.mp3</link>
+      <description>
+	Гість - Олена Пивоваренко. Вегетаріанство: українська історія</description>
+      <pubDate>Sun, 20 Oct 2019 10:11:48 +0000</pubDate>
+      <dc:date>2019-10-20T10:11:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Харчування гетьманського війська середини ХVII-XVIII  ст. Гість: Олексій Сокирко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190901/2305385.mp3</link>
+      <description>
+	Харчування гетьманського війська середини ХVII-XVIII  ст. Гість: Олексій Сокирко</description>
+      <pubDate>Sun, 01 Sep 2019 11:11:19 +0000</pubDate>
+      <dc:date>2019-09-01T11:11:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Сир: українська історія. Гостя: Ольга Терницька</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190825/2300969.mp3</link>
+      <description>
+	Сир: українська історія. Гостя: Ольга Терницька</description>
+      <pubDate>Sun, 25 Aug 2019 11:10:00 +0000</pubDate>
+      <dc:date>2019-08-25T11:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Слоуфуд - рух у світі та Україні. Гостя - Вікторія Пархоменко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190818/2298050.mp3</link>
+      <description>
+	Слоуфуд - рух у світі та Україні. Гостя - Вікторія Пархоменко</description>
+      <pubDate>Sun, 18 Aug 2019 11:16:02 +0000</pubDate>
+      <dc:date>2019-08-18T11:16:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Велика політика, що міксує смаки світу. Гість: Єгор Брайлян</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190811/2293512.mp3</link>
+      <description>
+	Велика політика, що міксує смаки світу. Гість: Єгор Брайлян</description>
+      <pubDate>Sun, 11 Aug 2019 11:12:00 +0000</pubDate>
+      <dc:date>2019-08-11T11:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Що їли та як готували тисячі років тому. Гостя - археозолог Євгенія Яніш</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190804/2287081.mp3</link>
+      <description>
+	Що їли та як готували тисячі років тому. Гостя - археозолог Євгенія Яніш</description>
+      <pubDate>Sun, 04 Aug 2019 11:12:00 +0000</pubDate>
+      <dc:date>2019-08-04T11:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Ода борщу. Гостя - Аврора Огороднік, гастроентузіаст (фудентузіаст)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190728/2281756.mp3</link>
+      <description>
+	Ода борщу. Гостя - Аврора Огороднік, гастроентузіаст (фудентузіаст)</description>
+      <pubDate>Sun, 28 Jul 2019 11:08:26 +0000</pubDate>
+      <dc:date>2019-07-28T11:08:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Харчування населення українських земель та історія диких і культурних рослин&quot;. Галина Пашкевич, доктор біологічних наук, палеоетноботанік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190721/2277507.mp3</link>
+      <description>
+	Харчування населення українських земель та історія диких і культурних рослин&quot;. Галина Пашкевич, доктор біологічних наук, палеоетноботанік</description>
+      <pubDate>Sun, 21 Jul 2019 11:12:18 +0000</pubDate>
+      <dc:date>2019-07-21T11:12:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Культура харчування церковної еліти 18 ст. Гість - доктор історичних наук Максим Яременко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190714/2271073.mp3</link>
+      <description>
+	Культура харчування церковної еліти 18 ст. Гість - доктор історичних наук Максим Яременко</description>
+      <pubDate>Sun, 14 Jul 2019 11:10:01 +0000</pubDate>
+      <dc:date>2019-07-14T11:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	&quot;Проект дороги вина та смаку; гастротуризм в Україні&quot;.  Гостя: Алла Плачкова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190630/2266126.mp3</link>
+      <description>
+	&quot;Проект дороги вина та смаку; гастротуризм в Україні&quot;.  Гостя: Алла Плачкова</description>
+      <pubDate>Sun, 30 Jun 2019 11:10:00 +0000</pubDate>
+      <dc:date>2019-06-30T11:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Українська кухня - погляд шефів. Гості: Антоніна Захарова, Євген Клопотенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190623/2261222.mp3</link>
+      <description>
+	Українська кухня - погляд шефів. Гості: Антоніна Захарова, Євген Клопотенко</description>
+      <pubDate>Sun, 23 Jun 2019 11:09:24 +0000</pubDate>
+      <dc:date>2019-06-23T11:09:24+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Українська література та їжа: як та що їдять персонажі відомих письменників. Гість: Світлана Ковпік</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190616/2254551.mp3</link>
+      <description>
+	Українська література та їжа: як та що їдять персонажі відомих письменників. Гість: Світлана Ковпік</description>
+      <pubDate>Sun, 16 Jun 2019 11:10:00 +0000</pubDate>
+      <dc:date>2019-06-16T11:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Історія пива: у світі фабрик і заводів&quot;  Гостя: Тетяна Водотика</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190609/2251224.mp3</link>
+      <description>
+	Історія пива: у світі фабрик і заводів&quot;  Гостя: Тетяна Водотика</description>
+      <pubDate>Sun, 09 Jun 2019 11:12:00 +0000</pubDate>
+      <dc:date>2019-06-09T11:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Смачне середньовіччя: улюблені страви, дієти, їжа бідних і багатих. Гостя - Стефанія Демчук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190602/2246543.mp3</link>
+      <description>
+	Смачне середньовіччя: улюблені страви, дієти, їжа бідних і багатих. Гостя - Стефанія Демчук</description>
+      <pubDate>Sun, 02 Jun 2019 11:11:00 +0000</pubDate>
+      <dc:date>2019-06-02T11:11:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Побут і харчування в роки Великого терору. Гостя: Ніна Лапчинська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190519/2233441.mp3</link>
+      <description>
+	Побут і харчування в роки Великого терору. Гостя: Ніна Лапчинська</description>
+      <pubDate>Sun, 19 May 2019 11:09:23 +0000</pubDate>
+      <dc:date>2019-05-19T11:09:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Соціологія їжі. Гостя - кандидатка соціологічних наук Алла Петренко-Лисак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190512/2230074.mp3</link>
+      <description>
+	Соціологія їжі. Гостя - кандидатка соціологічних наук Алла Петренко-Лисак</description>
+      <pubDate>Sun, 12 May 2019 11:10:00 +0000</pubDate>
+      <dc:date>2019-05-12T11:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Як гастрономічні тренди впливають на наше життя. Гості: Яна Жадан, Крістіна Скрипка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190505/2224947.mp3</link>
+      <description>
+	Як гастрономічні тренди впливають на наше життя. Гості: Яна Жадан, Крістіна Скрипка</description>
+      <pubDate>Sun, 05 May 2019 11:08:58 +0000</pubDate>
+      <dc:date>2019-05-05T11:08:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Великодні народні традиції. Гостя: Валентина Борисенко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190428/2218766.mp3</link>
+      <description>
+	Великодні народні традиції. Гостя: Валентина Борисенко</description>
+      <pubDate>Sun, 28 Apr 2019 12:07:07 +0000</pubDate>
+      <dc:date>2019-04-28T12:07:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	У полі та на кухні: зелені рослини навколо нас. Гостя: Катя Безжон</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190407/2201358.mp3</link>
+      <description>
+	У полі та на кухні: зелені рослини навколо нас. Гостя: Катя Безжон</description>
+      <pubDate>Sun, 07 Apr 2019 11:11:57 +0000</pubDate>
+      <dc:date>2019-04-07T11:11:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	&quot;Старожитня кухня Київських митрополитів&quot;. Гість: Ігор Нетудихаткін</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190331/2195707.mp3</link>
+      <description>
+	&quot;Старожитня кухня Київських митрополитів&quot;. Гість: Ігор Нетудихаткін</description>
+      <pubDate>Sun, 31 Mar 2019 11:12:00 +0000</pubDate>
+      <dc:date>2019-03-31T11:12:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Історія української кухні в США. Гостя - Ярослава Зелінська-Джонсон</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190324/2190723.mp3</link>
+      <description>
+	Історія української кухні в США. Гостя - Ярослава Зелінська-Джонсон</description>
+      <pubDate>Sun, 24 Mar 2019 11:15:58 +0000</pubDate>
+      <dc:date>2019-03-24T11:15:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Піст: гастрономічна історія. Гостя: культурний антрополог Анастасія Панкова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190317/2185244.mp3</link>
+      <description>
+	Піст: гастрономічна історія. Гостя: культурний антрополог Анастасія Панкова</description>
+      <pubDate>Sun, 17 Mar 2019 11:09:20 +0000</pubDate>
+      <dc:date>2019-03-17T11:09:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Історія пива: у світі фабрик та заводів. Гостя – кандидат історичних наук Тетяна Водотика</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190310/2180683.mp3</link>
+      <description>
+	Історія пива: у світі фабрик та заводів. Гостя – кандидат історичних наук Тетяна Водотика</description>
+      <pubDate>Sun, 10 Mar 2019 11:10:30 +0000</pubDate>
+      <dc:date>2019-03-10T11:10:30+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Культура харчування церковної еліти 18 ст. Гість - доктор історичних наук Максим Яременко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190303/2174695.mp3</link>
+      <description>
+	Культура харчування церковної еліти 18 ст. Гість - доктор історичних наук Максим Яременко</description>
+      <pubDate>Sun, 03 Mar 2019 11:10:00 +0000</pubDate>
+      <dc:date>2019-03-03T11:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Кухня малих містечок Галичини між двома світовими війнами. Гостя: Оксана Галько, історикиня</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190224/2166596.mp3</link>
+      <description>
+	Кухня малих містечок Галичини між двома світовими війнами. Гостя: Оксана Галько, історикиня</description>
+      <pubDate>Sun, 24 Feb 2019 11:12:58 +0000</pubDate>
+      <dc:date>2019-02-24T11:12:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <item>
+      <title>
+	Як їжа стає предметом дискусії у мистецтві та проект Climavore. Гостя: Олександра Трянова, учасниця Кураторської платформи ПінчукАртЦентру</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190217/2163669.mp3</link>
+      <description>
+	Як їжа стає предметом дискусії у мистецтві та проект Climavore. Гостя: Олександра Трянова, учасниця Кураторської платформи ПінчукАртЦентру</description>
+      <pubDate>Sun, 17 Feb 2019 11:09:22 +0000</pubDate>
+      <dc:date>2019-02-17T11:09:22+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789975_63e2869726217.png"/>
+    </item>
+    <dc:date>2024-03-18T08:55:47+00:00</dc:date>
+  </channel>
+</rss>

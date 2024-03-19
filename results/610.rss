@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Тільки пісня</title>
+    <link>https://ukr.radio/prog.html?id=610</link>
+    <description>Програма про розвиток української пісні як домінантного жанру національної музичної культури через життєві історії її авторів та виконавців.</description>
+    <pubDate>Mon, 18 Mar 2024 08:49:57 +0000</pubDate>
+    <item>
+      <title>Гість - народний артист України Віктор Павлік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210926/2937119.mp3</link>
+      <description>Гість - народний артист України Віктор Павлік.</description>
+      <pubDate>Sun, 26 Sep 2021 13:07:00 +0000</pubDate>
+      <dc:date>2021-09-26T13:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість - співак Віталій Сачок.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210919/2925118.mp3</link>
+      <description>Гість - співак Віталій Сачок.</description>
+      <pubDate>Sun, 19 Sep 2021 13:07:01 +0000</pubDate>
+      <dc:date>2021-09-19T13:07:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість - український співак, автор пісень, заслужений артист естрадного мистецтва України Анатолій Сердюк.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210813/2890025.mp3</link>
+      <description>Гість - український співак, автор пісень, заслужений артист естрадного мистецтва України Анатолій Сердюк.</description>
+      <pubDate>Fri, 13 Aug 2021 19:35:41 +0000</pubDate>
+      <dc:date>2021-08-13T19:35:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість - народний артист України Олександр Пономарьов.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210806/2883247.mp3</link>
+      <description>Гість - народний артист України Олександр Пономарьов.</description>
+      <pubDate>Fri, 06 Aug 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-08-06T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Алла Кудлай.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210730/2879094.mp3</link>
+      <description>Гостя - народна артистка України Алла Кудлай.</description>
+      <pubDate>Fri, 30 Jul 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-07-30T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - Ірина Шинкарук, народна артистка України, співачка.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210709/2865187.mp3</link>
+      <description>Гостя - Ірина Шинкарук, народна артистка України, співачка.</description>
+      <pubDate>Fri, 09 Jul 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-07-09T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Віталій Сачок: творче життя співака.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210702/2859274.mp3</link>
+      <description>Віталій Сачок: творче життя співака.</description>
+      <pubDate>Fri, 02 Jul 2021 16:30:50 +0000</pubDate>
+      <dc:date>2021-07-02T16:30:50+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Марія Бурмака.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210625/2851202.mp3</link>
+      <description>Гостя - народна артистка України Марія Бурмака.</description>
+      <pubDate>Fri, 25 Jun 2021 19:35:41 +0000</pubDate>
+      <dc:date>2021-06-25T19:35:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - Жанна Боднарук, Народна артистка України, українська співачка.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210618/2847866.mp3</link>
+      <description>Гостя - Жанна Боднарук, Народна артистка України, українська співачка.</description>
+      <pubDate>Fri, 18 Jun 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-06-18T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - Юлія Лорд, українська співачка, автор пісень, заслужена артистка України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210611/2841537.mp3</link>
+      <description>Гостя - Юлія Лорд, українська співачка, автор пісень, заслужена артистка України.</description>
+      <pubDate>Fri, 11 Jun 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-06-11T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Учасниця програми - народна артистка України Світлана Мирвода.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210528/2827100.mp3</link>
+      <description>Учасниця програми - народна артистка України Світлана Мирвода.</description>
+      <pubDate>Fri, 28 May 2021 19:36:47 +0000</pubDate>
+      <dc:date>2021-05-28T19:36:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість - український композитор Андрій Шусть.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210521/2820035.mp3</link>
+      <description>Гість - український композитор Андрій Шусть.</description>
+      <pubDate>Fri, 21 May 2021 19:35:41 +0000</pubDate>
+      <dc:date>2021-05-21T19:35:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Оксана Пекун.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210507/2806967.mp3</link>
+      <description>Гостя - народна артистка України Оксана Пекун.</description>
+      <pubDate>Fri, 07 May 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-05-07T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - українська співачка, Заслужена артистка України Марина Одольська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210430/2801791.mp3</link>
+      <description>Гостя - українська співачка, Заслужена артистка України Марина Одольська.</description>
+      <pubDate>Fri, 30 Apr 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-04-30T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Алла Попова.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210423/2795480.mp3</link>
+      <description>Гостя - народна артистка України Алла Попова.</description>
+      <pubDate>Fri, 23 Apr 2021 19:35:41 +0000</pubDate>
+      <dc:date>2021-04-23T19:35:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Анатолій Сердюк: про історичний виступ на фестивалі &quot;Червона рута&quot;, записані альбоми і нинішні гастрольні маршрути.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210416/2789003.mp3</link>
+      <description>Анатолій Сердюк: про історичний виступ на фестивалі &quot;Червона рута&quot;, записані альбоми і нинішні гастрольні маршрути.</description>
+      <pubDate>Fri, 16 Apr 2021 19:35:42 +0000</pubDate>
+      <dc:date>2021-04-16T19:35:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість - народний артист України Олег Марцинківський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210402/2774242.mp3</link>
+      <description>Гість - народний артист України Олег Марцинківський.</description>
+      <pubDate>Fri, 02 Apr 2021 19:35:41 +0000</pubDate>
+      <dc:date>2021-04-02T19:35:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - заслужена артистка України Юлія Лорд.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210326/2767498.mp3</link>
+      <description>Гостя - заслужена артистка України Юлія Лорд.</description>
+      <pubDate>Fri, 26 Mar 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-03-26T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Рок-музикант, власник однієї з найвідоміших студій у Києві Сергій Доценко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210319/2761799.mp3</link>
+      <description>Рок-музикант, власник однієї з найвідоміших студій у Києві Сергій Доценко.</description>
+      <pubDate>Fri, 19 Mar 2021 19:35:40 +0000</pubDate>
+      <dc:date>2021-03-19T19:35:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - Ірина Шинкарук, народна артистка України, співачка.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210312/2755107.mp3</link>
+      <description>Гостя - Ірина Шинкарук, народна артистка України, співачка.</description>
+      <pubDate>Fri, 12 Mar 2021 19:35:41 +0000</pubDate>
+      <dc:date>2021-03-12T19:35:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Тетяна Горобець.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210305/2749404.mp3</link>
+      <description>Гостя - народна артистка України Тетяна Горобець.</description>
+      <pubDate>Fri, 05 Mar 2021 19:40:03 +0000</pubDate>
+      <dc:date>2021-03-05T19:40:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Інесса Братущик.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210219/2734950.mp3</link>
+      <description>Гостя - народна артистка України Інесса Братущик.</description>
+      <pubDate>Fri, 19 Feb 2021 19:35:42 +0000</pubDate>
+      <dc:date>2021-02-19T19:35:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість студії - народний артист України Павло Дворський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210212/2728747.mp3</link>
+      <description>Гість студії - народний артист України Павло Дворський.</description>
+      <pubDate>Fri, 12 Feb 2021 19:39:14 +0000</pubDate>
+      <dc:date>2021-02-12T19:39:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Учасник програми - український музикант, співак, композитор, поет Тарас Петриненко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210205/2723137.mp3</link>
+      <description>Учасник програми - український музикант, співак, композитор, поет Тарас Петриненко.</description>
+      <pubDate>Fri, 05 Feb 2021 19:38:01 +0000</pubDate>
+      <dc:date>2021-02-05T19:38:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Учасники програми - Тріо бандуристок Українського радіо.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210129/2715579.mp3</link>
+      <description>Учасники програми - Тріо бандуристок Українського радіо.</description>
+      <pubDate>Fri, 29 Jan 2021 19:35:43 +0000</pubDate>
+      <dc:date>2021-01-29T19:35:43+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Жанна Боднарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210122/2709879.mp3</link>
+      <description>Гостя - народна артистка України Жанна Боднарук.</description>
+      <pubDate>Fri, 22 Jan 2021 19:35:42 +0000</pubDate>
+      <dc:date>2021-01-22T19:35:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Марія Бурмака.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210108/2697098.mp3</link>
+      <description>Гостя - народна артистка України Марія Бурмака.</description>
+      <pubDate>Fri, 08 Jan 2021 19:39:40 +0000</pubDate>
+      <dc:date>2021-01-08T19:39:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Бере участь Народний артист України Іво Бобул.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201225/2684484.mp3</link>
+      <description>Бере участь Народний артист України Іво Бобул.</description>
+      <pubDate>Fri, 25 Dec 2020 19:39:30 +0000</pubDate>
+      <dc:date>2020-12-25T19:39:30+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гість - народний артист України Віктор Павлік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201218/2676708.mp3</link>
+      <description>Гість - народний артист України Віктор Павлік.</description>
+      <pubDate>Fri, 18 Dec 2020 19:39:01 +0000</pubDate>
+      <dc:date>2020-12-18T19:39:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Беруть участь тріо бандуристок Українського радіо: народна артистка України Тетяна Маломуж, заслужена артистка України Ольга Черній та артистка Катерина Коврик.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201211/2668900.mp3</link>
+      <description>Беруть участь тріо бандуристок Українського радіо: народна артистка України Тетяна Маломуж, заслужена артистка України Ольга Черній та артистка Катерина Коврик.</description>
+      <pubDate>Fri, 11 Dec 2020 19:38:51 +0000</pubDate>
+      <dc:date>2020-12-11T19:38:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Бере участь народна артистка України Катерина Бужинська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201204/2663302.mp3</link>
+      <description>Бере участь народна артистка України Катерина Бужинська.</description>
+      <pubDate>Fri, 04 Dec 2020 19:39:17 +0000</pubDate>
+      <dc:date>2020-12-04T19:39:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - співачка, заслужена артистка України Юлія Лорд.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201127/2657104.mp3</link>
+      <description>Гостя - співачка, заслужена артистка України Юлія Лорд.</description>
+      <pubDate>Fri, 27 Nov 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-11-27T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Алла Кудлай.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201120/2651049.mp3</link>
+      <description>Гостя - народна артистка України Алла Кудлай.</description>
+      <pubDate>Fri, 20 Nov 2020 19:39:01 +0000</pubDate>
+      <dc:date>2020-11-20T19:39:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>Гостя - народна артистка України Оксана Пекун.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201106/2639245.mp3</link>
+      <description>Гостя - народна артистка України Оксана Пекун.</description>
+      <pubDate>Fri, 06 Nov 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-11-06T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Світлана Мирвода.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201030/2632520.mp3</link>
+      <description>
+	Гостя - народна артистка України Світлана Мирвода.</description>
+      <pubDate>Fri, 30 Oct 2020 19:38:59 +0000</pubDate>
+      <dc:date>2020-10-30T19:38:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - заслужена артистка України Марина Одольська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201023/2625085.mp3</link>
+      <description>
+	Гостя - заслужена артистка України Марина Одольська.</description>
+      <pubDate>Fri, 23 Oct 2020 19:39:11 +0000</pubDate>
+      <dc:date>2020-10-23T19:39:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Леся Горова.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201016/2617949.mp3</link>
+      <description>
+	Гостя - народна артистка України Леся Горова.</description>
+      <pubDate>Fri, 16 Oct 2020 19:39:05 +0000</pubDate>
+      <dc:date>2020-10-16T19:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - заслужена артистка України Юлія Лорд.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20201009/2612547.mp3</link>
+      <description>
+	Учасник програми - заслужена артистка України Юлія Лорд.</description>
+      <pubDate>Fri, 09 Oct 2020 19:39:01 +0000</pubDate>
+      <dc:date>2020-10-09T19:39:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Ірина Шинкарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200925/2599952.mp3</link>
+      <description>
+	Гостя - народна артистка України Ірина Шинкарук.</description>
+      <pubDate>Fri, 25 Sep 2020 19:39:43 +0000</pubDate>
+      <dc:date>2020-09-25T19:39:43+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Алла Попова.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200904/2583237.mp3</link>
+      <description>
+	Гостя - народна артистка України Алла Попова.</description>
+      <pubDate>Fri, 04 Sep 2020 19:38:58 +0000</pubDate>
+      <dc:date>2020-09-04T19:38:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Анатолій Матвійчук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200828/2575706.mp3</link>
+      <description>
+	Учасник програми - народний артист України Анатолій Матвійчук.</description>
+      <pubDate>Fri, 28 Aug 2020 19:38:47 +0000</pubDate>
+      <dc:date>2020-08-28T19:38:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - український музикант, співак, композитор, поет Тарас Петриненко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200821/2569192.mp3</link>
+      <description>
+	Учасник програми - український музикант, співак, композитор, поет Тарас Петриненко.</description>
+      <pubDate>Fri, 21 Aug 2020 19:39:53 +0000</pubDate>
+      <dc:date>2020-08-21T19:39:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Бере участь народна артистка України Жанна Боднарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200814/2562976.mp3</link>
+      <description>
+	Бере участь народна артистка України Жанна Боднарук.</description>
+      <pubDate>Fri, 14 Aug 2020 19:39:18 +0000</pubDate>
+      <dc:date>2020-08-14T19:39:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Олександр Пономарьов.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200807/2557266.mp3</link>
+      <description>
+	Учасник програми - народний артист України Олександр Пономарьов.</description>
+      <pubDate>Fri, 07 Aug 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-08-07T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - український композитор Андрій Шусть.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200731/2553218.mp3</link>
+      <description>
+	Гість - український композитор Андрій Шусть.</description>
+      <pubDate>Fri, 31 Jul 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-07-31T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Алла Кудлай.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200724/2537038.mp3</link>
+      <description>
+	Гостя - народна артистка України Алла Кудлай.</description>
+      <pubDate>Fri, 24 Jul 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-07-24T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - співачка Тетяна Горобець.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200717/2534546.mp3</link>
+      <description>
+	Гостя - співачка Тетяна Горобець.</description>
+      <pubDate>Fri, 17 Jul 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-07-17T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Павло Зібров.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200710/2530852.mp3</link>
+      <description>
+	Гість - народний артист України Павло Зібров.</description>
+      <pubDate>Fri, 10 Jul 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-07-10T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Бере участь народний артист України Олег Марцинківський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200703/2528776.mp3</link>
+      <description>
+	Бере участь народний артист України Олег Марцинківський.</description>
+      <pubDate>Fri, 03 Jul 2020 19:43:10 +0000</pubDate>
+      <dc:date>2020-07-03T19:43:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Оксана Пекун.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200626/2522270.mp3</link>
+      <description>
+	Гостя - народна артистка України Оксана Пекун.</description>
+      <pubDate>Fri, 26 Jun 2020 19:40:45 +0000</pubDate>
+      <dc:date>2020-06-26T19:40:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Іво Бобул.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200619/2519118.mp3</link>
+      <description>
+	Гість - народний артист України Іво Бобул.</description>
+      <pubDate>Fri, 19 Jun 2020 19:39:44 +0000</pubDate>
+      <dc:date>2020-06-19T19:39:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Історія успіху і пісні Народної артистки України Ірини Шинкарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200612/2513420.mp3</link>
+      <description>
+	Історія успіху і пісні Народної артистки України Ірини Шинкарук.</description>
+      <pubDate>Fri, 12 Jun 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-06-12T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Бере участь народна артистка України Марія Бурмака.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200605/2507973.mp3</link>
+      <description>
+	Бере участь народна артистка України Марія Бурмака.</description>
+      <pubDate>Fri, 05 Jun 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-06-05T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Олександр Пономарьов.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200529/2502889.mp3</link>
+      <description>
+	Гість - народний артист України Олександр Пономарьов.</description>
+      <pubDate>Fri, 29 May 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-05-29T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя програми - народна артистка України, бандуристка Світлана Мирвода.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200522/2497809.mp3</link>
+      <description>
+	Гостя програми - народна артистка України, бандуристка Світлана Мирвода.</description>
+      <pubDate>Fri, 22 May 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-05-22T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасниця програми - народна артистка України Алла Кудлай.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200515/2492537.mp3</link>
+      <description>
+	Учасниця програми - народна артистка України Алла Кудлай.</description>
+      <pubDate>Fri, 15 May 2020 19:38:52 +0000</pubDate>
+      <dc:date>2020-05-15T19:38:52+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Рок-музикант, власник однієї з найвідоміших студій у Києві Сергій Доценко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200508/2486545.mp3</link>
+      <description>
+	Рок-музикант, власник однієї з найвідоміших студій у Києві Сергій Доценко.</description>
+      <pubDate>Fri, 08 May 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-05-08T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Алла Попова.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200424/2474931.mp3</link>
+      <description>
+	Гостя - народна артистка України Алла Попова.</description>
+      <pubDate>Fri, 24 Apr 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-04-24T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасниця програми - заслужена артистка України Марина Одольська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200417/2469515.mp3</link>
+      <description>
+	Учасниця програми - заслужена артистка України Марина Одольська.</description>
+      <pubDate>Fri, 17 Apr 2020 19:39:44 +0000</pubDate>
+      <dc:date>2020-04-17T19:39:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Народний артист України Віктор Павлік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200410/2465269.mp3</link>
+      <description>
+	Народний артист України Віктор Павлік.</description>
+      <pubDate>Fri, 10 Apr 2020 19:39:40 +0000</pubDate>
+      <dc:date>2020-04-10T19:39:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Тріо бандуристок Українського радіо.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200403/2456623.mp3</link>
+      <description>
+	Тріо бандуристок Українського радіо.</description>
+      <pubDate>Fri, 03 Apr 2020 19:39:42 +0000</pubDate>
+      <dc:date>2020-04-03T19:39:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Українский баритон, народний артист України Анатолій Мокренко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200327/2451309.mp3</link>
+      <description>
+	Українский баритон, народний артист України Анатолій Мокренко.</description>
+      <pubDate>Fri, 27 Mar 2020 19:39:40 +0000</pubDate>
+      <dc:date>2020-03-27T19:39:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Олег Марцинківський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200320/2449005.mp3</link>
+      <description>
+	Учасник програми - народний артист України Олег Марцинківський.</description>
+      <pubDate>Fri, 20 Mar 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-03-20T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - український музикант, співак, композитор, поет Тарас Петриненко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200313/2441761.mp3</link>
+      <description>
+	Учасник програми - український музикант, співак, композитор, поет Тарас Петриненко.</description>
+      <pubDate>Fri, 13 Mar 2020 19:39:40 +0000</pubDate>
+      <dc:date>2020-03-13T19:39:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист Украни Павло Зібров.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200306/2436483.mp3</link>
+      <description>
+	Учасник програми - народний артист Украни Павло Зібров.</description>
+      <pubDate>Fri, 06 Mar 2020 19:39:40 +0000</pubDate>
+      <dc:date>2020-03-06T19:39:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя програми - народна артистка України, бандуристка Світлана Мирвода.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200228/2431861.mp3</link>
+      <description>
+	Гостя програми - народна артистка України, бандуристка Світлана Мирвода.</description>
+      <pubDate>Fri, 28 Feb 2020 19:40:01 +0000</pubDate>
+      <dc:date>2020-02-28T19:40:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Іво Бобул.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200221/2426025.mp3</link>
+      <description>
+	Гість - народний артист України Іво Бобул.</description>
+      <pubDate>Fri, 21 Feb 2020 19:39:40 +0000</pubDate>
+      <dc:date>2020-02-21T19:39:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - український композитор Андрій Шусть.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200214/2422586.mp3</link>
+      <description>
+	Гість - український композитор Андрій Шусть.</description>
+      <pubDate>Fri, 14 Feb 2020 19:39:39 +0000</pubDate>
+      <dc:date>2020-02-14T19:39:39+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Павло Зібров.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200207/2418011.mp3</link>
+      <description>
+	Гість - народний артист України Павло Зібров.</description>
+      <pubDate>Fri, 07 Feb 2020 19:39:41 +0000</pubDate>
+      <dc:date>2020-02-07T19:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - поет, композитор і співак Олег Майовський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200131/2411056.mp3</link>
+      <description>
+	Учасник програми - поет, композитор і співак Олег Майовський.</description>
+      <pubDate>Fri, 31 Jan 2020 19:43:40 +0000</pubDate>
+      <dc:date>2020-01-31T19:43:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Олег Марцинківський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200117/2404136.mp3</link>
+      <description>
+	Учасник програми - народний артист України Олег Марцинківський.</description>
+      <pubDate>Fri, 17 Jan 2020 19:43:42 +0000</pubDate>
+      <dc:date>2020-01-17T19:43:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Бере участь народна артистка України Марія Бурмака.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200110/2397400.mp3</link>
+      <description>
+	Бере участь народна артистка України Марія Бурмака.</description>
+      <pubDate>Fri, 10 Jan 2020 19:30:00 +0000</pubDate>
+      <dc:date>2020-01-10T19:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Народний артист України Віктор Павлік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191231/2387734.mp3</link>
+      <description>
+	Народний артист України Віктор Павлік.</description>
+      <pubDate>Tue, 31 Dec 2019 15:10:01 +0000</pubDate>
+      <dc:date>2019-12-31T15:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - Заслужена артистка України Інесса Братущик.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191227/2386710.mp3</link>
+      <description>
+	Гостя - Заслужена артистка України Інесса Братущик.</description>
+      <pubDate>Fri, 27 Dec 2019 19:29:55 +0000</pubDate>
+      <dc:date>2019-12-27T19:29:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Тріо бандуристок Українського радіо.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191220/2383042.mp3</link>
+      <description>
+	Тріо бандуристок Українського радіо.</description>
+      <pubDate>Fri, 20 Dec 2019 19:29:55 +0000</pubDate>
+      <dc:date>2019-12-20T19:29:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Жання Боднарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191213/2377070.mp3</link>
+      <description>
+	Гостя - народна артистка України Жання Боднарук.</description>
+      <pubDate>Fri, 13 Dec 2019 19:30:02 +0000</pubDate>
+      <dc:date>2019-12-13T19:30:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість студії - народний артист України Павло Дворський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191206/2372533.mp3</link>
+      <description>
+	Гість студії - народний артист України Павло Дворський.</description>
+      <pubDate>Fri, 06 Dec 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-12-06T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Віктор Павлік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191129/2367630.mp3</link>
+      <description>
+	Гість - народний артист України Віктор Павлік.</description>
+      <pubDate>Fri, 29 Nov 2019 19:30:00 +0000</pubDate>
+      <dc:date>2019-11-29T19:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - співачка Тетяна Горобець.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191122/2362928.mp3</link>
+      <description>
+	Гостя - співачка Тетяна Горобець.</description>
+      <pubDate>Fri, 22 Nov 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-11-22T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасниця програми - народна артистка України Алла Кудлай.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191115/2359033.mp3</link>
+      <description>
+	Учасниця програми - народна артистка України Алла Кудлай.</description>
+      <pubDate>Fri, 15 Nov 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-11-15T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасниця програми - заслужена артистка України Марина Одольська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191108/2352725.mp3</link>
+      <description>
+	Учасниця програми - заслужена артистка України Марина Одольська.</description>
+      <pubDate>Fri, 08 Nov 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-11-08T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Павло Дворський.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191101/2349314.mp3</link>
+      <description>
+	Учасник програми - народний артист України Павло Дворський.</description>
+      <pubDate>Fri, 01 Nov 2019 19:30:19 +0000</pubDate>
+      <dc:date>2019-11-01T19:30:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Алла Попова.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191025/2344531.mp3</link>
+      <description>
+	Гостя - народна артистка України Алла Попова.</description>
+      <pubDate>Fri, 25 Oct 2019 19:31:05 +0000</pubDate>
+      <dc:date>2019-10-25T19:31:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Микола Павлов - автор численних &quot;хітів&quot; у виконанні українських поп-зірок.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191018/2339419.mp3</link>
+      <description>
+	Микола Павлов - автор численних &quot;хітів&quot; у виконанні українських поп-зірок.</description>
+      <pubDate>Fri, 18 Oct 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-10-18T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Тарас Петриненко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191011/2333100.mp3</link>
+      <description>
+	Гість - народний артист України Тарас Петриненко.</description>
+      <pubDate>Fri, 11 Oct 2019 19:30:00 +0000</pubDate>
+      <dc:date>2019-10-11T19:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Оксана Пекун.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191004/2328732.mp3</link>
+      <description>
+	Гостя - народна артистка України Оксана Пекун.</description>
+      <pubDate>Fri, 04 Oct 2019 19:30:41 +0000</pubDate>
+      <dc:date>2019-10-04T19:30:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Олександр Пономарьов.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190927/2326029.mp3</link>
+      <description>
+	Гість - народний артист України Олександр Пономарьов.</description>
+      <pubDate>Fri, 27 Sep 2019 19:30:00 +0000</pubDate>
+      <dc:date>2019-09-27T19:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Катерина Бужинська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190920/2318434.mp3</link>
+      <description>
+	Гостя - народна артистка України Катерина Бужинська.</description>
+      <pubDate>Fri, 20 Sep 2019 19:30:00 +0000</pubDate>
+      <dc:date>2019-09-20T19:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Історія успіху і пісні Народної артистки України Ірини Шинкарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190913/2313623.mp3</link>
+      <description>
+	Історія успіху і пісні Народної артистки України Ірини Шинкарук.</description>
+      <pubDate>Fri, 13 Sep 2019 19:30:00 +0000</pubDate>
+      <dc:date>2019-09-13T19:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - співачка Тетяна Горобець.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190830/2303440.mp3</link>
+      <description>
+	Гостя - співачка Тетяна Горобець.</description>
+      <pubDate>Fri, 30 Aug 2019 19:43:07 +0000</pubDate>
+      <dc:date>2019-08-30T19:43:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Творчість Заслуженої артистки України Оксани Пекун.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190816/2290266.mp3</link>
+      <description>
+	Творчість Заслуженої артистки України Оксани Пекун.</description>
+      <pubDate>Fri, 16 Aug 2019 19:31:00 +0000</pubDate>
+      <dc:date>2019-08-16T19:31:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - народна артистка України Жанна Боднарук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190809/2288451.mp3</link>
+      <description>
+	Гостя - народна артистка України Жанна Боднарук.</description>
+      <pubDate>Fri, 09 Aug 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-08-09T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гостя - українська співачка Марія Бурмака.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190802/2284903.mp3</link>
+      <description>
+	Гостя - українська співачка Марія Бурмака.</description>
+      <pubDate>Fri, 02 Aug 2019 19:37:02 +0000</pubDate>
+      <dc:date>2019-08-02T19:37:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - народний артист України Анатолій Матвійчук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190726/2280485.mp3</link>
+      <description>
+	Гість - народний артист України Анатолій Матвійчук.</description>
+      <pubDate>Fri, 26 Jul 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-07-26T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Історія співачки, заслуженої артистки України Інеси Братущик.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190719/2274356.mp3</link>
+      <description>
+	Історія співачки, заслуженої артистки України Інеси Братущик.</description>
+      <pubDate>Fri, 19 Jul 2019 19:30:05 +0000</pubDate>
+      <dc:date>2019-07-19T19:30:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Олександр Пономарьов.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190705/2266395.mp3</link>
+      <description>
+	Учасник програми - народний артист України Олександр Пономарьов.</description>
+      <pubDate>Fri, 05 Jul 2019 19:29:50 +0000</pubDate>
+      <dc:date>2019-07-05T19:29:50+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Творчість Заслуженої артистки України Оксани Пекун.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190628/2259012.mp3</link>
+      <description>
+	Творчість Заслуженої артистки України Оксани Пекун.</description>
+      <pubDate>Fri, 28 Jun 2019 19:30:03 +0000</pubDate>
+      <dc:date>2019-06-28T19:30:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Історія творчості  Народної артистки України Лесі Горової.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190621/2248043.mp3</link>
+      <description>
+	Історія творчості  Народної артистки України Лесі Горової.</description>
+      <pubDate>Fri, 21 Jun 2019 19:30:02 +0000</pubDate>
+      <dc:date>2019-06-21T19:30:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Гість - Народний артист України Олександр Пономарьов.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190614/2245233.mp3</link>
+      <description>
+	Гість - Народний артист України Олександр Пономарьов.</description>
+      <pubDate>Fri, 14 Jun 2019 19:30:12 +0000</pubDate>
+      <dc:date>2019-06-14T19:30:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасниця програми - заслужена артистка України Марина Одольська.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190607/2241639.mp3</link>
+      <description>
+	Учасниця програми - заслужена артистка України Марина Одольська.</description>
+      <pubDate>Fri, 07 Jun 2019 19:30:01 +0000</pubDate>
+      <dc:date>2019-06-07T19:30:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасник програми - народний артист України Віктор Павлік.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190531/2239304.mp3</link>
+      <description>
+	Учасник програми - народний артист України Віктор Павлік.</description>
+      <pubDate>Fri, 31 May 2019 19:30:04 +0000</pubDate>
+      <dc:date>2019-05-31T19:30:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Учасниця програми - народна артистка України Алла Кудлай.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190524/2234727.mp3</link>
+      <description>
+	Учасниця програми - народна артистка України Алла Кудлай.</description>
+      <pubDate>Fri, 24 May 2019 19:30:02 +0000</pubDate>
+      <dc:date>2019-05-24T19:30:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Історія успіху і пісні заслуженої артистки України Марини Одольської.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190517/2229138.mp3</link>
+      <description>
+	Історія успіху і пісні заслуженої артистки України Марини Одольської.</description>
+      <pubDate>Fri, 17 May 2019 19:30:06 +0000</pubDate>
+      <dc:date>2019-05-17T19:30:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <item>
+      <title>
+	Рок-музикант, власник однієї з найвідоміших студій у Києві Сергій Доценко.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20190510/2224432.mp3</link>
+      <description>
+	Рок-музикант, власник однієї з найвідоміших студій у Києві Сергій Доценко.</description>
+      <pubDate>Fri, 10 May 2019 19:29:30 +0000</pubDate>
+      <dc:date>2019-05-10T19:29:30+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212318_63bb319ee8fb5.png"/>
+    </item>
+    <dc:date>2024-03-18T08:49:57+00:00</dc:date>
+  </channel>
+</rss>

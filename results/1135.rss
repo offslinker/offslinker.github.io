@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Українське суспільство</title>
+    <link>https://ukr.radio/prog.html?id=1135</link>
+    <description>Портретні історії. Розповідаємо про Україну словами героя програми.
+
+Україна воює на фронті, Україна відновлює свою зруйновану війною економіку. Бесіди, інтерв’ю, нариси про громадян України які захищають та творять сучасне українське суспільство незалежно від вікової категорії, політичних переконань або віросповідання. Успіхи та проблеми з якими стикається українське суспільство в новому тисячолітті, викликані російською агресією та вторгненням, думки громадян та політологів щодо необхідності реформування соціально-економічного життя українців. 
+
+Передачі про успіхи та перспективи України на шляху до євро інтеграції. Висвітлення різних проектів транскордонного співробітництва між регіонами України та сусідніми країнами.</description>
+    <pubDate>Mon, 18 Mar 2024 08:55:48 +0000</pubDate>
+    <item>
+      <title>„Cuvintele tale profetice sunt întotdeauna relevante, Marele Сobzar!”</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240310/3779261.mp3</link>
+      <description>„Cuvintele tale profetice sunt întotdeauna relevante, Marele Сobzar!”</description>
+      <pubDate>Sun, 10 Mar 2024 23:08:09 +0000</pubDate>
+      <dc:date>2024-03-10T23:08:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1705621258_65a9b70a2ffd3.png"/>
+    </item>
+    <item>
+      <title>Ucraina are nevoie de milioane de noi contribuabili - expertul în politici de migrație Andrii Gaiduțki.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240225/3765127.mp3</link>
+      <description>Ucraina are nevoie de milioane de noi contribuabili - expertul în politici de migrație Andrii Gaiduțki.</description>
+      <pubDate>Sun, 25 Feb 2024 23:08:09 +0000</pubDate>
+      <dc:date>2024-02-25T23:08:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1705621258_65a9b70a2ffd3.png"/>
+    </item>
+    <item>
+      <title>Emisiune consacrată Zilei internaționale a comemorării victimelor Holocaustului. „Drept între popoare” – de acest titlu s-a învrednicit primarul orașului Cernăuți din anul 1941, românul Traian Popovici, care a salvat de la moarte sigură 20 mii de evrei cernăuțeni. Dialog cu jurnalistul și istoricul Serghii Voronțov, autorul unei cărți și al scenariului unui film despre Traian Popovici.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240128/3730630.mp3</link>
+      <description>Emisiune consacrată Zilei internaționale a comemorării victimelor Holocaustului. „Drept între popoare” – de acest titlu s-a învrednicit primarul orașului Cernăuți din anul 1941, românul Traian Popovici, care a salvat de la moarte sigură 20 mii de evrei cernăuțeni. Dialog cu jurnalistul și istoricul Serghii Voronțov, autorul unei cărți și al scenariului unui film despre Traian Popovici.</description>
+      <pubDate>Sun, 28 Jan 2024 23:08:13 +0000</pubDate>
+      <dc:date>2024-01-28T23:08:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1705621258_65a9b70a2ffd3.png"/>
+    </item>
+    <item>
+      <title>Războiul a arătat cât de mult se poate schimba o societate. O componentă-cheie a rezistenței societății ucrainene în fața agresorului este voluntariatul. Dialog cu Serghii Dobrjanski, deputat în Consiliul Regional Cernăuți și Secretar al Comitetului executiv al primăriei orășenești, care s-a încadrat în activitatea de voluntariat, acordând un ajutor considerabil celor din prima linie – bravilor apărători ai pământului natal.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240114/3717491.mp3</link>
+      <description>Războiul a arătat cât de mult se poate schimba o societate. O componentă-cheie a rezistenței societății ucrainene în fața agresorului este voluntariatul. Dialog cu Serghii Dobrjanski, deputat în Consiliul Regional Cernăuți și Secretar al Comitetului executiv al primăriei orășenești, care s-a încadrat în activitatea de voluntariat, acordând un ajutor considerabil celor din prima linie – bravilor apărători ai pământului natal.</description>
+      <pubDate>Sun, 14 Jan 2024 23:08:05 +0000</pubDate>
+      <dc:date>2024-01-14T23:08:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1705621258_65a9b70a2ffd3.png"/>
+    </item>
+    <dc:date>2024-03-18T08:55:48+00:00</dc:date>
+  </channel>
+</rss>
