@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Цікаво знати</title>
+    <link>https://ukr.radio/prog.html?id=1108</link>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2024 14:32:57 +0000</pubDate>
+    <item>
+      <title>Херсон - місто на півдні України, адміністративний центр міської громади та Херсонського району Херсонської області.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20231105/3626831.mp3</link>
+      <description>Херсон - місто на півдні України, адміністративний центр міської громади та Херсонського району Херсонської області.</description>
+      <pubDate>Sun, 05 Nov 2023 03:17:04 +0000</pubDate>
+      <dc:date>2023-11-05T03:17:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1703281508_658603648a425.jpg"/>
+    </item>
+    <dc:date>2024-03-19T14:32:57+00:00</dc:date>
+  </channel>
+</rss>

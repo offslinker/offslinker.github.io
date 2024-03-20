@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Як ми їмо: кухня воєнного повсякдення</title>
+    <link>https://ukr.radio/prog.html?id=1149</link>
+    <description>Радіодокументальний проєкт Радіо Культура до роковин повномасштабного російського вторгнення в Україну.
+
+Досліджуємо спогади очевидців про рутину виживання. Що і як готували та їли українці на окупованих територіях? Чим годували домашніх улюбленців? Що їдять українські військові на фронті? Як змінилося ставлення до їжі за час війни?</description>
+    <pubDate>Tue, 19 Mar 2024 15:26:10 +0000</pubDate>
+    <item>
+      <title>Наші нові харчові звички</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240223/3767590.mp3</link>
+      <description>Наші нові харчові звички</description>
+      <pubDate>Fri, 23 Feb 2024 19:40:00 +0000</pubDate>
+      <dc:date>2024-02-23T19:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1708118598_65cfd24617045.png"/>
+    </item>
+    <item>
+      <title>Наші рідні хвостики</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240223/3767605.mp3</link>
+      <description>Наші рідні хвостики</description>
+      <pubDate>Fri, 23 Feb 2024 12:05:04 +0000</pubDate>
+      <dc:date>2024-02-23T12:05:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1708118598_65cfd24617045.png"/>
+    </item>
+    <item>
+      <title>Харчування військових</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240222/3765982.mp3</link>
+      <description>Харчування військових</description>
+      <pubDate>Thu, 22 Feb 2024 12:05:13 +0000</pubDate>
+      <dc:date>2024-02-22T12:05:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1708118598_65cfd24617045.png"/>
+    </item>
+    <item>
+      <title>Їжа, мова та вимушене переселення</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240221/3765726.mp3</link>
+      <description>Їжа, мова та вимушене переселення</description>
+      <pubDate>Wed, 21 Feb 2024 12:05:12 +0000</pubDate>
+      <dc:date>2024-02-21T12:05:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1708118598_65cfd24617045.png"/>
+    </item>
+    <item>
+      <title>Кухня окупації. Що і як їли українці на окупованих територіях?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240220/3760482.mp3</link>
+      <description>Кухня окупації. Що і як їли українці на окупованих територіях?</description>
+      <pubDate>Tue, 20 Feb 2024 12:06:34 +0000</pubDate>
+      <dc:date>2024-02-20T12:06:34+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1708118598_65cfd24617045.png"/>
+    </item>
+    <item>
+      <title>Ціна хліба. Чому хліб під час війни особливий?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240219/3762199.mp3</link>
+      <description>Ціна хліба. Чому хліб під час війни особливий?</description>
+      <pubDate>Mon, 19 Feb 2024 12:05:07 +0000</pubDate>
+      <dc:date>2024-02-19T12:05:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1708118598_65cfd24617045.png"/>
+    </item>
+    <dc:date>2024-03-19T15:26:10+00:00</dc:date>
+  </channel>
+</rss>

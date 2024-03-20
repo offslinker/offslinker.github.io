@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>ДеньПРО</title>
+    <link>https://ukr.radio/prog.html?id=602</link>
+    <description>Ми знаємо, що у кожного дня – своя окрема історія. І ми її створюємо! Тригодинне шоу з молодіжним лайфстайлом і актуальною українською музикою. Це твій денний інфотеймент та інтерактив.</description>
+    <pubDate>Tue, 19 Mar 2024 15:32:22 +0000</pubDate>
+    <item>
+      <title>Ми знаємо, що у кожного дня – своя окрема історія. І ми її створюємо! Тригодинне шоу з молодіжним лайфстайлом і актуальною українською музикою. Це твій денний інфотеймент та інтерактив.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200831/2583659.mp3</link>
+      <description>Ми знаємо, що у кожного дня – своя окрема історія. І ми її створюємо! Тригодинне шоу з молодіжним лайфстайлом і актуальною українською музикою. Це твій денний інфотеймент та інтерактив.</description>
+      <pubDate>Mon, 31 Aug 2020 14:51:15 +0000</pubDate>
+      <dc:date>2020-08-31T14:51:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056683_63f5daab1d45c.png"/>
+    </item>
+    <item>
+      <title>
+	Денне шоу</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200805/2565625.mp3</link>
+      <description>
+	Денне шоу</description>
+      <pubDate>Wed, 05 Aug 2020 12:24:03 +0000</pubDate>
+      <dc:date>2020-08-05T12:24:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056683_63f5daab1d45c.png"/>
+    </item>
+    <item>
+      <title>
+	Денне шоу</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200316/2450448.mp3</link>
+      <description>
+	Денне шоу</description>
+      <pubDate>Mon, 16 Mar 2020 12:41:42 +0000</pubDate>
+      <dc:date>2020-03-16T12:41:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056683_63f5daab1d45c.png"/>
+    </item>
+    <item>
+      <title>
+	Денне шоу</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200302/2439929.mp3</link>
+      <description>
+	Денне шоу</description>
+      <pubDate>Mon, 02 Mar 2020 12:47:11 +0000</pubDate>
+      <dc:date>2020-03-02T12:47:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056683_63f5daab1d45c.png"/>
+    </item>
+    <dc:date>2024-03-19T15:32:22+00:00</dc:date>
+  </channel>
+</rss>

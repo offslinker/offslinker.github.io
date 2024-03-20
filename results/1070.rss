@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Знати більше. Крим</title>
+    <link>https://ukr.radio/prog.html?id=1070</link>
+    <description>Проект Українського Радіо до третього саміту Кримської платформи.
+
+Міжпрограмки про маловідомі історичні факти, знакові постаті – кримських татар і уродженців Криму, цікаві культурні явища і привабливі географічні об&#39;єкти.                       </description>
+    <pubDate>Tue, 19 Mar 2024 15:26:08 +0000</pubDate>
+    <item>
+      <title>Прапор і герб кримськотатарського народу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3551569.mp3</link>
+      <description>Прапор і герб кримськотатарського народу.</description>
+      <pubDate>Wed, 23 Aug 2023 23:54:31 +0000</pubDate>
+      <dc:date>2023-08-23T23:54:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Кримськотатарський орнамент &quot;орьнек&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3556729.mp3</link>
+      <description>Кримськотатарський орнамент &quot;орьнек&quot;.</description>
+      <pubDate>Wed, 23 Aug 2023 17:25:28 +0000</pubDate>
+      <dc:date>2023-08-23T17:25:28+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Іван Айвазовський, художник, колекціонер і меценат.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3555671.mp3</link>
+      <description>Іван Айвазовський, художник, колекціонер і меценат.</description>
+      <pubDate>Wed, 23 Aug 2023 14:52:26 +0000</pubDate>
+      <dc:date>2023-08-23T14:52:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Саїде Аріфова.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3551588.mp3</link>
+      <description>Саїде Аріфова.</description>
+      <pubDate>Wed, 23 Aug 2023 12:35:01 +0000</pubDate>
+      <dc:date>2023-08-23T12:35:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Іван Айвазовський, художник, колекціонер і меценат.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3556259.mp3</link>
+      <description>Іван Айвазовський, художник, колекціонер і меценат.</description>
+      <pubDate>Wed, 23 Aug 2023 11:22:07 +0000</pubDate>
+      <dc:date>2023-08-23T11:22:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Прапор і герб кримськотатарського народу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3556253.mp3</link>
+      <description>Прапор і герб кримськотатарського народу.</description>
+      <pubDate>Wed, 23 Aug 2023 10:26:14 +0000</pubDate>
+      <dc:date>2023-08-23T10:26:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Бахчисарайський &quot;Фонтан сліз&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3551550.mp3</link>
+      <description>Бахчисарайський &quot;Фонтан сліз&quot;.</description>
+      <pubDate>Wed, 23 Aug 2023 06:52:40 +0000</pubDate>
+      <dc:date>2023-08-23T06:52:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <item>
+      <title>Кримський хан спалив Москву.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230823/3555669.mp3</link>
+      <description>Кримський хан спалив Москву.</description>
+      <pubDate>Wed, 23 Aug 2023 00:36:06 +0000</pubDate>
+      <dc:date>2023-08-23T00:36:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1692724911_64e4eeaf9ee2c.png"/>
+    </item>
+    <dc:date>2024-03-19T15:26:08+00:00</dc:date>
+  </channel>
+</rss>

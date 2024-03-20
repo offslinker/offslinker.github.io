@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Кружляння слів</title>
+    <link>https://ukr.radio/prog.html?id=522</link>
+    <description>Актуальні автори та живі тексти – без краваток, масок, без хрестоматійного глянцю. Передача про літературу, про її творців, про сучасний літературний процес, про потаємні закутки авторських душ.</description>
+    <pubDate>Tue, 19 Mar 2024 15:30:28 +0000</pubDate>
+    <item>
+      <title>&quot;Український пріоритет&quot;: в чому він?&quot; Гість - Родіон Шовкошитний, видавець, волонтер, громадський діяч</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220223/3077412.mp3</link>
+      <description>&quot;Український пріоритет&quot;: в чому він?&quot; Гість - Родіон Шовкошитний, видавець, волонтер, громадський діяч</description>
+      <pubDate>Wed, 23 Feb 2022 12:07:53 +0000</pubDate>
+      <dc:date>2022-02-23T12:07:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Пам&#39;яті Івана Дзюби. Говорять Леонід Фінберг, Юрій Шаповал, Юрій Андрухович, Лариса Масенко та інші</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220222/3077181.mp3</link>
+      <description>Пам&#39;яті Івана Дзюби. Говорять Леонід Фінберг, Юрій Шаповал, Юрій Андрухович, Лариса Масенко та інші</description>
+      <pubDate>Tue, 22 Feb 2022 14:10:01 +0000</pubDate>
+      <dc:date>2022-02-22T14:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Холодний яр - forever&quot;. Гість - Роман Коваль, публіцист, історик, громадський діяч</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220209/3065906.mp3</link>
+      <description>&quot;Холодний яр - forever&quot;. Гість - Роман Коваль, публіцист, історик, громадський діяч</description>
+      <pubDate>Wed, 09 Feb 2022 12:09:44 +0000</pubDate>
+      <dc:date>2022-02-09T12:09:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>По Білій Церкві - з любов&#39;ю. Гості - краєзнавець Олександр Кузьменко; поет Кость Мордатенко та інші</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220208/3065655.mp3</link>
+      <description>По Білій Церкві - з любов&#39;ю. Гості - краєзнавець Олександр Кузьменко; поет Кость Мордатенко та інші</description>
+      <pubDate>Tue, 08 Feb 2022 12:10:01 +0000</pubDate>
+      <dc:date>2022-02-08T12:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Таємниця старого маяка. Гість - Анатолій Качан</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220202/3058707.mp3</link>
+      <description>Таємниця старого маяка. Гість - Анатолій Качан</description>
+      <pubDate>Wed, 02 Feb 2022 12:10:00 +0000</pubDate>
+      <dc:date>2022-02-02T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Знайдена &quot;Пропала грамота&quot;. Гість - Олексій Бешуля, письменник, видавець, ветеран АТО</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220201/3058456.mp3</link>
+      <description>Знайдена &quot;Пропала грамота&quot;. Гість - Олексій Бешуля, письменник, видавець, ветеран АТО</description>
+      <pubDate>Tue, 01 Feb 2022 12:10:08 +0000</pubDate>
+      <dc:date>2022-02-01T12:10:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Кружляння з колядою&quot;. Гість - Роман Коляда, музикант, поет, журналіст</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220126/3051439.mp3</link>
+      <description>&quot;Кружляння з колядою&quot;. Гість - Роман Коляда, музикант, поет, журналіст</description>
+      <pubDate>Wed, 26 Jan 2022 12:10:00 +0000</pubDate>
+      <dc:date>2022-01-26T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Чверть віку творчого дзену&quot;. Гість - Олександр Положинський, співак, шоумен, читач</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220125/3051188.mp3</link>
+      <description>&quot;Чверть віку творчого дзену&quot;. Гість - Олександр Положинський, співак, шоумен, читач</description>
+      <pubDate>Tue, 25 Jan 2022 12:10:00 +0000</pubDate>
+      <dc:date>2022-01-25T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Непозичений дар. До 85-ї річниці від дня народження Євгена Гуцала. Гість - Леся Воронина</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220119/3045684.mp3</link>
+      <description>Непозичений дар. До 85-ї річниці від дня народження Євгена Гуцала. Гість - Леся Воронина</description>
+      <pubDate>Wed, 19 Jan 2022 12:10:01 +0000</pubDate>
+      <dc:date>2022-01-19T12:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Від Балтимору до Холодного яру. Гість - Руслан Найда, скульптор, прозаїк, козак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220118/3045433.mp3</link>
+      <description>Від Балтимору до Холодного яру. Гість - Руслан Найда, скульптор, прозаїк, козак</description>
+      <pubDate>Tue, 18 Jan 2022 12:10:01 +0000</pubDate>
+      <dc:date>2022-01-18T12:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Коляда і вертеп в поезії Стуса, Чубая і Калинця: чи був політичний підтекст? Говорить: перекладачка Роксоляна Свято</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220112/3039600.mp3</link>
+      <description>Коляда і вертеп в поезії Стуса, Чубая і Калинця: чи був політичний підтекст? Говорить: перекладачка Роксоляна Свято</description>
+      <pubDate>Wed, 12 Jan 2022 12:10:01 +0000</pubDate>
+      <dc:date>2022-01-12T12:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Все серйозно, а від того - смішно. Гість - Юрій Луканов, поет-іроніст, прозаїк, журналіст</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220111/3039349.mp3</link>
+      <description>Все серйозно, а від того - смішно. Гість - Юрій Луканов, поет-іроніст, прозаїк, журналіст</description>
+      <pubDate>Tue, 11 Jan 2022 12:10:03 +0000</pubDate>
+      <dc:date>2022-01-11T12:10:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Поезія й шоурум&quot;. Гість - Ірина Сажинська, поетка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220105/3034235.mp3</link>
+      <description>&quot;Поезія й шоурум&quot;. Гість - Ірина Сажинська, поетка</description>
+      <pubDate>Wed, 05 Jan 2022 12:10:00 +0000</pubDate>
+      <dc:date>2022-01-05T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Найкраще місце для хорошого сексу - бібліотека...&quot; Гість - Сергій &quot;Колос&quot; Мартинюк, музикант. письменник, лідер гурту &quot;Фіолет&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220104/3033984.mp3</link>
+      <description>&quot;Найкраще місце для хорошого сексу - бібліотека...&quot; Гість - Сергій &quot;Колос&quot; Мартинюк, музикант. письменник, лідер гурту &quot;Фіолет&quot;</description>
+      <pubDate>Tue, 04 Jan 2022 12:10:00 +0000</pubDate>
+      <dc:date>2022-01-04T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Шевченківська премія й довкола неї. Гість - Тамара Гундорова, літературознавиця, культуролог, професорка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211229/3028654.mp3</link>
+      <description>Шевченківська премія й довкола неї. Гість - Тамара Гундорова, літературознавиця, культуролог, професорка</description>
+      <pubDate>Wed, 29 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-29T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Віхи літературного року. Учасники - Олена Гусейнова і Марина Муляр</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211228/3028401.mp3</link>
+      <description>Віхи літературного року. Учасники - Олена Гусейнова і Марина Муляр</description>
+      <pubDate>Tue, 28 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-28T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Що у братів?&quot; Гості - Брати Капранови</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211222/3019524.mp3</link>
+      <description>&quot;Що у братів?&quot; Гості - Брати Капранови</description>
+      <pubDate>Wed, 22 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-22T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Книга про розмаїття та рівність&quot;. Гостя - Анастасія Степула, журналістка, письменниця, засновниця громадського об’єднання &quot;Happy Today – просвітницькі проекти про аутизм&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211221/3019273.mp3</link>
+      <description>&quot;Книга про розмаїття та рівність&quot;. Гостя - Анастасія Степула, журналістка, письменниця, засновниця громадського об’єднання &quot;Happy Today – просвітницькі проекти про аутизм&quot;</description>
+      <pubDate>Tue, 21 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-21T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Мій квітучий рік&quot;. Гостя - Мар&#39;яна Савка, письменниця, редакторка і співзасновниця &quot;Видавництва Старого Лева&quot;, громадська діячка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211215/3013914.mp3</link>
+      <description>&quot;Мій квітучий рік&quot;. Гостя - Мар&#39;яна Савка, письменниця, редакторка і співзасновниця &quot;Видавництва Старого Лева&quot;, громадська діячка</description>
+      <pubDate>Wed, 15 Dec 2021 12:09:48 +0000</pubDate>
+      <dc:date>2021-12-15T12:09:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Шкіра міст&quot;. Гостя - Олена Павлова, письменниця, художниця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211214/3013663.mp3</link>
+      <description>&quot;Шкіра міст&quot;. Гостя - Олена Павлова, письменниця, художниця</description>
+      <pubDate>Tue, 14 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-14T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Чверть віку творчого дзену. Гість - Олександр Положинський, співак, шоумен, читач</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211208/3008256.mp3</link>
+      <description>Чверть віку творчого дзену. Гість - Олександр Положинський, співак, шоумен, читач</description>
+      <pubDate>Wed, 08 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-08T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Від Орелі до Царгорода. Гість - Юрій Буряк, поет, перекладач, видавець</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211207/3003618.mp3</link>
+      <description>Від Орелі до Царгорода. Гість - Юрій Буряк, поет, перекладач, видавець</description>
+      <pubDate>Tue, 07 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-07T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Анатомія міста&quot;. Гість - Наталія Бельченко, поетеса, перекладач</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211201/2999967.mp3</link>
+      <description>&quot;Анатомія міста&quot;. Гість - Наталія Бельченко, поетеса, перекладач</description>
+      <pubDate>Wed, 01 Dec 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-12-01T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Полеміка Тютюнника з Підмогильним&quot;. Гість - Михайло Бриних, письменник, есеїст, сценарист</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211130/2999716.mp3</link>
+      <description>&quot;Полеміка Тютюнника з Підмогильним&quot;. Гість - Михайло Бриних, письменник, есеїст, сценарист</description>
+      <pubDate>Tue, 30 Nov 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-11-30T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;In memoriam&quot;. Марина Брацило</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211124/2995346.mp3</link>
+      <description>&quot;In memoriam&quot;. Марина Брацило</description>
+      <pubDate>Wed, 24 Nov 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-11-24T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Чи втілиться &quot;Сталінка&quot; на кіноекрані?&quot; Гість - режисер Володимир Тихий</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211123/2995095.mp3</link>
+      <description>&quot;Чи втілиться &quot;Сталінка&quot; на кіноекрані?&quot; Гість - режисер Володимир Тихий</description>
+      <pubDate>Tue, 23 Nov 2021 12:10:03 +0000</pubDate>
+      <dc:date>2021-11-23T12:10:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Письменники і Радіо&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211116/2986113.mp3</link>
+      <description>&quot;Письменники і Радіо&quot;</description>
+      <pubDate>Tue, 16 Nov 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-11-16T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>До 85-річчя Миколи Вінграновського. Гості - Анатолій Качан, Лідія Вінграновська, Мирослав Лазарук (Чернівці)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211109/2981174.mp3</link>
+      <description>До 85-річчя Миколи Вінграновського. Гості - Анатолій Качан, Лідія Вінграновська, Мирослав Лазарук (Чернівці)</description>
+      <pubDate>Tue, 09 Nov 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-11-09T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>In memoriam. Володимир Рутківський</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211102/2973079.mp3</link>
+      <description>In memoriam. Володимир Рутківський</description>
+      <pubDate>Tue, 02 Nov 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-11-02T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Те, чого ви не знали про Михайля Семенка розкаже Люба Якимчук. Ексклюзивно для Радіо Культура</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211027/2968525.mp3</link>
+      <description>Те, чого ви не знали про Михайля Семенка розкаже Люба Якимчук. Ексклюзивно для Радіо Культура</description>
+      <pubDate>Wed, 27 Oct 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-10-27T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Мукачево - не перше, але й не друге&quot;. Гість - Тетяна Рибар (Мукачево)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211026/2968274.mp3</link>
+      <description>&quot;Мукачево - не перше, але й не друге&quot;. Гість - Тетяна Рибар (Мукачево)</description>
+      <pubDate>Tue, 26 Oct 2021 12:10:02 +0000</pubDate>
+      <dc:date>2021-10-26T12:10:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Я не був драґдилером гурту &quot;Вій&quot;. Гості - Олександр Павлов, журналіст, письменник, арт-менеджер (Берлін-Київ); Сергій Литвинюк-&quot;Літл&quot;, музичний продюсер, літератор</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211020/2963024.mp3</link>
+      <description>&quot;Я не був драґдилером гурту &quot;Вій&quot;. Гості - Олександр Павлов, журналіст, письменник, арт-менеджер (Берлін-Київ); Сергій Литвинюк-&quot;Літл&quot;, музичний продюсер, літератор</description>
+      <pubDate>Wed, 20 Oct 2021 12:10:02 +0000</pubDate>
+      <dc:date>2021-10-20T12:10:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Вічна Хортиця. Гість - Костянтин Сушко, прозаік і публіцист із Запоріжжя</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211019/2962773.mp3</link>
+      <description>Вічна Хортиця. Гість - Костянтин Сушко, прозаік і публіцист із Запоріжжя</description>
+      <pubDate>Tue, 19 Oct 2021 12:10:18 +0000</pubDate>
+      <dc:date>2021-10-19T12:10:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Між Сциллою і Харибдою&quot;. Гість - письменник Степан Процюк (Івано-Франківськ)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211013/2956426.mp3</link>
+      <description>&quot;Між Сциллою і Харибдою&quot;. Гість - письменник Степан Процюк (Івано-Франківськ)</description>
+      <pubDate>Wed, 13 Oct 2021 12:09:54 +0000</pubDate>
+      <dc:date>2021-10-13T12:09:54+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Історії з дніпровським присмаком&quot;. Гість - письменник Дмитро Бондаренко (Дніпро)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211012/2956175.mp3</link>
+      <description>&quot;Історії з дніпровським присмаком&quot;. Гість - письменник Дмитро Бондаренко (Дніпро)</description>
+      <pubDate>Tue, 12 Oct 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-10-12T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Русла зап&#39;ясть&quot;. Гість - поетка Ольга Ольхова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211006/2949791.mp3</link>
+      <description>&quot;Русла зап&#39;ясть&quot;. Гість - поетка Ольга Ольхова</description>
+      <pubDate>Wed, 06 Oct 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-10-06T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Візерунки на пергаменті часу&quot;. Гість - Михайло Сидоржевський, прозаїк, публіцист, голова НСПУ</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211005/2949540.mp3</link>
+      <description>&quot;Візерунки на пергаменті часу&quot;. Гість - Михайло Сидоржевський, прозаїк, публіцист, голова НСПУ</description>
+      <pubDate>Tue, 05 Oct 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-10-05T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Тема Голокосту в українській літературі. Леонід Первомайський. Гість - Ганна Клименко-Синьоок, поетка, перекладачка, критикиня</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210929/2945083.mp3</link>
+      <description>Тема Голокосту в українській літературі. Леонід Первомайський. Гість - Ганна Клименко-Синьоок, поетка, перекладачка, критикиня</description>
+      <pubDate>Wed, 29 Sep 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-09-29T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Чендей-Фест&quot;. До 100-річчя Івана Чендея. Гості - Сидір Кіраль (професор), Роксолана Жаркова (літературознавиця, Львів), Олександр Гаврош (письменник, Ужгород)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210914/2929551.mp3</link>
+      <description>&quot;Чендей-Фест&quot;. До 100-річчя Івана Чендея. Гості - Сидір Кіраль (професор), Роксолана Жаркова (літературознавиця, Львів), Олександр Гаврош (письменник, Ужгород)</description>
+      <pubDate>Tue, 14 Sep 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-09-14T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Ром із циганською душею&quot; - перший ромський письменник Закарпаття Микола Бурмек-Дюрю; Нова виставка в музеї Голодомору</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210908/2923932.mp3</link>
+      <description>&quot;Ром із циганською душею&quot; - перший ромський письменник Закарпаття Микола Бурмек-Дюрю; Нова виставка в музеї Голодомору</description>
+      <pubDate>Wed, 08 Sep 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-09-08T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Дівчатка трьох поколінь&quot;. Гостя - Уляна Глібчук, письменниця, журналістка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210907/2923680.mp3</link>
+      <description>&quot;Дівчатка трьох поколінь&quot;. Гостя - Уляна Глібчук, письменниця, журналістка</description>
+      <pubDate>Tue, 07 Sep 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-09-07T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Чому Європа - заплакана?&quot; Гість - Наталка Доляк (Вінниця)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210831/2913127.mp3</link>
+      <description>&quot;Чому Європа - заплакана?&quot; Гість - Наталка Доляк (Вінниця)</description>
+      <pubDate>Tue, 31 Aug 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-08-31T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Український океан&quot;. Гість - Антон Санченко, письменник, перекладач, видавець</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210810/2899474.mp3</link>
+      <description>&quot;Український океан&quot;. Гість - Антон Санченко, письменник, перекладач, видавець</description>
+      <pubDate>Tue, 10 Aug 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-08-10T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Принциповий флюгер&quot;. Гість - поет-гуморист Микола Білокопитов (Запоріжжя)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210727/2885705.mp3</link>
+      <description>&quot;Принциповий флюгер&quot;. Гість - поет-гуморист Микола Білокопитов (Запоріжжя)</description>
+      <pubDate>Tue, 27 Jul 2021 12:10:02 +0000</pubDate>
+      <dc:date>2021-07-27T12:10:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Єдиний пріоритет - український&quot;. Гість - Володимир Шовкошитний, письменник, політки, видавець</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210720/2880620.mp3</link>
+      <description>&quot;Єдиний пріоритет - український&quot;. Гість - Володимир Шовкошитний, письменник, політки, видавець</description>
+      <pubDate>Tue, 20 Jul 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-07-20T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Українські генерали і новітній Гетьманат&quot;. Гість - Віталій Абліцов, публіцист</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210706/2866150.mp3</link>
+      <description>&quot;Українські генерали і новітній Гетьманат&quot;. Гість - Віталій Абліцов, публіцист</description>
+      <pubDate>Tue, 06 Jul 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-07-06T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Яся любить полунички&quot; - гість поетеса Надія Степула</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210629/2856203.mp3</link>
+      <description>&quot;Яся любить полунички&quot; - гість поетеса Надія Степула</description>
+      <pubDate>Tue, 29 Jun 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-06-29T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Іловайськ з того боку горба&quot;. Гість - письменник Євген Положій</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210622/2853780.mp3</link>
+      <description>&quot;Іловайськ з того боку горба&quot;. Гість - письменник Євген Положій</description>
+      <pubDate>Tue, 22 Jun 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-06-22T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Від Женеви до Києва - далі повсюдно&quot;. Гість - письменник Олесь Ільченко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210615/2844900.mp3</link>
+      <description>&quot;Від Женеви до Києва - далі повсюдно&quot;. Гість - письменник Олесь Ільченко</description>
+      <pubDate>Tue, 15 Jun 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-06-15T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Заложна душа та козацький оберіг&quot;. Гість - письменник Дмитро Білий (Донецьк-Львів-Київ)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210608/2838626.mp3</link>
+      <description>&quot;Заложна душа та козацький оберіг&quot;. Гість - письменник Дмитро Білий (Донецьк-Львів-Київ)</description>
+      <pubDate>Tue, 08 Jun 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-06-08T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Вірш як намаз, і – навпаки&quot;. Гість – Анвар Деркач, поет, публіцист</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210601/2830218.mp3</link>
+      <description>&quot;Вірш як намаз, і – навпаки&quot;. Гість – Анвар Деркач, поет, публіцист</description>
+      <pubDate>Tue, 01 Jun 2021 12:09:58 +0000</pubDate>
+      <dc:date>2021-06-01T12:09:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Старі &quot;Леви&quot; й нові &quot;Мар&#39;яничі&quot;. Гість - Мар&#39;яна Савка, поетка, видавець</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210420/2796502.mp3</link>
+      <description>Старі &quot;Леви&quot; й нові &quot;Мар&#39;яничі&quot;. Гість - Мар&#39;яна Савка, поетка, видавець</description>
+      <pubDate>Tue, 20 Apr 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-04-20T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Кава по-київськи&quot;. Гість - письменник Сергій Батурин</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210330/2773145.mp3</link>
+      <description>&quot;Кава по-київськи&quot;. Гість - письменник Сергій Батурин</description>
+      <pubDate>Tue, 30 Mar 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-03-30T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Чорноморець&quot; зі схрону&quot;. Гість - Андрій Криштальський, поет, прозаїк (Луцьк)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210323/2768465.mp3</link>
+      <description>&quot;Чорноморець&quot; зі схрону&quot;. Гість - Андрій Криштальський, поет, прозаїк (Луцьк)</description>
+      <pubDate>Tue, 23 Mar 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-03-23T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Свобода слова та пропаганда: чому медіаграмотність - це питання безпеки. Говорять: Олександр Ободович, Богдан Червак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210309/2756520.mp3</link>
+      <description>Свобода слова та пропаганда: чому медіаграмотність - це питання безпеки. Говорять: Олександр Ободович, Богдан Червак</description>
+      <pubDate>Tue, 09 Mar 2021 12:17:47 +0000</pubDate>
+      <dc:date>2021-03-09T12:17:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Кривавий місяць над Менчулом&quot;. Гість - письменник Михайло Рошко (Ужгород)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210302/2749859.mp3</link>
+      <description>&quot;Кривавий місяць над Менчулом&quot;. Гість - письменник Михайло Рошко (Ужгород)</description>
+      <pubDate>Tue, 02 Mar 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-03-02T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Молодий поет із сивою чуприною&quot;. Гість - Олександр Косенко (Кропивницький)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210223/2744180.mp3</link>
+      <description>&quot;Молодий поет із сивою чуприною&quot;. Гість - Олександр Косенко (Кропивницький)</description>
+      <pubDate>Tue, 23 Feb 2021 12:10:00 +0000</pubDate>
+      <dc:date>2021-02-23T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Пантюк, &quot;Сліва&quot; і &quot;Віршень&quot;. Гість - Сергій Пантюк, поет, прозаїк, видавець, громадський діяч</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210216/2737401.mp3</link>
+      <description>Пантюк, &quot;Сліва&quot; і &quot;Віршень&quot;. Гість - Сергій Пантюк, поет, прозаїк, видавець, громадський діяч</description>
+      <pubDate>Tue, 16 Feb 2021 12:10:01 +0000</pubDate>
+      <dc:date>2021-02-16T12:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Трилер із криївки&quot;. Гість - Андрій Криштальський, письменник, видавець (Луцьк)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201229/2691384.mp3</link>
+      <description>&quot;Трилер із криївки&quot;. Гість - Андрій Криштальський, письменник, видавець (Луцьк)</description>
+      <pubDate>Tue, 29 Dec 2020 12:10:00 +0000</pubDate>
+      <dc:date>2020-12-29T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>&quot;Неаполь - італійська Україна&quot;. Гість - Володимир Караченцев, поет, перекладач, дипломат</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201208/2673112.mp3</link>
+      <description>&quot;Неаполь - італійська Україна&quot;. Гість - Володимир Караченцев, поет, перекладач, дипломат</description>
+      <pubDate>Tue, 08 Dec 2020 12:10:02 +0000</pubDate>
+      <dc:date>2020-12-08T12:10:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>Вірш як намаз, і - навпаки. Гість - Анвар Деркач, поет, публіцист</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201117/2653549.mp3</link>
+      <description>Вірш як намаз, і - навпаки. Гість - Анвар Деркач, поет, публіцист</description>
+      <pubDate>Tue, 17 Nov 2020 12:10:00 +0000</pubDate>
+      <dc:date>2020-11-17T12:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Письменники вдома. Чим живуть літератори на карантині. Учасники: Вікторія Амеліна, Гаська Шиян, Андрій Курков</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200915/2594255.mp3</link>
+      <description>
+	Письменники вдома. Чим живуть літератори на карантині. Учасники: Вікторія Амеліна, Гаська Шиян, Андрій Курков</description>
+      <pubDate>Tue, 15 Sep 2020 12:09:44 +0000</pubDate>
+      <dc:date>2020-09-15T12:09:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Фізика і лірика. Гість - письменник Олексій Нікітін</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200214/2425164.mp3</link>
+      <description>
+	Фізика і лірика. Гість - письменник Олексій Нікітін</description>
+      <pubDate>Fri, 14 Feb 2020 12:07:10 +0000</pubDate>
+      <dc:date>2020-02-14T12:07:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	В&#39;язнична муза. Гість - Микола Горбаль, письменник, громадський діяч, політв&#39;язень радянських таборів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200207/2419653.mp3</link>
+      <description>
+	В&#39;язнична муза. Гість - Микола Горбаль, письменник, громадський діяч, політв&#39;язень радянських таборів</description>
+      <pubDate>Fri, 07 Feb 2020 12:06:56 +0000</pubDate>
+      <dc:date>2020-02-07T12:06:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	&quot;Аби пам&#39;ятали&quot; (до 80-річчя Бориса Нечерди та Миколи Холодного). Гість - Тарас Федюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190719/2277220.mp3</link>
+      <description>
+	&quot;Аби пам&#39;ятали&quot; (до 80-річчя Бориса Нечерди та Миколи Холодного). Гість - Тарас Федюк</description>
+      <pubDate>Fri, 19 Jul 2019 12:07:07 +0000</pubDate>
+      <dc:date>2019-07-19T12:07:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Про Іллю та роллю (до 80-річчя поета Валерія Іллі). Гість - Олександр Хоменко (поет, літературознавець); поет Микола Воробйов (телефоном)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190705/2267589.mp3</link>
+      <description>
+	Про Іллю та роллю (до 80-річчя поета Валерія Іллі). Гість - Олександр Хоменко (поет, літературознавець); поет Микола Воробйов (телефоном)</description>
+      <pubDate>Fri, 05 Jul 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-07-05T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Терези: поезія і родина. Гостя - Раїса Харитонова-Талалай, письменниця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190419/2212286.mp3</link>
+      <description>
+	Терези: поезія і родина. Гостя - Раїса Харитонова-Талалай, письменниця</description>
+      <pubDate>Fri, 19 Apr 2019 12:07:07 +0000</pubDate>
+      <dc:date>2019-04-19T12:07:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Український PEN-клуб іде &quot;в народ&quot;. Гостя - Анастасія Левкова, письменниця, журналіст, куратор арт-проектів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190412/2206295.mp3</link>
+      <description>
+	Український PEN-клуб іде &quot;в народ&quot;. Гостя - Анастасія Левкова, письменниця, журналіст, куратор арт-проектів</description>
+      <pubDate>Fri, 12 Apr 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-04-12T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Вінграновський, Мішка Япончик і поезія українського Півдня. Гість - поет Юрій Островершенко (Первомайськ)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190405/2199887.mp3</link>
+      <description>
+	Вінграновський, Мішка Япончик і поезія українського Півдня. Гість - поет Юрій Островершенко (Первомайськ)</description>
+      <pubDate>Fri, 05 Apr 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-04-05T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Африка й Україна, Ерітрея й Донбас. Паралелі. Гість - Сергій Сингаївський, письменник та перекладач.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190329/2195421.mp3</link>
+      <description>
+	Африка й Україна, Ерітрея й Донбас. Паралелі. Гість - Сергій Сингаївський, письменник та перекладач.</description>
+      <pubDate>Fri, 29 Mar 2019 12:11:53 +0000</pubDate>
+      <dc:date>2019-03-29T12:11:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Київ, Алеппо чи Халеп&#39;я? Гість - Василь Трубай, прозаїк, поет, драматург</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190315/2184001.mp3</link>
+      <description>
+	Київ, Алеппо чи Халеп&#39;я? Гість - Василь Трубай, прозаїк, поет, драматург</description>
+      <pubDate>Fri, 15 Mar 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-03-15T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Родина-дитина-побут – і кружляння слів. Гість – молода поетка і перекладачка Олеся Мамчич</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190308/2179495.mp3</link>
+      <description>
+	Родина-дитина-побут – і кружляння слів. Гість – молода поетка і перекладачка Олеся Мамчич</description>
+      <pubDate>Fri, 08 Mar 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-03-08T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Молода поезія. Математика - як метафора. Гостя - Ірина Сажинська, поетка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190301/2174410.mp3</link>
+      <description>
+	Молода поезія. Математика - як метафора. Гостя - Ірина Сажинська, поетка</description>
+      <pubDate>Fri, 01 Mar 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-03-01T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <item>
+      <title>
+	Хадж, намаз і українська поезія. Гість - поет Анвар Деркач (Чернігів)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190215/2163381.mp3</link>
+      <description>
+	Хадж, намаз і українська поезія. Гість - поет Анвар Деркач (Чернігів)</description>
+      <pubDate>Fri, 15 Feb 2019 12:07:00 +0000</pubDate>
+      <dc:date>2019-02-15T12:07:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675791276_63e28bacaf5bf.png"/>
+    </item>
+    <dc:date>2024-03-19T15:30:28+00:00</dc:date>
+  </channel>
+</rss>

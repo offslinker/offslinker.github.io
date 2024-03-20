@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Сильна Доля</title>
+    <link>https://ukr.radio/prog.html?id=785</link>
+    <description></description>
+    <pubDate>Tue, 19 Mar 2024 15:32:16 +0000</pubDate>
+    <item>
+      <title>MAN SOUND ч 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220901/3228572.mp3</link>
+      <description>MAN SOUND ч 2</description>
+      <pubDate>Thu, 01 Sep 2022 12:25:19 +0000</pubDate>
+      <dc:date>2022-09-01T12:25:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>MAN SOUND ч 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220901/3228509.mp3</link>
+      <description>MAN SOUND ч 1</description>
+      <pubDate>Thu, 01 Sep 2022 12:04:01 +0000</pubDate>
+      <dc:date>2022-09-01T12:04:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Dakh Daughters ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220817/3216439.mp3</link>
+      <description>Dakh Daughters ч.2</description>
+      <pubDate>Wed, 17 Aug 2022 18:28:31 +0000</pubDate>
+      <dc:date>2022-08-17T18:28:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Dakh Daughters ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220817/3216405.mp3</link>
+      <description>Dakh Daughters ч.1</description>
+      <pubDate>Wed, 17 Aug 2022 18:04:00 +0000</pubDate>
+      <dc:date>2022-08-17T18:04:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>ДахаБраха  ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220803/3205042.mp3</link>
+      <description>ДахаБраха  ч.2</description>
+      <pubDate>Wed, 03 Aug 2022 18:27:14 +0000</pubDate>
+      <dc:date>2022-08-03T18:27:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>ДахаБраха  ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220803/3205008.mp3</link>
+      <description>ДахаБраха  ч.1</description>
+      <pubDate>Wed, 03 Aug 2022 18:06:10 +0000</pubDate>
+      <dc:date>2022-08-03T18:06:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Катя Chilly ч.2.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220720/3193275.mp3</link>
+      <description>Катя Chilly ч.2.</description>
+      <pubDate>Wed, 20 Jul 2022 18:26:52 +0000</pubDate>
+      <dc:date>2022-07-20T18:26:52+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Катя Chilly ч.1.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220720/3193241.mp3</link>
+      <description>Катя Chilly ч.1.</description>
+      <pubDate>Wed, 20 Jul 2022 18:04:10 +0000</pubDate>
+      <dc:date>2022-07-20T18:04:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Піккардійська Терція ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220622/3170407.mp3</link>
+      <description>Піккардійська Терція ч.2</description>
+      <pubDate>Wed, 22 Jun 2022 18:25:19 +0000</pubDate>
+      <dc:date>2022-06-22T18:25:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Піккардійська Терція ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220622/3170373.mp3</link>
+      <description>Піккардійська Терція ч.1</description>
+      <pubDate>Wed, 22 Jun 2022 18:03:42 +0000</pubDate>
+      <dc:date>2022-06-22T18:03:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Оксана Муха ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220601/3153188.mp3</link>
+      <description>Оксана Муха ч.2</description>
+      <pubDate>Wed, 01 Jun 2022 18:26:10 +0000</pubDate>
+      <dc:date>2022-06-01T18:26:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Оксана Муха ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20220601/3153154.mp3</link>
+      <description>Оксана Муха ч.1</description>
+      <pubDate>Wed, 01 Jun 2022 18:04:09 +0000</pubDate>
+      <dc:date>2022-06-01T18:04:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Арсен Мірзоян</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210903/2921648.mp3</link>
+      <description>Арсен Мірзоян</description>
+      <pubDate>Fri, 03 Sep 2021 20:00:11 +0000</pubDate>
+      <dc:date>2021-09-03T20:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Юркеш</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210903/2921640.mp3</link>
+      <description>Юркеш</description>
+      <pubDate>Fri, 03 Sep 2021 19:00:11 +0000</pubDate>
+      <dc:date>2021-09-03T19:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Христина Соловій</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210827/2914793.mp3</link>
+      <description>Христина Соловій</description>
+      <pubDate>Fri, 27 Aug 2021 20:00:11 +0000</pubDate>
+      <dc:date>2021-08-27T20:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Без Обмежень</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210827/2914785.mp3</link>
+      <description>Без Обмежень</description>
+      <pubDate>Fri, 27 Aug 2021 19:00:11 +0000</pubDate>
+      <dc:date>2021-08-27T19:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Kozak System</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210820/2909426.mp3</link>
+      <description>Kozak System</description>
+      <pubDate>Fri, 20 Aug 2021 20:00:11 +0000</pubDate>
+      <dc:date>2021-08-20T20:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Тарас Чубай </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210820/2909418.mp3</link>
+      <description>Тарас Чубай </description>
+      <pubDate>Fri, 20 Aug 2021 19:00:11 +0000</pubDate>
+      <dc:date>2021-08-20T19:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Друга Ріка.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210813/2903636.mp3</link>
+      <description>Друга Ріка.</description>
+      <pubDate>Fri, 13 Aug 2021 20:00:11 +0000</pubDate>
+      <dc:date>2021-08-13T20:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>Антитіла.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210813/2903628.mp3</link>
+      <description>Антитіла.</description>
+      <pubDate>Fri, 13 Aug 2021 19:00:11 +0000</pubDate>
+      <dc:date>2021-08-13T19:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>
+	Концерт-автопортрет.Антитіла.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200313/2444792.mp3</link>
+      <description>
+	Концерт-автопортрет.Антитіла.</description>
+      <pubDate>Fri, 13 Mar 2020 11:28:04 +0000</pubDate>
+      <dc:date>2020-03-13T11:28:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>
+	Концерт-автопортрет.O.Torvald</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200306/2438959.mp3</link>
+      <description>
+	Концерт-автопортрет.O.Torvald</description>
+      <pubDate>Fri, 06 Mar 2020 11:30:58 +0000</pubDate>
+      <dc:date>2020-03-06T11:30:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>
+	Концерт-автопортрет.O.Torvald</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200306/2438885.mp3</link>
+      <description>
+	Концерт-автопортрет.O.Torvald</description>
+      <pubDate>Fri, 06 Mar 2020 11:04:00 +0000</pubDate>
+      <dc:date>2020-03-06T11:04:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>
+	Концерт-автопортрет.Арсен Мірзоян.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200214/2421939.mp3</link>
+      <description>
+	Концерт-автопортрет.Арсен Мірзоян.</description>
+      <pubDate>Fri, 14 Feb 2020 11:24:32 +0000</pubDate>
+      <dc:date>2020-02-14T11:24:32+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>
+	Концерт-автопортрет.СКАЙ</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200131/2413289.mp3</link>
+      <description>
+	Концерт-автопортрет.СКАЙ</description>
+      <pubDate>Fri, 31 Jan 2020 11:24:56 +0000</pubDate>
+      <dc:date>2020-01-31T11:24:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <item>
+      <title>
+	Концерт-автопортрет.СКАЙ</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200131/2413214.mp3</link>
+      <description>
+	Концерт-автопортрет.СКАЙ</description>
+      <pubDate>Fri, 31 Jan 2020 11:03:37 +0000</pubDate>
+      <dc:date>2020-01-31T11:03:37+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690232255_64bee5bf2fc87.png"/>
+    </item>
+    <dc:date>2024-03-19T15:32:16+00:00</dc:date>
+  </channel>
+</rss>
