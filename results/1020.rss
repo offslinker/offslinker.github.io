@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Війна. Пори року. Спецпроєкт Українського Радіо</title>
+    <link>https://ukr.radio/prog.html?id=1020</link>
+    <description>Проєкт про особливості ведення бойових дій в різних сезонах на прикладі конкретних військових кампаній кінця ХХ — початку ХХІ століття. Що заважає бронетехніці навесні, та навпаки допомагає взимку, як тумани впливають на застосування авіації осінню і навесні та про інші цікаві деталі, що проявилися у війнах минулого і впливають на сьогоднішню війну росії проти України.</description>
+    <pubDate>Wed, 20 Mar 2024 12:05:08 +0000</pubDate>
+    <item>
+      <title>Осінь. Про особливості війни в осінній період на прикладі боїв за Шушу під час Другої Карабаської війни.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230223/3371054.mp3</link>
+      <description>Осінь. Про особливості війни в осінній період на прикладі боїв за Шушу під час Другої Карабаської війни.</description>
+      <pubDate>Thu, 23 Feb 2023 14:39:33 +0000</pubDate>
+      <dc:date>2023-02-23T14:39:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1676888728_63f34a9841778.png"/>
+    </item>
+    <item>
+      <title>Літо. Особливості воєнної кампанії в літній період на прикладі Лівано-Ізраїльського конфлікту, відомого у Лівані як Липнева війна, а в Ізраїлі як Друга Ліванська війна.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230222/3370793.mp3</link>
+      <description>Літо. Особливості воєнної кампанії в літній період на прикладі Лівано-Ізраїльського конфлікту, відомого у Лівані як Липнева війна, а в Ізраїлі як Друга Ліванська війна.</description>
+      <pubDate>Wed, 22 Feb 2023 14:38:19 +0000</pubDate>
+      <dc:date>2023-02-22T14:38:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1676888728_63f34a9841778.png"/>
+    </item>
+    <item>
+      <title>Весна. Специфіка ведення війни навесні на прикладі громадянської війни в Боснії та Герцеговині.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230221/3370538.mp3</link>
+      <description>Весна. Специфіка ведення війни навесні на прикладі громадянської війни в Боснії та Герцеговині.</description>
+      <pubDate>Tue, 21 Feb 2023 14:35:15 +0000</pubDate>
+      <dc:date>2023-02-21T14:35:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1676888728_63f34a9841778.png"/>
+    </item>
+    <item>
+      <title>  Зима. Як змінюється характер війни у зимовий період на прикладі Першої Чеченської війни.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230220/3369695.mp3</link>
+      <description>  Зима. Як змінюється характер війни у зимовий період на прикладі Першої Чеченської війни.</description>
+      <pubDate>Mon, 20 Feb 2023 14:39:09 +0000</pubDate>
+      <dc:date>2023-02-20T14:39:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1676888728_63f34a9841778.png"/>
+    </item>
+    <dc:date>2024-03-20T12:05:08+00:00</dc:date>
+  </channel>
+</rss>

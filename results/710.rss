@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Спецефір Радіо Культура</title>
+    <link>https://ukr.radio/prog.html?id=710</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:53:45 +0000</pubDate>
+    <item>
+      <title>Вшанування пам’яті жертв Голодоморів. Загальнонаціональна хвилина мовчання. Всеукраїнська акція &quot;Запали свічку пам&#39;яті&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211127/2996180.mp3</link>
+      <description>Вшанування пам’яті жертв Голодоморів. Загальнонаціональна хвилина мовчання. Всеукраїнська акція &quot;Запали свічку пам&#39;яті&quot;</description>
+      <pubDate>Sat, 27 Nov 2021 16:00:00 +0000</pubDate>
+      <dc:date>2021-11-27T16:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788246_63e27fd609050.png"/>
+    </item>
+    <item>
+      <title>Вшанування пам’яті жертв Голодоморів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211127/2996118.mp3</link>
+      <description>Вшанування пам’яті жертв Голодоморів</description>
+      <pubDate>Sat, 27 Nov 2021 15:35:23 +0000</pubDate>
+      <dc:date>2021-11-27T15:35:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788246_63e27fd609050.png"/>
+    </item>
+    <item>
+      <title>
+	Радіофільм про відомого диктора, майже ровесника Українського радіо, заслуженого працівника культури Ігоря Мурашка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200730/2559038.mp3</link>
+      <description>
+	Радіофільм про відомого диктора, майже ровесника Українського радіо, заслуженого працівника культури Ігоря Мурашка</description>
+      <pubDate>Thu, 30 Jul 2020 20:00:02 +0000</pubDate>
+      <dc:date>2020-07-30T20:00:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788246_63e27fd609050.png"/>
+    </item>
+    <item>
+      <title>
+	Авіакатастрофа в Ірані: причини та висновки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200108/2400586.mp3</link>
+      <description>
+	Авіакатастрофа в Ірані: причини та висновки.</description>
+      <pubDate>Wed, 08 Jan 2020 18:10:00 +0000</pubDate>
+      <dc:date>2020-01-08T18:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788246_63e27fd609050.png"/>
+    </item>
+    <item>
+      <title>
+	Пресконференція активіста Олександра Кольченка та українського режисера Олега Сенцова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190910/2315826.mp3</link>
+      <description>
+	Пресконференція активіста Олександра Кольченка та українського режисера Олега Сенцова</description>
+      <pubDate>Tue, 10 Sep 2019 14:00:00 +0000</pubDate>
+      <dc:date>2019-09-10T14:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788246_63e27fd609050.png"/>
+    </item>
+    <dc:date>2024-03-20T11:53:45+00:00</dc:date>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Спорт і дозвілля</title>
+    <link>https://ukr.radio/prog.html?id=185</link>
+    <description>Програма про різноманітні види спорту, що стають захопленням чи навіть стилем життя багатьох українців; висвітлює особливості розвитку різних видів спорту та спортивні досягнення України.</description>
+    <pubDate>Wed, 20 Mar 2024 11:56:52 +0000</pubDate>
+    <item>
+      <title>
+	The program tells about billiard, its history and modern trends.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20190407/2197702.mp3</link>
+      <description>
+	The program tells about billiard, its history and modern trends.</description>
+      <pubDate>Sun, 07 Apr 2019 01:43:30 +0000</pubDate>
+      <dc:date>2019-04-07T01:43:30+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1679061814_64147336e221a.png"/>
+    </item>
+    <dc:date>2024-03-20T11:56:52+00:00</dc:date>
+  </channel>
+</rss>

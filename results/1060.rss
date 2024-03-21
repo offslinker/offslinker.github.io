@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Радіодокументалістика. Фото війни. Історії з-за кадру</title>
+    <link>https://ukr.radio/prog.html?id=1060</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:25:31 +0000</pubDate>
+    <item>
+      <title>Панночка у червоному. Авторка проєкту — Вікторія Польченко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230222/3371514.mp3</link>
+      <description>Панночка у червоному. Авторка проєкту — Вікторія Польченко</description>
+      <pubDate>Wed, 22 Feb 2023 12:27:09 +0000</pubDate>
+      <dc:date>2023-02-22T12:27:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252300_64aff1cc4b34a.png"/>
+    </item>
+    <item>
+      <title>Шафка з Бородянки. Автор проєкту — Нікіта Галка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230221/3371387.mp3</link>
+      <description>Шафка з Бородянки. Автор проєкту — Нікіта Галка</description>
+      <pubDate>Tue, 21 Feb 2023 12:31:23 +0000</pubDate>
+      <dc:date>2023-02-21T12:31:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252300_64aff1cc4b34a.png"/>
+    </item>
+    <item>
+      <title>Житомирська траса. Авторка проєкту — Ірина Сандуляк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230124/3347608.mp3</link>
+      <description>Житомирська траса. Авторка проєкту — Ірина Сандуляк</description>
+      <pubDate>Tue, 24 Jan 2023 17:00:04 +0000</pubDate>
+      <dc:date>2023-01-24T17:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252300_64aff1cc4b34a.png"/>
+    </item>
+    <item>
+      <title>“Мрія&quot;. Зруйнована, але не знищена. Автор проєкту — Олександр Марченко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230124/3347607.mp3</link>
+      <description>“Мрія&quot;. Зруйнована, але не знищена. Автор проєкту — Олександр Марченко</description>
+      <pubDate>Tue, 24 Jan 2023 16:00:22 +0000</pubDate>
+      <dc:date>2023-01-24T16:00:22+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252300_64aff1cc4b34a.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:31+00:00</dc:date>
+  </channel>
+</rss>

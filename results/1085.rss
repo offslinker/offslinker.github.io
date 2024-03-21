@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Europe&#39;s Biggest Dance Show-2023 - українська адаптація &quot;Радіо Промінь&quot;</title>
+    <link>https://ukr.radio/prog.html?id=1085</link>
+    <description>Europe&#39;s Biggest Dance Show — найбільше європейське шоу танцювальної музики. В кооперації з 11 радіостанціями світу Радіо Промінь транслює унікальний марафон DJ-сетів, що переходять від однієї країни до іншої, знайомлячи слухачів з найкращою танцювальною музикою кожної країни.
+
+ </description>
+    <pubDate>Wed, 20 Mar 2024 11:33:28 +0000</pubDate>
+    <item>
+      <title>Europes Biggest Dance Show 2023 - мікс від &quot;Радіо Промінь&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20231014/3611095.mp3</link>
+      <description>Europes Biggest Dance Show 2023 - мікс від &quot;Радіо Промінь&quot;</description>
+      <pubDate>Sat, 14 Oct 2023 00:00:13 +0000</pubDate>
+      <dc:date>2023-10-14T00:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696968576_6525af80e2cdf.jpg"/>
+    </item>
+    <dc:date>2024-03-20T11:33:28+00:00</dc:date>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Портрети митців на війні</title>
+    <link>https://ukr.radio/prog.html?id=1084</link>
+    <description>Замість ранкової кави перед радіоефіром — автомат, замість скрипки в руках — гранатомет. З повномасштабним вторгненням Росії в Україну багато діячок та діячів культури вимушено змінили свої звичні ідентичності на &quot;військова&quot; чи &quot;військовий&quot;. Журналіст, активістка, поет та скрипалька на різних позиціях у Збройних силах України борються за нашу свободу. Ми, на Радіо Культура, спробували розповісти їхні історії трансформації.</description>
+    <pubDate>Wed, 20 Mar 2024 11:57:55 +0000</pubDate>
+    <item>
+      <title>Аліна Сарнацька: &quot;В армії є ЛГБТ, цивільні партнерства треба вже зараз&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231115/3654489.mp3</link>
+      <description>Аліна Сарнацька: &quot;В армії є ЛГБТ, цивільні партнерства треба вже зараз&quot;</description>
+      <pubDate>Wed, 15 Nov 2023 20:00:05 +0000</pubDate>
+      <dc:date>2023-11-15T20:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694610505_6501b449a1756.png"/>
+    </item>
+    <item>
+      <title>Павло Казарін: як журналіст у війську бачить перемогу?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231114/3650871.mp3</link>
+      <description>Павло Казарін: як журналіст у війську бачить перемогу?</description>
+      <pubDate>Tue, 14 Nov 2023 20:00:05 +0000</pubDate>
+      <dc:date>2023-11-14T20:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694610505_6501b449a1756.png"/>
+    </item>
+    <item>
+      <title>Які питання скрипалька у ЗСУ Анастасія Полуденна радить не ставити військовим?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231113/3648831.mp3</link>
+      <description>Які питання скрипалька у ЗСУ Анастасія Полуденна радить не ставити військовим?</description>
+      <pubDate>Mon, 13 Nov 2023 20:00:05 +0000</pubDate>
+      <dc:date>2023-11-13T20:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694610505_6501b449a1756.png"/>
+    </item>
+    <dc:date>2024-03-20T11:57:55+00:00</dc:date>
+  </channel>
+</rss>

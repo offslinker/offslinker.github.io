@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Поміж 20-ми, поміж 30-ми</title>
+    <link>https://ukr.radio/prog.html?id=1082</link>
+    <description>Поетична оповідь про один з найдраматичніших періодів історії української культури. Тут звучать поети &quot;Розстріляного Відродження&quot; й ті, хто зміг вижити в часи великого терору, хто жили в тодішній Україні й писали українською, кримськотатарською, їдишем, німецькою... Голос поет(к)ам дають відомі українські актори та акторки, котрі прочитали ці тексти для Радіо Культура. Над проєктом працювали Олена Гусейнова, Ганна Малієнко та Уляна Олійник.</description>
+    <pubDate>Wed, 20 Mar 2024 11:56:49 +0000</pubDate>
+    <item>
+      <title>Микола Хвильовий “Іду я додому”. Читає Влад Никитюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231130/3670195.mp3</link>
+      <description>Микола Хвильовий “Іду я додому”. Читає Влад Никитюк</description>
+      <pubDate>Thu, 30 Nov 2023 19:55:35 +0000</pubDate>
+      <dc:date>2023-11-30T19:55:35+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Наталія Лівицька-Холодна “Весняним громом прогрими”. Читає Поліна Василина</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231130/3670184.mp3</link>
+      <description>Наталія Лівицька-Холодна “Весняним громом прогрими”. Читає Поліна Василина</description>
+      <pubDate>Thu, 30 Nov 2023 11:55:05 +0000</pubDate>
+      <dc:date>2023-11-30T11:55:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Майк Йогансен “Я хочу”. Читає Марія Чуприненко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231129/3668805.mp3</link>
+      <description>Майк Йогансен “Я хочу”. Читає Марія Чуприненко</description>
+      <pubDate>Wed, 29 Nov 2023 14:55:51 +0000</pubDate>
+      <dc:date>2023-11-29T14:55:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Роза Ауслендер “Мій соловейко”. Читає Таїсія-Оксана Щурук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231129/3668801.mp3</link>
+      <description>Роза Ауслендер “Мій соловейко”. Читає Таїсія-Оксана Щурук</description>
+      <pubDate>Wed, 29 Nov 2023 09:51:04 +0000</pubDate>
+      <dc:date>2023-11-29T09:51:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Теліга “Сьогодні кожний крок хотів би бути вальсом…”. Читає Даша Трегубова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231128/3667680.mp3</link>
+      <description>Олена Теліга “Сьогодні кожний крок хотів би бути вальсом…”. Читає Даша Трегубова</description>
+      <pubDate>Tue, 28 Nov 2023 15:51:06 +0000</pubDate>
+      <dc:date>2023-11-28T15:51:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Мирослава Сопілка “Українською грала сопілка”. Читає Катерина Артеменко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231128/3667673.mp3</link>
+      <description>Мирослава Сопілка “Українською грала сопілка”. Читає Катерина Артеменко</description>
+      <pubDate>Tue, 28 Nov 2023 12:55:00 +0000</pubDate>
+      <dc:date>2023-11-28T12:55:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Оксана Лятуринська “І знову цілу ніч верзлось…”. Читає Христина Дейлик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231127/3665422.mp3</link>
+      <description>Оксана Лятуринська “І знову цілу ніч верзлось…”. Читає Христина Дейлик</description>
+      <pubDate>Mon, 27 Nov 2023 13:54:18 +0000</pubDate>
+      <dc:date>2023-11-27T13:54:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Амді Гірайбай “Ти”. Читає Олександр Яцентюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231127/3665420.mp3</link>
+      <description>Амді Гірайбай “Ти”. Читає Олександр Яцентюк</description>
+      <pubDate>Mon, 27 Nov 2023 12:37:55 +0000</pubDate>
+      <dc:date>2023-11-27T12:37:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Максим Рильський. “Сільський сонет” читає Олег Гоцуляк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231124/3664749.mp3</link>
+      <description>Максим Рильський. “Сільський сонет” читає Олег Гоцуляк</description>
+      <pubDate>Fri, 24 Nov 2023 17:54:35 +0000</pubDate>
+      <dc:date>2023-11-24T17:54:35+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Євген Плужник “А він молодий-молодий”. Читає Віталіна Біблів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231124/3665315.mp3</link>
+      <description>Євген Плужник “А він молодий-молодий”. Читає Віталіна Біблів</description>
+      <pubDate>Fri, 24 Nov 2023 07:54:32 +0000</pubDate>
+      <dc:date>2023-11-24T07:54:32+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Максим Рильський “Сільський сонет”. Читає Олег Гоцуляк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231124/3665317.mp3</link>
+      <description>Максим Рильський “Сільський сонет”. Читає Олег Гоцуляк</description>
+      <pubDate>Fri, 24 Nov 2023 04:49:55 +0000</pubDate>
+      <dc:date>2023-11-24T04:49:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Іван Багряний “Вечір зимовий”. Читає Григорій Бакланов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231123/3664632.mp3</link>
+      <description>Іван Багряний “Вечір зимовий”. Читає Григорій Бакланов</description>
+      <pubDate>Thu, 23 Nov 2023 17:55:15 +0000</pubDate>
+      <dc:date>2023-11-23T17:55:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Павло Филипович “Я робітник в майстерні власних слів”. Читає Дмитро Олійник</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231123/3664626.mp3</link>
+      <description>Павло Филипович “Я робітник в майстерні власних слів”. Читає Дмитро Олійник</description>
+      <pubDate>Thu, 23 Nov 2023 15:51:31 +0000</pubDate>
+      <dc:date>2023-11-23T15:51:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Майк Йогансен “Люблю тебе - не знаю слів…”. Читає Катерина Качан</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231122/3663233.mp3</link>
+      <description>Майк Йогансен “Люблю тебе - не знаю слів…”. Читає Катерина Качан</description>
+      <pubDate>Wed, 22 Nov 2023 16:55:35 +0000</pubDate>
+      <dc:date>2023-11-22T16:55:35+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Тась “А все ж, ми стрінемося випадково”. Читає Артур Логай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231122/3663222.mp3</link>
+      <description>Дмитро Тась “А все ж, ми стрінемося випадково”. Читає Артур Логай</description>
+      <pubDate>Wed, 22 Nov 2023 14:54:25 +0000</pubDate>
+      <dc:date>2023-11-22T14:54:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Зеров “Як нам жить…”. Читає Андрій Мостренко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231121/3662120.mp3</link>
+      <description>Микола Зеров “Як нам жить…”. Читає Андрій Мостренко</description>
+      <pubDate>Tue, 21 Nov 2023 16:54:45 +0000</pubDate>
+      <dc:date>2023-11-21T16:54:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олекса Слісаренко &quot;Україна&quot;. Читає Леся Самаєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231121/3662123.mp3</link>
+      <description>Олекса Слісаренко &quot;Україна&quot;. Читає Леся Самаєва</description>
+      <pubDate>Tue, 21 Nov 2023 07:43:56 +0000</pubDate>
+      <dc:date>2023-11-21T07:43:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Фальківський “Голубіють ранки&quot;. Читає Валентина Хамайко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231120/3658181.mp3</link>
+      <description>Дмитро Фальківський “Голубіють ранки&quot;. Читає Валентина Хамайко</description>
+      <pubDate>Mon, 20 Nov 2023 15:52:32 +0000</pubDate>
+      <dc:date>2023-11-20T15:52:32+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Сосюра. “Так ніхто не кохав”. Читає Віталій Ажнов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231120/3657143.mp3</link>
+      <description>Володимир Сосюра. “Так ніхто не кохав”. Читає Віталій Ажнов</description>
+      <pubDate>Mon, 20 Nov 2023 14:55:07 +0000</pubDate>
+      <dc:date>2023-11-20T14:55:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайль Семенко “Лелеки”. Читає Костянтин Корецький</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231117/3658100.mp3</link>
+      <description>Михайль Семенко “Лелеки”. Читає Костянтин Корецький</description>
+      <pubDate>Fri, 17 Nov 2023 16:50:26 +0000</pubDate>
+      <dc:date>2023-11-17T16:50:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ґео Шкурупій “Вони”. Читає Максим Самчик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231117/3658091.mp3</link>
+      <description>Ґео Шкурупій “Вони”. Читає Максим Самчик</description>
+      <pubDate>Fri, 17 Nov 2023 12:37:49 +0000</pubDate>
+      <dc:date>2023-11-17T12:37:49+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Галина Орлівна “Мої крила”. Читає Дар’я Легейда</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231116/3656977.mp3</link>
+      <description>Галина Орлівна “Мої крила”. Читає Дар’я Легейда</description>
+      <pubDate>Thu, 16 Nov 2023 14:55:49 +0000</pubDate>
+      <dc:date>2023-11-16T14:55:49+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Тась “Екран”. Читає Артур Логай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231115/3654594.mp3</link>
+      <description>Дмитро Тась “Екран”. Читає Артур Логай</description>
+      <pubDate>Wed, 15 Nov 2023 15:52:25 +0000</pubDate>
+      <dc:date>2023-11-15T15:52:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Євген Плужник “Мовчи! Я знаю”. Читає Олександр Попов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231115/3655590.mp3</link>
+      <description>Євген Плужник “Мовчи! Я знаю”. Читає Олександр Попов</description>
+      <pubDate>Wed, 15 Nov 2023 14:55:25 +0000</pubDate>
+      <dc:date>2023-11-15T14:55:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олекса Слісаренко “Ніч”. Читає Леся Самаєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231114/3655508.mp3</link>
+      <description>Олекса Слісаренко “Ніч”. Читає Леся Самаєва</description>
+      <pubDate>Tue, 14 Nov 2023 14:55:10 +0000</pubDate>
+      <dc:date>2023-11-14T14:55:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Валер’ян Поліщук “Тихий прибій”. Читає Олександр Печериця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231114/3655506.mp3</link>
+      <description>Валер’ян Поліщук “Тихий прибій”. Читає Олександр Печериця</description>
+      <pubDate>Tue, 14 Nov 2023 12:54:44 +0000</pubDate>
+      <dc:date>2023-11-14T12:54:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Сосюра “Поїзди”. Читає Ксенія Вертинська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231113/3650860.mp3</link>
+      <description>Володимир Сосюра “Поїзди”. Читає Ксенія Вертинська</description>
+      <pubDate>Mon, 13 Nov 2023 20:26:59 +0000</pubDate>
+      <dc:date>2023-11-13T20:26:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Загул “Різні мотиви”. Читає Римма Зюбіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231113/3650857.mp3</link>
+      <description>Дмитро Загул “Різні мотиви”. Читає Римма Зюбіна</description>
+      <pubDate>Mon, 13 Nov 2023 14:56:05 +0000</pubDate>
+      <dc:date>2023-11-13T14:56:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Бажан “На Карпатах”. Читає Віталій Ажнов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231110/3649951.mp3</link>
+      <description>Микола Бажан “На Карпатах”. Читає Віталій Ажнов</description>
+      <pubDate>Fri, 10 Nov 2023 18:53:28 +0000</pubDate>
+      <dc:date>2023-11-10T18:53:28+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ґео Шкурупій “Барабан печалі”. Читає Максим Самчик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231110/3649940.mp3</link>
+      <description>Ґео Шкурупій “Барабан печалі”. Читає Максим Самчик</description>
+      <pubDate>Fri, 10 Nov 2023 14:52:51 +0000</pubDate>
+      <dc:date>2023-11-10T14:52:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Роза Ауслендер “Ти ще живеш”. Читає Таїсія-Оксана Щурук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231109/3649086.mp3</link>
+      <description>Роза Ауслендер “Ти ще живеш”. Читає Таїсія-Оксана Щурук</description>
+      <pubDate>Thu, 09 Nov 2023 17:54:29 +0000</pubDate>
+      <dc:date>2023-11-09T17:54:29+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Лейб Квітко “З циклу “Німеччина”. Читає Катерина Артеменко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231109/3649600.mp3</link>
+      <description>Лейб Квітко “З циклу “Німеччина”. Читає Катерина Артеменко</description>
+      <pubDate>Thu, 09 Nov 2023 15:52:02 +0000</pubDate>
+      <dc:date>2023-11-09T15:52:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Зузанна Ґінчанка “Вакаційна учта”. Читає Соломія Кирилова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231108/3647187.mp3</link>
+      <description>Зузанна Ґінчанка “Вакаційна учта”. Читає Соломія Кирилова</description>
+      <pubDate>Wed, 08 Nov 2023 14:51:17 +0000</pubDate>
+      <dc:date>2023-11-08T14:51:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Теліга “Сонний день”. Читає Даша Трегубова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231108/3647183.mp3</link>
+      <description>Олена Теліга “Сонний день”. Читає Даша Трегубова</description>
+      <pubDate>Wed, 08 Nov 2023 12:53:51 +0000</pubDate>
+      <dc:date>2023-11-08T12:53:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Наталія Лівицька-Холодна “Цвіте тобою кожна ніч…”. Читає Поліна Василина</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231107/3644884.mp3</link>
+      <description>Наталія Лівицька-Холодна “Цвіте тобою кожна ніч…”. Читає Поліна Василина</description>
+      <pubDate>Tue, 07 Nov 2023 17:56:26 +0000</pubDate>
+      <dc:date>2023-11-07T17:56:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Наталя Забіла “Роки”. Читає Римма Зюбіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231107/3644735.mp3</link>
+      <description>Наталя Забіла “Роки”. Читає Римма Зюбіна</description>
+      <pubDate>Tue, 07 Nov 2023 14:56:06 +0000</pubDate>
+      <dc:date>2023-11-07T14:56:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Максим Рильський “Огорнула темрява кімнату”. Читає Олег Гоцуляк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231106/3640382.mp3</link>
+      <description>Максим Рильський “Огорнула темрява кімнату”. Читає Олег Гоцуляк</description>
+      <pubDate>Mon, 06 Nov 2023 16:55:35 +0000</pubDate>
+      <dc:date>2023-11-06T16:55:35+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Свідзінський “Лице люстра мертвіє в тіні…”. Читає Роман Ясіновський</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231106/3640379.mp3</link>
+      <description>Володимир Свідзінський “Лице люстра мертвіє в тіні…”. Читає Роман Ясіновський</description>
+      <pubDate>Mon, 06 Nov 2023 14:52:44 +0000</pubDate>
+      <dc:date>2023-11-06T14:52:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Фальківський “А він стояв”. Читає Ахтем Сеїтаблаєв</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231103/3636676.mp3</link>
+      <description>Дмитро Фальківський “А він стояв”. Читає Ахтем Сеїтаблаєв</description>
+      <pubDate>Fri, 03 Nov 2023 17:54:07 +0000</pubDate>
+      <dc:date>2023-11-03T17:54:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Фальківський “Мої далекі”. Читає Андрій Мостренко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231103/3636408.mp3</link>
+      <description>Дмитро Фальківський “Мої далекі”. Читає Андрій Мостренко</description>
+      <pubDate>Fri, 03 Nov 2023 12:37:25 +0000</pubDate>
+      <dc:date>2023-11-03T12:37:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Зеров “Суниці”. Читає Андрій Мостренко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231102/3636069.mp3</link>
+      <description>Микола Зеров “Суниці”. Читає Андрій Мостренко</description>
+      <pubDate>Thu, 02 Nov 2023 20:05:44 +0000</pubDate>
+      <dc:date>2023-11-02T20:05:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Марко Вороний “Слово”. Читає Роман Ясіновський</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231102/3636065.mp3</link>
+      <description>Марко Вороний “Слово”. Читає Роман Ясіновський</description>
+      <pubDate>Thu, 02 Nov 2023 19:34:10 +0000</pubDate>
+      <dc:date>2023-11-02T19:34:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Павло Тичина “Розкажи, розкажи мені, поле”. Читає Леся Самаєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231101/3632782.mp3</link>
+      <description>Павло Тичина “Розкажи, розкажи мені, поле”. Читає Леся Самаєва</description>
+      <pubDate>Wed, 01 Nov 2023 20:05:21 +0000</pubDate>
+      <dc:date>2023-11-01T20:05:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Леонід Чернов “Лист до матері”. Читає Олександр Яцентюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231101/3632653.mp3</link>
+      <description>Леонід Чернов “Лист до матері”. Читає Олександр Яцентюк</description>
+      <pubDate>Wed, 01 Nov 2023 17:55:25 +0000</pubDate>
+      <dc:date>2023-11-01T17:55:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Павло Тичина. “Розкажи, розкажи мені, поле” . Читає Леся Самаєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231101/3636045.mp3</link>
+      <description>Павло Тичина. “Розкажи, розкажи мені, поле” . Читає Леся Самаєва</description>
+      <pubDate>Wed, 01 Nov 2023 13:50:04 +0000</pubDate>
+      <dc:date>2023-11-01T13:50:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Зузанна Гінчанка “Випадок з приватного життя”. Читає Соломія Кирилова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231031/3632166.mp3</link>
+      <description>Зузанна Гінчанка “Випадок з приватного життя”. Читає Соломія Кирилова</description>
+      <pubDate>Tue, 31 Oct 2023 19:25:37 +0000</pubDate>
+      <dc:date>2023-10-31T19:25:37+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Роза Ауслендер “Тому що”. Ччитає Таїсія-Оксана Щурук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231031/3632160.mp3</link>
+      <description>Роза Ауслендер “Тому що”. Ччитає Таїсія-Оксана Щурук</description>
+      <pubDate>Tue, 31 Oct 2023 15:54:27 +0000</pubDate>
+      <dc:date>2023-10-31T15:54:27+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Раїса Троянкер “Що співаєш, жовта мандоліно?”. Читає Ганна Нікітіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231030/3629411.mp3</link>
+      <description>Раїса Троянкер “Що співаєш, жовта мандоліно?”. Читає Ганна Нікітіна</description>
+      <pubDate>Mon, 30 Oct 2023 18:57:10 +0000</pubDate>
+      <dc:date>2023-10-30T18:57:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Раїса Троянкер “Моє кохання”. Читає Марія Чуприненко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231030/3629835.mp3</link>
+      <description>Раїса Троянкер “Моє кохання”. Читає Марія Чуприненко</description>
+      <pubDate>Mon, 30 Oct 2023 17:56:01 +0000</pubDate>
+      <dc:date>2023-10-30T17:56:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Майк Йогансен “Поля синіють вечорами”. Читає Марія Чуприненко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231027/3629195.mp3</link>
+      <description>Майк Йогансен “Поля синіють вечорами”. Читає Марія Чуприненко</description>
+      <pubDate>Fri, 27 Oct 2023 20:05:12 +0000</pubDate>
+      <dc:date>2023-10-27T20:05:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Майк Йогансен “Ось іду я по рейці”. Читає Катерина Качан</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231027/3628677.mp3</link>
+      <description>Майк Йогансен “Ось іду я по рейці”. Читає Катерина Качан</description>
+      <pubDate>Fri, 27 Oct 2023 15:51:55 +0000</pubDate>
+      <dc:date>2023-10-27T15:51:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Євген Плужник “Мудрості”. Читає Віталіна Біблів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231026/3626375.mp3</link>
+      <description>Євген Плужник “Мудрості”. Читає Віталіна Біблів</description>
+      <pubDate>Thu, 26 Oct 2023 13:56:11 +0000</pubDate>
+      <dc:date>2023-10-26T13:56:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Галина Орлівна “Мої Крила”. Читає Дар’я Легейда</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231026/3626370.mp3</link>
+      <description>Галина Орлівна “Мої Крила”. Читає Дар’я Легейда</description>
+      <pubDate>Thu, 26 Oct 2023 12:37:02 +0000</pubDate>
+      <dc:date>2023-10-26T12:37:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Мирослава Сопілка “Осінній дощ&quot;. Читає Катерина Артеменко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231025/3625648.mp3</link>
+      <description>Мирослава Сопілка “Осінній дощ&quot;. Читає Катерина Артеменко</description>
+      <pubDate>Wed, 25 Oct 2023 18:54:33 +0000</pubDate>
+      <dc:date>2023-10-25T18:54:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Люціана Піонтек “Годинник і безсоння”. Читає Оксана Жданова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231025/3625646.mp3</link>
+      <description>Люціана Піонтек “Годинник і безсоння”. Читає Оксана Жданова</description>
+      <pubDate>Wed, 25 Oct 2023 15:55:29 +0000</pubDate>
+      <dc:date>2023-10-25T15:55:29+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ешреф Шем’ї Заде “Якщо кохаєшся в природі”. Читає Катерина Качан</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231024/3625022.mp3</link>
+      <description>Ешреф Шем’ї Заде “Якщо кохаєшся в природі”. Читає Катерина Качан</description>
+      <pubDate>Tue, 24 Oct 2023 17:55:45 +0000</pubDate>
+      <dc:date>2023-10-24T17:55:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дебора Фогель “Сірі вулиці”. Читає Соломія Кирилова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231024/3625012.mp3</link>
+      <description>Дебора Фогель “Сірі вулиці”. Читає Соломія Кирилова</description>
+      <pubDate>Tue, 24 Oct 2023 13:55:41 +0000</pubDate>
+      <dc:date>2023-10-24T13:55:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Василь Краматорський “Донбас&quot;. Читає Дмитро Олійник</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231023/3621413.mp3</link>
+      <description>Василь Краматорський “Донбас&quot;. Читає Дмитро Олійник</description>
+      <pubDate>Mon, 23 Oct 2023 15:54:41 +0000</pubDate>
+      <dc:date>2023-10-23T15:54:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олекса Влизько “Чую,чую”. Читає Олександр Печериця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231023/3621741.mp3</link>
+      <description>Олекса Влизько “Чую,чую”. Читає Олександр Печериця</description>
+      <pubDate>Mon, 23 Oct 2023 14:55:14 +0000</pubDate>
+      <dc:date>2023-10-23T14:55:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайль Семенко “Місто”. Читає Костянтин Корецький</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231020/3622770.mp3</link>
+      <description>Михайль Семенко “Місто”. Читає Костянтин Корецький</description>
+      <pubDate>Fri, 20 Oct 2023 18:57:05 +0000</pubDate>
+      <dc:date>2023-10-20T18:57:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Сосюра “Люблю весну”. Читає Ксенія Вертинська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231020/3618241.mp3</link>
+      <description>Володимир Сосюра “Люблю весну”. Читає Ксенія Вертинська</description>
+      <pubDate>Fri, 20 Oct 2023 14:54:48 +0000</pubDate>
+      <dc:date>2023-10-20T14:54:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Хвильовий “Та невже ніколи не забуду”. Читає Влад Никитюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231019/3619716.mp3</link>
+      <description>Микола Хвильовий “Та невже ніколи не забуду”. Читає Влад Никитюк</description>
+      <pubDate>Thu, 19 Oct 2023 20:05:15 +0000</pubDate>
+      <dc:date>2023-10-19T20:05:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Загул “Ти приходиш до мене”. Читає Максим Самчик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231019/3619712.mp3</link>
+      <description>Дмитро Загул “Ти приходиш до мене”. Читає Максим Самчик</description>
+      <pubDate>Thu, 19 Oct 2023 19:17:14 +0000</pubDate>
+      <dc:date>2023-10-19T19:17:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Сосюра “Моря очей”. Читає Віталій Ажнов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231018/3617783.mp3</link>
+      <description>Володимир Сосюра “Моря очей”. Читає Віталій Ажнов</description>
+      <pubDate>Wed, 18 Oct 2023 15:53:36 +0000</pubDate>
+      <dc:date>2023-10-18T15:53:36+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайль Семенко “Підземна річечка”. Читає Катерина Качан</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231018/3617776.mp3</link>
+      <description>Михайль Семенко “Підземна річечка”. Читає Катерина Качан</description>
+      <pubDate>Wed, 18 Oct 2023 12:37:31 +0000</pubDate>
+      <dc:date>2023-10-18T12:37:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ладя Могилянська “На коні вороному”. Читає Ксенія Вертинська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231017/3617674.mp3</link>
+      <description>Ладя Могилянська “На коні вороному”. Читає Ксенія Вертинська</description>
+      <pubDate>Tue, 17 Oct 2023 19:23:15 +0000</pubDate>
+      <dc:date>2023-10-17T19:23:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Оксана Лятуринська “Не знаю як це почалось”. Читає Христина Дейлик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231017/3615005.mp3</link>
+      <description>Оксана Лятуринська “Не знаю як це почалось”. Читає Христина Дейлик</description>
+      <pubDate>Tue, 17 Oct 2023 15:55:01 +0000</pubDate>
+      <dc:date>2023-10-17T15:55:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Номан Челебіджихан “Метелик”. Читає Христина Дейлик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231016/3613865.mp3</link>
+      <description>Номан Челебіджихан “Метелик”. Читає Христина Дейлик</description>
+      <pubDate>Mon, 16 Oct 2023 18:57:04 +0000</pubDate>
+      <dc:date>2023-10-16T18:57:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Теліга “Махнуть рукою”. Читає Вероніка Дюпіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231016/3613860.mp3</link>
+      <description>Олена Теліга “Махнуть рукою”. Читає Вероніка Дюпіна</description>
+      <pubDate>Mon, 16 Oct 2023 15:53:23 +0000</pubDate>
+      <dc:date>2023-10-16T15:53:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Бажан “Я тягнусь до тебе”. Читає Віталій Ажнов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231013/3611230.mp3</link>
+      <description>Микола Бажан “Я тягнусь до тебе”. Читає Віталій Ажнов</description>
+      <pubDate>Fri, 13 Oct 2023 16:55:12 +0000</pubDate>
+      <dc:date>2023-10-13T16:55:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Бекір Чобан-Заде “Хороша смерть”. Читає Ахтем Сеїтаблаєв</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231013/3613481.mp3</link>
+      <description>Бекір Чобан-Заде “Хороша смерть”. Читає Ахтем Сеїтаблаєв</description>
+      <pubDate>Fri, 13 Oct 2023 13:48:54 +0000</pubDate>
+      <dc:date>2023-10-13T13:48:54+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Зеров “Київ навесні ввечері”. Читає Леся Самаєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231012/3610076.mp3</link>
+      <description>Микола Зеров “Київ навесні ввечері”. Читає Леся Самаєва</description>
+      <pubDate>Thu, 12 Oct 2023 16:46:33 +0000</pubDate>
+      <dc:date>2023-10-12T16:46:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Зеров “Двері у стіні”. Читає Андрій Самінін</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231012/3611064.mp3</link>
+      <description>Микола Зеров “Двері у стіні”. Читає Андрій Самінін</description>
+      <pubDate>Thu, 12 Oct 2023 14:55:03 +0000</pubDate>
+      <dc:date>2023-10-12T14:55:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Журлива “Узяла лисичка скрипку”. Читає Валентина Хамайко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231011/3609019.mp3</link>
+      <description>Олена Журлива “Узяла лисичка скрипку”. Читає Валентина Хамайко</description>
+      <pubDate>Wed, 11 Oct 2023 20:04:59 +0000</pubDate>
+      <dc:date>2023-10-11T20:04:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ладя Могилянська “Травневі трави”. Читає Ксенія Вертинська</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231011/3609007.mp3</link>
+      <description>Ладя Могилянська “Травневі трави”. Читає Ксенія Вертинська</description>
+      <pubDate>Wed, 11 Oct 2023 12:36:47 +0000</pubDate>
+      <dc:date>2023-10-11T12:36:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайло Драй-Хмара “І знов обвугленими сірниками”. Читає Дмитро Олійник</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231010/3608153.mp3</link>
+      <description>Михайло Драй-Хмара “І знов обвугленими сірниками”. Читає Дмитро Олійник</description>
+      <pubDate>Tue, 10 Oct 2023 17:47:15 +0000</pubDate>
+      <dc:date>2023-10-10T17:47:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайло Драй-Хмара “Я світ увесь сприймаю оком”. Читає Валентина Хамайко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231010/3606645.mp3</link>
+      <description>Михайло Драй-Хмара “Я світ увесь сприймаю оком”. Читає Валентина Хамайко</description>
+      <pubDate>Tue, 10 Oct 2023 16:56:00 +0000</pubDate>
+      <dc:date>2023-10-10T16:56:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Бажан “Любисток”. Читає Ганна Нікітіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231009/3606507.mp3</link>
+      <description>Микола Бажан “Любисток”. Читає Ганна Нікітіна</description>
+      <pubDate>Mon, 09 Oct 2023 20:05:32 +0000</pubDate>
+      <dc:date>2023-10-09T20:05:32+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Свідзінський “Ранок”. Читає Ірина Мак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231009/3606773.mp3</link>
+      <description>Володимир Свідзінський “Ранок”. Читає Ірина Мак</description>
+      <pubDate>Mon, 09 Oct 2023 12:36:51 +0000</pubDate>
+      <dc:date>2023-10-09T12:36:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Оксана Лятуринська “Щастя згублені ключі”. Читає Христина Дейлик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231006/3602037.mp3</link>
+      <description>Оксана Лятуринська “Щастя згублені ключі”. Читає Христина Дейлик</description>
+      <pubDate>Fri, 06 Oct 2023 17:55:17 +0000</pubDate>
+      <dc:date>2023-10-06T17:55:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Наталя Забіла “Харків”. Читає Римма Зюбіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231006/3602031.mp3</link>
+      <description>Наталя Забіла “Харків”. Читає Римма Зюбіна</description>
+      <pubDate>Fri, 06 Oct 2023 16:55:23 +0000</pubDate>
+      <dc:date>2023-10-06T16:55:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Теліга “Танго”. Читає Даша Трегубова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231005/3602411.mp3</link>
+      <description>Олена Теліга “Танго”. Читає Даша Трегубова</description>
+      <pubDate>Thu, 05 Oct 2023 19:37:19 +0000</pubDate>
+      <dc:date>2023-10-05T19:37:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Зузанна Гінчанка “Вага”. Читає Соломія Кирилова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231005/3602410.mp3</link>
+      <description>Зузанна Гінчанка “Вага”. Читає Соломія Кирилова</description>
+      <pubDate>Thu, 05 Oct 2023 17:51:51 +0000</pubDate>
+      <dc:date>2023-10-05T17:51:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>/Наталія Лівицька-Холодна “Мені очей звести несила&quot;. Читає Поліна Василина</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231004/3601253.mp3</link>
+      <description>/Наталія Лівицька-Холодна “Мені очей звести несила&quot;. Читає Поліна Василина</description>
+      <pubDate>Wed, 04 Oct 2023 18:57:18 +0000</pubDate>
+      <dc:date>2023-10-04T18:57:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Павло Филипович “Хай на небі зовсім змарнілий”. Читає Дмитро Олійник</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231004/3601251.mp3</link>
+      <description>Павло Филипович “Хай на небі зовсім змарнілий”. Читає Дмитро Олійник</description>
+      <pubDate>Wed, 04 Oct 2023 12:53:26 +0000</pubDate>
+      <dc:date>2023-10-04T12:53:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Теліга “Я руці, що била не пробачу”. Читає Вероніка Дюпіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231003/3599086.mp3</link>
+      <description>Олена Теліга “Я руці, що била не пробачу”. Читає Вероніка Дюпіна</description>
+      <pubDate>Tue, 03 Oct 2023 17:54:50 +0000</pubDate>
+      <dc:date>2023-10-03T17:54:50+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Хвильовий “У полі тиша”. Читає Влад Никитюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231003/3596372.mp3</link>
+      <description>Микола Хвильовий “У полі тиша”. Читає Влад Никитюк</description>
+      <pubDate>Tue, 03 Oct 2023 16:54:28 +0000</pubDate>
+      <dc:date>2023-10-03T16:54:28+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Теліга “Вечірня пісня”. Читає Вероніка Дюпіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231002/3596514.mp3</link>
+      <description>Олена Теліга “Вечірня пісня”. Читає Вероніка Дюпіна</description>
+      <pubDate>Mon, 02 Oct 2023 14:54:23 +0000</pubDate>
+      <dc:date>2023-10-02T14:54:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Іван Багряний “Вулиця”. Читає Григорій Бакланов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231002/3596510.mp3</link>
+      <description>Іван Багряний “Вулиця”. Читає Григорій Бакланов</description>
+      <pubDate>Mon, 02 Oct 2023 12:52:24 +0000</pubDate>
+      <dc:date>2023-10-02T12:52:24+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Роза Гольдштейн “Моєму народові”. Читає Римма Зюбіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230929/3594909.mp3</link>
+      <description>Роза Гольдштейн “Моєму народові”. Читає Римма Зюбіна</description>
+      <pubDate>Fri, 29 Sep 2023 19:37:20 +0000</pubDate>
+      <dc:date>2023-09-29T19:37:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Роза Ауслендер “Старі”. Читає Таїсія-Оксана Щурук</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230929/3594907.mp3</link>
+      <description>Роза Ауслендер “Старі”. Читає Таїсія-Оксана Щурук</description>
+      <pubDate>Fri, 29 Sep 2023 17:54:02 +0000</pubDate>
+      <dc:date>2023-09-29T17:54:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Анюта П’ятигорська “В саду”. Читає Даша Трегубова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230929/3594900.mp3</link>
+      <description>Анюта П’ятигорська “В саду”. Читає Даша Трегубова</description>
+      <pubDate>Fri, 29 Sep 2023 12:37:03 +0000</pubDate>
+      <dc:date>2023-09-29T12:37:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Катря Гриневичева “Візія Стрічі”. Читає Соломія Кирилова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230928/3592421.mp3</link>
+      <description>Катря Гриневичева “Візія Стрічі”. Читає Соломія Кирилова</description>
+      <pubDate>Thu, 28 Sep 2023 15:46:57 +0000</pubDate>
+      <dc:date>2023-09-28T15:46:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Наталя Забіла “Чорним оком дивиться печера&quot;. Читає Римма Зюбіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230928/3594272.mp3</link>
+      <description>Наталя Забіла “Чорним оком дивиться печера&quot;. Читає Римма Зюбіна</description>
+      <pubDate>Thu, 28 Sep 2023 12:36:03 +0000</pubDate>
+      <dc:date>2023-09-28T12:36:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ханна Левіна “Моє Галченя”. Читає Ірина Мак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230927/3592279.mp3</link>
+      <description>Ханна Левіна “Моє Галченя”. Читає Ірина Мак</description>
+      <pubDate>Wed, 27 Sep 2023 17:56:25 +0000</pubDate>
+      <dc:date>2023-09-27T17:56:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Наталія Лівицька-Холодна “Знов зустріну тебе у трамваї”. Ччитає Поліна Василина</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230927/3592273.mp3</link>
+      <description>Наталія Лівицька-Холодна “Знов зустріну тебе у трамваї”. Ччитає Поліна Василина</description>
+      <pubDate>Wed, 27 Sep 2023 16:54:42 +0000</pubDate>
+      <dc:date>2023-09-27T16:54:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Юрій Андрущенко “Жменька жита”. Читає Олександр Яцентюк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230926/3592069.mp3</link>
+      <description>Юрій Андрущенко “Жменька жита”. Читає Олександр Яцентюк</description>
+      <pubDate>Tue, 26 Sep 2023 14:56:08 +0000</pubDate>
+      <dc:date>2023-09-26T14:56:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Упеник “Я не один”. Читає Олег Гоцуляк</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230926/3592080.mp3</link>
+      <description>Микола Упеник “Я не один”. Читає Олег Гоцуляк</description>
+      <pubDate>Tue, 26 Sep 2023 12:37:08 +0000</pubDate>
+      <dc:date>2023-09-26T12:37:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олекса Влизько “І тоді я ставав на перехресті”. Читає Олександр Печериця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230925/3590158.mp3</link>
+      <description>Олекса Влизько “І тоді я ставав на перехресті”. Читає Олександр Печериця</description>
+      <pubDate>Mon, 25 Sep 2023 19:36:59 +0000</pubDate>
+      <dc:date>2023-09-25T19:36:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олекса Влизько “В порті стоять кораблі”. Читає Олександр Печериця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230925/3589126.mp3</link>
+      <description>Олекса Влизько “В порті стоять кораблі”. Читає Олександр Печериця</description>
+      <pubDate>Mon, 25 Sep 2023 12:37:15 +0000</pubDate>
+      <dc:date>2023-09-25T12:37:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Вероніка Черняхівська “Тихокрила ніч спустилася…”. Читає Катерина Артеменко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230922/3587501.mp3</link>
+      <description>Вероніка Черняхівська “Тихокрила ніч спустилася…”. Читає Катерина Артеменко</description>
+      <pubDate>Fri, 22 Sep 2023 12:54:38 +0000</pubDate>
+      <dc:date>2023-09-22T12:54:38+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайль Семенко “Сьогодні”. Читає Костянтин Корецький</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230922/3588276.mp3</link>
+      <description>Михайль Семенко “Сьогодні”. Читає Костянтин Корецький</description>
+      <pubDate>Fri, 22 Sep 2023 11:54:46 +0000</pubDate>
+      <dc:date>2023-09-22T11:54:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Максим Рильський “Дощ”. Читає Валентина Хамайко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230921/3587162.mp3</link>
+      <description>Максим Рильський “Дощ”. Читає Валентина Хамайко</description>
+      <pubDate>Thu, 21 Sep 2023 20:25:53 +0000</pubDate>
+      <dc:date>2023-09-21T20:25:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Микола Бажан “В хмаринці пахощів”. Читає Віталій Ажнов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230921/3587148.mp3</link>
+      <description>Микола Бажан “В хмаринці пахощів”. Читає Віталій Ажнов</description>
+      <pubDate>Thu, 21 Sep 2023 14:54:55 +0000</pubDate>
+      <dc:date>2023-09-21T14:54:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Ладя Могилянська “Яблуні білі в цвіту”. Читає Поліна Василина</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230920/3585570.mp3</link>
+      <description>Ладя Могилянська “Яблуні білі в цвіту”. Читає Поліна Василина</description>
+      <pubDate>Wed, 20 Sep 2023 14:55:05 +0000</pubDate>
+      <dc:date>2023-09-20T14:55:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Олена Журлива “Хазяєчка”. Читає Марія Чуприненко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230920/3585565.mp3</link>
+      <description>Олена Журлива “Хазяєчка”. Читає Марія Чуприненко</description>
+      <pubDate>Wed, 20 Sep 2023 10:55:15 +0000</pubDate>
+      <dc:date>2023-09-20T10:55:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Валер’ян Поліщук “М’язи води”. Читає Олександр Печериця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230919/3581596.mp3</link>
+      <description>Валер’ян Поліщук “М’язи води”. Читає Олександр Печериця</description>
+      <pubDate>Tue, 19 Sep 2023 18:57:05 +0000</pubDate>
+      <dc:date>2023-09-19T18:57:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Валер’ян Поліщук “Останній лист”. Читає Олександр Печериця</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230919/3583926.mp3</link>
+      <description>Валер’ян Поліщук “Останній лист”. Читає Олександр Печериця</description>
+      <pubDate>Tue, 19 Sep 2023 17:53:37 +0000</pubDate>
+      <dc:date>2023-09-19T17:53:37+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Євген Плужник “Тепер мене хвилює мало”. Читає Віталіна Біблів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230918/3581788.mp3</link>
+      <description>Євген Плужник “Тепер мене хвилює мало”. Читає Віталіна Біблів</description>
+      <pubDate>Mon, 18 Sep 2023 14:55:19 +0000</pubDate>
+      <dc:date>2023-09-18T14:55:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Загул “Ти чудова”. Читає Максим Самчик</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230918/3581782.mp3</link>
+      <description>Дмитро Загул “Ти чудова”. Читає Максим Самчик</description>
+      <pubDate>Mon, 18 Sep 2023 11:53:55 +0000</pubDate>
+      <dc:date>2023-09-18T11:53:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Шевкій Бекторе “Про Крим”. Читає Марія Чуприненко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230915/3580917.mp3</link>
+      <description>Шевкій Бекторе “Про Крим”. Читає Марія Чуприненко</description>
+      <pubDate>Fri, 15 Sep 2023 12:52:45 +0000</pubDate>
+      <dc:date>2023-09-15T12:52:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Сосюра “Ти пам’ятаєш березневу ніч”. Читає Віталій Ажнов</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230915/3580914.mp3</link>
+      <description>Володимир Сосюра “Ти пам’ятаєш березневу ніч”. Читає Віталій Ажнов</description>
+      <pubDate>Fri, 15 Sep 2023 10:54:55 +0000</pubDate>
+      <dc:date>2023-09-15T10:54:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Зеров “Київ навесні ввечері”. Читає Леся Самаєва</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230914/3578373.mp3</link>
+      <description>Зеров “Київ навесні ввечері”. Читає Леся Самаєва</description>
+      <pubDate>Thu, 14 Sep 2023 13:57:02 +0000</pubDate>
+      <dc:date>2023-09-14T13:57:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Раїса Троянкер “Трава прив’ялена”. Читає Ганна Нікітіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230914/3580550.mp3</link>
+      <description>Раїса Троянкер “Трава прив’ялена”. Читає Ганна Нікітіна</description>
+      <pubDate>Thu, 14 Sep 2023 12:52:12 +0000</pubDate>
+      <dc:date>2023-09-14T12:52:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Володимир Свідзінський “Як тебе утомить місто”. Читає Ірина Мак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230913/3578170.mp3</link>
+      <description>Володимир Свідзінський “Як тебе утомить місто”. Читає Ірина Мак</description>
+      <pubDate>Wed, 13 Sep 2023 14:54:28 +0000</pubDate>
+      <dc:date>2023-09-13T14:54:28+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Лейб Квітко “З циклу Осінь”. Чиатє Катерина Артеменко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230913/3578168.mp3</link>
+      <description>Лейб Квітко “З циклу Осінь”. Чиатє Катерина Артеменко</description>
+      <pubDate>Wed, 13 Sep 2023 12:55:03 +0000</pubDate>
+      <dc:date>2023-09-13T12:55:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Михайло Драй-Хмара “Зоріти ніч”. Читає Валентина Хамайко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230912/3576519.mp3</link>
+      <description>Михайло Драй-Хмара “Зоріти ніч”. Читає Валентина Хамайко</description>
+      <pubDate>Tue, 12 Sep 2023 12:37:36 +0000</pubDate>
+      <dc:date>2023-09-12T12:37:36+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Галина Орлівна “patos”. Читає Дар&#39;я Легейда</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230912/3576255.mp3</link>
+      <description>Галина Орлівна “patos”. Читає Дар&#39;я Легейда</description>
+      <pubDate>Tue, 12 Sep 2023 10:55:20 +0000</pubDate>
+      <dc:date>2023-09-12T10:55:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Дмитро Загул. “Бувають хвилини спокою порожнього”. Читає Римма Зюбіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230911/3572926.mp3</link>
+      <description>Дмитро Загул. “Бувають хвилини спокою порожнього”. Читає Римма Зюбіна</description>
+      <pubDate>Mon, 11 Sep 2023 18:57:05 +0000</pubDate>
+      <dc:date>2023-09-11T18:57:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <item>
+      <title>Валер’ян Поліщук. “Смолистий соняшника дух”. Читає Ганна Нікітіна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230911/3572411.mp3</link>
+      <description>Валер’ян Поліщук. “Смолистий соняшника дух”. Читає Ганна Нікітіна</description>
+      <pubDate>Mon, 11 Sep 2023 12:53:11 +0000</pubDate>
+      <dc:date>2023-09-11T12:53:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1694503868_650013bce0ff8.png"/>
+    </item>
+    <dc:date>2024-03-20T11:56:49+00:00</dc:date>
+  </channel>
+</rss>

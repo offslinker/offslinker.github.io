@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Між крапельками</title>
+    <link>https://ukr.radio/prog.html?id=973</link>
+    <description>Фільм пам&#39;яті першого Президента Незалежної України Леоніда Кравчука.</description>
+    <pubDate>Wed, 20 Mar 2024 11:30:44 +0000</pubDate>
+    <item>
+      <title>Фільм пам&#39;яті першого Президента Незалежної України Леоніда Кравчука.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220512/3139171.mp3</link>
+      <description>Фільм пам&#39;яті першого Президента Незалежної України Леоніда Кравчука.</description>
+      <pubDate>Thu, 12 May 2022 18:16:12 +0000</pubDate>
+      <dc:date>2022-05-12T18:16:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209126_63bb25262bc2a.png"/>
+    </item>
+    <dc:date>2024-03-20T11:30:44+00:00</dc:date>
+  </channel>
+</rss>

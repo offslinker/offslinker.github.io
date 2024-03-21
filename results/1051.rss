@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Культурні дипломатки</title>
+    <link>https://ukr.radio/prog.html?id=1051</link>
+    <description>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну. Оксана Забужко, Олеся Хромейчук та Гася Шиян розповідають про те, як давати безмежно прості відповіді на складні запитання.</description>
+    <pubDate>Wed, 20 Mar 2024 11:25:24 +0000</pubDate>
+    <item>
+      <title>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну.
+Олеся Хромейчук. &quot;Фул тайм українка&quot;. Серія 3</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230630/3502218.mp3</link>
+      <description>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну.
+Олеся Хромейчук. &quot;Фул тайм українка&quot;. Серія 3</description>
+      <pubDate>Fri, 30 Jun 2023 15:42:12 +0000</pubDate>
+      <dc:date>2023-06-30T15:42:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1686912285_648c3d1db1736.png"/>
+    </item>
+    <item>
+      <title>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну. 
+Гася Шиян. “Специфічна подія в специфічній країні”. Серія 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230623/3494129.mp3</link>
+      <description>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну. 
+Гася Шиян. “Специфічна подія в специфічній країні”. Серія 2</description>
+      <pubDate>Fri, 23 Jun 2023 15:40:00 +0000</pubDate>
+      <dc:date>2023-06-23T15:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1686912285_648c3d1db1736.png"/>
+    </item>
+    <item>
+      <title>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну. 
+Оксана Забужко. &quot;Безмежно проста відповідь&quot;. Серія 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230616/3486639.mp3</link>
+      <description>Досвід трьох жінок, які допомагають іноземцям зрозуміти Україну. 
+Оксана Забужко. &quot;Безмежно проста відповідь&quot;. Серія 1</description>
+      <pubDate>Fri, 16 Jun 2023 15:40:00 +0000</pubDate>
+      <dc:date>2023-06-16T15:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1686912285_648c3d1db1736.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:24+00:00</dc:date>
+  </channel>
+</rss>

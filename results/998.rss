@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Свободу не спинити</title>
+    <link>https://ukr.radio/prog.html?id=998</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:30:27 +0000</pubDate>
+    <item>
+      <title>Спецпроєкт з нагоди Дня Гідності та Свободи. Історики, громадські діячі та політики згадують Революцію Гідності та обмірковують ключові риси українців, які допомагали їм перемагати ворогів демократії та свободи.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20221121/3296163.mp3</link>
+      <description>Спецпроєкт з нагоди Дня Гідності та Свободи. Історики, громадські діячі та політики згадують Революцію Гідності та обмірковують ключові риси українців, які допомагали їм перемагати ворогів демократії та свободи.</description>
+      <pubDate>Mon, 21 Nov 2022 14:31:38 +0000</pubDate>
+      <dc:date>2022-11-21T14:31:38+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1669028587_637b5aeb60b7f.png"/>
+    </item>
+    <dc:date>2024-03-20T11:30:27+00:00</dc:date>
+  </channel>
+</rss>

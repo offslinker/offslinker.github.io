@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Щоденники війни</title>
+    <link>https://ukr.radio/news.html?newsID=101870</link>
+    <description>П’ять серій розмов із дітьми, котрі пережили окупацію та вели про це щоденники.
+
+Текстова версія програми доступна за посиланням:
+1) Історія 15-річного Миколи Костенка з Маріуполя, який створив мальований щоденник про війну
+
+2) Історія 14-річної Марії Філіпченко, яка пережила перші дні великої війни в Маріуполі й засвідчила свій досвід у щоденнику
+
+3) Історія 12-річної Саші Антоненко з Харкова, яка створила мальований щоденник про війну
+
+4) Історія 17-річного Влада П’ятіна-Пономаренка з Маріуполя, який створив відеощоденник про війну
+
+5) Історія 10-річної Іванки Рум’янцевої з Білої Церкви на Київщині, яка почала писати свій щоденник про війну в день загибелі її тата, військовослужбовця ЗСУ</description>
+    <pubDate>Wed, 20 Mar 2024 11:25:22 +0000</pubDate>
+    <item>
+      <title>Історія 10-річної Іванки Рум’янцевої з Білої Церкви на Київщині, яка почала писати свій щоденник про війну в день загибелі її тата, військовослужбовця ЗСУ</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230811/3544212.mp3</link>
+      <description>Історія 10-річної Іванки Рум’янцевої з Білої Церкви на Київщині, яка почала писати свій щоденник про війну в день загибелі її тата, військовослужбовця ЗСУ</description>
+      <pubDate>Fri, 11 Aug 2023 15:40:01 +0000</pubDate>
+      <dc:date>2023-08-11T15:40:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690281403_64bfa5bb6d633.png"/>
+    </item>
+    <item>
+      <title>Історія 17-річного Влада П’ятіна-Пономаренка з Маріуполя, який створив відеощоденник про війну</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230810/3542226.mp3</link>
+      <description>Історія 17-річного Влада П’ятіна-Пономаренка з Маріуполя, який створив відеощоденник про війну</description>
+      <pubDate>Thu, 10 Aug 2023 15:40:02 +0000</pubDate>
+      <dc:date>2023-08-10T15:40:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690281403_64bfa5bb6d633.png"/>
+    </item>
+    <item>
+      <title>Історія 12-річної Саші Антоненко з Харкова, яка створила мальований щоденник про війну</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230809/3540593.mp3</link>
+      <description>Історія 12-річної Саші Антоненко з Харкова, яка створила мальований щоденник про війну</description>
+      <pubDate>Wed, 09 Aug 2023 15:40:00 +0000</pubDate>
+      <dc:date>2023-08-09T15:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690281403_64bfa5bb6d633.png"/>
+    </item>
+    <item>
+      <title>Історія 14-річної Марії Філіпченко, яка пережила перші дні великої війни в Маріуполі й засвідчила свій досвід у щоденнику</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230808/3540056.mp3</link>
+      <description>Історія 14-річної Марії Філіпченко, яка пережила перші дні великої війни в Маріуполі й засвідчила свій досвід у щоденнику</description>
+      <pubDate>Tue, 08 Aug 2023 15:40:00 +0000</pubDate>
+      <dc:date>2023-08-08T15:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690281403_64bfa5bb6d633.png"/>
+    </item>
+    <item>
+      <title>Історія 15-річного Миколи Костенка з Маріуполя, який створив мальований щоденник про війну</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230807/3538442.mp3</link>
+      <description>Історія 15-річного Миколи Костенка з Маріуполя, який створив мальований щоденник про війну</description>
+      <pubDate>Mon, 07 Aug 2023 15:40:04 +0000</pubDate>
+      <dc:date>2023-08-07T15:40:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1690281403_64bfa5bb6d633.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:22+00:00</dc:date>
+  </channel>
+</rss>

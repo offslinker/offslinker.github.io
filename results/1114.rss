@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Невідомі сторінки голодомору</title>
+    <link>https://ukr.radio/news.html?newsID=102794</link>
+    <description>Радіодокументальний спецпроєкт Радіо Культура до 90-х роковин Голодомору 1932-1933 рр. Про рух опору проти колективізації та про селянські бунти в час Голодомору. Про те, як &quot;Торгсин&quot; викачував останнє сімейне майно з селян. Про те, хто та як наважувався рятувати від голоду цілі родини, а часом і цілі села. 
+
+У проєкті звучать документальні свідчення очевидців Голодомору, надані Національним музеєм Голодомору-геноциду, та коментарі істориків-дослідників періоду Голодомору.
+
+
+Версія для читання:
+Серія 1. Чому Сталін помстився українцям Голодомором?
+
+Серія 2. Чому українці віддали радянській владі 8,5 тонни чистого золота?
+
+Серія 3. Хто рятував українців та українок, і що на них за це чекало?
+
+ </description>
+    <pubDate>Wed, 20 Mar 2024 11:26:08 +0000</pubDate>
+    <item>
+      <title>Серія 3. Хто рятував українців та українок, і що на них за це чекало?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231124/3662774.mp3</link>
+      <description>Серія 3. Хто рятував українців та українок, і що на них за це чекало?</description>
+      <pubDate>Fri, 24 Nov 2023 12:27:48 +0000</pubDate>
+      <dc:date>2023-11-24T12:27:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640349_655db65dedc43.jpg"/>
+    </item>
+    <item>
+      <title>Серія 2. Чому українці віддали радянській владі 8,5 тонни чистого золота?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231123/3662480.mp3</link>
+      <description>Серія 2. Чому українці віддали радянській владі 8,5 тонни чистого золота?</description>
+      <pubDate>Thu, 23 Nov 2023 12:30:21 +0000</pubDate>
+      <dc:date>2023-11-23T12:30:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640349_655db65dedc43.jpg"/>
+    </item>
+    <item>
+      <title>Серія 1. Чому Сталін помстився українцям Голодомором?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20231122/3662264.mp3</link>
+      <description>Серія 1. Чому Сталін помстився українцям Голодомором?</description>
+      <pubDate>Wed, 22 Nov 2023 12:29:25 +0000</pubDate>
+      <dc:date>2023-11-22T12:29:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640349_655db65dedc43.jpg"/>
+    </item>
+    <dc:date>2024-03-20T11:26:08+00:00</dc:date>
+  </channel>
+</rss>

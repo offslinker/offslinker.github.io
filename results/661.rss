@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Ми грали це першими </title>
+    <link>https://ukr.radio/prog.html?id=661</link>
+    <description>Ми перше українське музичне радіо і підтримували українську музику до того, як це було модно. Ми - експерти в українській музиці і розповідаємо про музику цікавіше за інших. Ми з музикантами маємо довгу історію знайомства і вони нам довіряють, бо ми зробили багатьох артистів зірками до існування нових медіа. Ми повертаємо музику, втрачену за час, коли дехто вважав українську &quot;неформатною&quot;. Ці треки грали першими саме ми!</description>
+    <pubDate>Wed, 20 Mar 2024 11:54:17 +0000</pubDate>
+    <item>
+      <title>МАРІЯ БУРМАКА - Лишається Надія</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210610/2848631.mp3</link>
+      <description>МАРІЯ БУРМАКА - Лишається Надія</description>
+      <pubDate>Thu, 10 Jun 2021 00:48:48 +0000</pubDate>
+      <dc:date>2021-06-10T00:48:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Так Просто</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210610/2848629.mp3</link>
+      <description>ІРИНА БІЛИК - Так Просто</description>
+      <pubDate>Thu, 10 Jun 2021 00:38:05 +0000</pubDate>
+      <dc:date>2021-06-10T00:38:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>О ПОНОМАРЬОВ - Серденько Моє</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210610/2848625.mp3</link>
+      <description>О ПОНОМАРЬОВ - Серденько Моє</description>
+      <pubDate>Thu, 10 Jun 2021 00:10:01 +0000</pubDate>
+      <dc:date>2021-06-10T00:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Кувала Зозуля</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210610/2848624.mp3</link>
+      <description>ІРИНА БІЛИК - Кувала Зозуля</description>
+      <pubDate>Thu, 10 Jun 2021 00:00:13 +0000</pubDate>
+      <dc:date>2021-06-10T00:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>О ПОНОМАРЬОВ - Зіронька</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210609/2847774.mp3</link>
+      <description>О ПОНОМАРЬОВ - Зіронька</description>
+      <pubDate>Wed, 09 Jun 2021 04:44:37 +0000</pubDate>
+      <dc:date>2021-06-09T04:44:37+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МАРИНА ОДОЛЬСЬКА - Божевільна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210609/2847773.mp3</link>
+      <description>МАРИНА ОДОЛЬСЬКА - Божевільна</description>
+      <pubDate>Wed, 09 Jun 2021 04:34:24 +0000</pubDate>
+      <dc:date>2021-06-09T04:34:24+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Фарби</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210609/2847772.mp3</link>
+      <description>ІРИНА БІЛИК - Фарби</description>
+      <pubDate>Wed, 09 Jun 2021 04:10:33 +0000</pubDate>
+      <dc:date>2021-06-09T04:10:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВХІД У ЗМІННОМУ ВЗУТТІ - Тік Так</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210609/2847771.mp3</link>
+      <description>ВХІД У ЗМІННОМУ ВЗУТТІ - Тік Так</description>
+      <pubDate>Wed, 09 Jun 2021 04:00:12 +0000</pubDate>
+      <dc:date>2021-06-09T04:00:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ОКЕАН ЕЛЬЗИ - Там Де Нас Нема</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210608/2846422.mp3</link>
+      <description>ОКЕАН ЕЛЬЗИ - Там Де Нас Нема</description>
+      <pubDate>Tue, 08 Jun 2021 00:42:46 +0000</pubDate>
+      <dc:date>2021-06-08T00:42:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МЕРТВИЙ ПІВЕНЬ - Літо Буде</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210608/2846420.mp3</link>
+      <description>МЕРТВИЙ ПІВЕНЬ - Літо Буде</description>
+      <pubDate>Tue, 08 Jun 2021 00:32:27 +0000</pubDate>
+      <dc:date>2021-06-08T00:32:27+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ГАВАЙСЬКІ ГІТАРИ - Пісня Про Тракториста</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210608/2846418.mp3</link>
+      <description>ГАВАЙСЬКІ ГІТАРИ - Пісня Про Тракториста</description>
+      <pubDate>Tue, 08 Jun 2021 00:20:34 +0000</pubDate>
+      <dc:date>2021-06-08T00:20:34+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>О ПОНОМАРЬОВ - Він Чекає На Неї</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210608/2846416.mp3</link>
+      <description>О ПОНОМАРЬОВ - Він Чекає На Неї</description>
+      <pubDate>Tue, 08 Jun 2021 00:13:07 +0000</pubDate>
+      <dc:date>2021-06-08T00:13:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Хочу</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210608/2846414.mp3</link>
+      <description>ІРИНА БІЛИК - Хочу</description>
+      <pubDate>Tue, 08 Jun 2021 00:00:13 +0000</pubDate>
+      <dc:date>2021-06-08T00:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВХІД У ЗМІННОМУ ВЗУТТІ - Бо Вже Той</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210607/2841316.mp3</link>
+      <description>ВХІД У ЗМІННОМУ ВЗУТТІ - Бо Вже Той</description>
+      <pubDate>Mon, 07 Jun 2021 00:40:47 +0000</pubDate>
+      <dc:date>2021-06-07T00:40:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВОПЛІ ВІДОПЛЯСОВА - Веселковий Твіст</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210607/2841296.mp3</link>
+      <description>ВОПЛІ ВІДОПЛЯСОВА - Веселковий Твіст</description>
+      <pubDate>Mon, 07 Jun 2021 00:32:59 +0000</pubDate>
+      <dc:date>2021-06-07T00:32:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Арівідерчі Рома</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210607/2841298.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Арівідерчі Рома</description>
+      <pubDate>Mon, 07 Jun 2021 00:14:40 +0000</pubDate>
+      <dc:date>2021-06-07T00:14:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - 40 Пачок Верховини</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210605/2843098.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - 40 Пачок Верховини</description>
+      <pubDate>Sat, 05 Jun 2021 05:28:07 +0000</pubDate>
+      <dc:date>2021-06-05T05:28:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ПЛАЧ ЄРЕМІЇ - Вона</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210604/2838108.mp3</link>
+      <description>ПЛАЧ ЄРЕМІЇ - Вона</description>
+      <pubDate>Fri, 04 Jun 2021 06:41:16 +0000</pubDate>
+      <dc:date>2021-06-04T06:41:16+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Одинокая</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210604/2842552.mp3</link>
+      <description>ІРИНА БІЛИК - Одинокая</description>
+      <pubDate>Fri, 04 Jun 2021 02:45:08 +0000</pubDate>
+      <dc:date>2021-06-04T02:45:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ПЛАЧ ЄРЕМІЇ - Єхидна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210604/2842550.mp3</link>
+      <description>ПЛАЧ ЄРЕМІЇ - Єхидна</description>
+      <pubDate>Fri, 04 Jun 2021 02:34:10 +0000</pubDate>
+      <dc:date>2021-06-04T02:34:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>РУСЯ - Ворожка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210604/2842548.mp3</link>
+      <description>РУСЯ - Ворожка</description>
+      <pubDate>Fri, 04 Jun 2021 02:21:51 +0000</pubDate>
+      <dc:date>2021-06-04T02:21:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКТОР ПАВЛІК - Ти Подобаєшся Мені</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210604/2842546.mp3</link>
+      <description>ВІКТОР ПАВЛІК - Ти Подобаєшся Мені</description>
+      <pubDate>Fri, 04 Jun 2021 02:15:20 +0000</pubDate>
+      <dc:date>2021-06-04T02:15:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЮЛІЯ ЛОРД - Брудна Як Ангел</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210604/2842544.mp3</link>
+      <description>ЮЛІЯ ЛОРД - Брудна Як Ангел</description>
+      <pubDate>Fri, 04 Jun 2021 02:04:42 +0000</pubDate>
+      <dc:date>2021-06-04T02:04:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Я Іду На Війну</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210603/2840168.mp3</link>
+      <description>ІРИНА БІЛИК - Я Іду На Війну</description>
+      <pubDate>Thu, 03 Jun 2021 19:34:58 +0000</pubDate>
+      <dc:date>2021-06-03T19:34:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>СТЕП - Дівчина Танцюй</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210603/2842220.mp3</link>
+      <description>СТЕП - Дівчина Танцюй</description>
+      <pubDate>Thu, 03 Jun 2021 00:47:57 +0000</pubDate>
+      <dc:date>2021-06-03T00:47:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЛА МАНШ - Погляд</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210603/2842218.mp3</link>
+      <description>ЛА МАНШ - Погляд</description>
+      <pubDate>Thu, 03 Jun 2021 00:34:09 +0000</pubDate>
+      <dc:date>2021-06-03T00:34:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Парами</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210603/2842216.mp3</link>
+      <description>ІРИНА БІЛИК - Парами</description>
+      <pubDate>Thu, 03 Jun 2021 00:11:32 +0000</pubDate>
+      <dc:date>2021-06-03T00:11:32+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МЕРТВИЙ ПІВЕНЬ - Літо Буде</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838343.mp3</link>
+      <description>МЕРТВИЙ ПІВЕНЬ - Літо Буде</description>
+      <pubDate>Wed, 02 Jun 2021 04:50:51 +0000</pubDate>
+      <dc:date>2021-06-02T04:50:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Франсуа</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838341.mp3</link>
+      <description>ІРИНА БІЛИК - Франсуа</description>
+      <pubDate>Wed, 02 Jun 2021 04:43:05 +0000</pubDate>
+      <dc:date>2021-06-02T04:43:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВОПЛІ ВІДОПЛЯСОВА - Музіка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838339.mp3</link>
+      <description>ВОПЛІ ВІДОПЛЯСОВА - Музіка</description>
+      <pubDate>Wed, 02 Jun 2021 04:36:06 +0000</pubDate>
+      <dc:date>2021-06-02T04:36:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКТОР ПАВЛИК - Ні Обіцянок</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838337.mp3</link>
+      <description>ВІКТОР ПАВЛИК - Ні Обіцянок</description>
+      <pubDate>Wed, 02 Jun 2021 04:25:05 +0000</pubDate>
+      <dc:date>2021-06-02T04:25:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКА ВРАДІЙ - Хот-дог</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838335.mp3</link>
+      <description>ВІКА ВРАДІЙ - Хот-дог</description>
+      <pubDate>Wed, 02 Jun 2021 04:16:43 +0000</pubDate>
+      <dc:date>2021-06-02T04:16:43+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВАН-ГОГ - Я Вже Не Твій</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838333.mp3</link>
+      <description>ВАН-ГОГ - Я Вже Не Твій</description>
+      <pubDate>Wed, 02 Jun 2021 04:09:59 +0000</pubDate>
+      <dc:date>2021-06-02T04:09:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Все Чьотко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210602/2838331.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Все Чьотко</description>
+      <pubDate>Wed, 02 Jun 2021 04:00:12 +0000</pubDate>
+      <dc:date>2021-06-02T04:00:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Серце</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210601/2838310.mp3</link>
+      <description>ІРИНА БІЛИК - Серце</description>
+      <pubDate>Tue, 01 Jun 2021 11:33:59 +0000</pubDate>
+      <dc:date>2021-06-01T11:33:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МАРІЯ БУРМАКА - Єдиного Слова Заради</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210601/2836333.mp3</link>
+      <description>МАРІЯ БУРМАКА - Єдиного Слова Заради</description>
+      <pubDate>Tue, 01 Jun 2021 00:43:04 +0000</pubDate>
+      <dc:date>2021-06-01T00:43:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>СТЕП - Не Шукай Мене</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210601/2836332.mp3</link>
+      <description>СТЕП - Не Шукай Мене</description>
+      <pubDate>Tue, 01 Jun 2021 00:35:52 +0000</pubDate>
+      <dc:date>2021-06-01T00:35:52+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКА ВРАДІЙ - Тинди-Ринди</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210601/2836331.mp3</link>
+      <description>ВІКА ВРАДІЙ - Тинди-Ринди</description>
+      <pubDate>Tue, 01 Jun 2021 00:19:53 +0000</pubDate>
+      <dc:date>2021-06-01T00:19:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВАН ГОГ - Хто Є Хто</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210601/2836330.mp3</link>
+      <description>ВАН ГОГ - Хто Є Хто</description>
+      <pubDate>Tue, 01 Jun 2021 00:10:54 +0000</pubDate>
+      <dc:date>2021-06-01T00:10:54+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Карпати</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210601/2836329.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Карпати</description>
+      <pubDate>Tue, 01 Jun 2021 00:00:11 +0000</pubDate>
+      <dc:date>2021-06-01T00:00:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВХІД У ЗМІННОМУ ВЗУТТІ - Хтось Скаже Так</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2838299.mp3</link>
+      <description>ВХІД У ЗМІННОМУ ВЗУТТІ - Хтось Скаже Так</description>
+      <pubDate>Mon, 31 May 2021 22:37:08 +0000</pubDate>
+      <dc:date>2021-05-31T22:37:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЮЛІЯ ЛОРД - Танець Душ</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2838297.mp3</link>
+      <description>ЮЛІЯ ЛОРД - Танець Душ</description>
+      <pubDate>Mon, 31 May 2021 20:33:48 +0000</pubDate>
+      <dc:date>2021-05-31T20:33:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>НАТАЛІЯ МОГИЛЕВСЬКА - Місяць</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835780.mp3</link>
+      <description>НАТАЛІЯ МОГИЛЕВСЬКА - Місяць</description>
+      <pubDate>Mon, 31 May 2021 00:44:56 +0000</pubDate>
+      <dc:date>2021-05-31T00:44:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>НІЧЛАВА БЛЮЗ - Зоряний Ангел</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835774.mp3</link>
+      <description>НІЧЛАВА БЛЮЗ - Зоряний Ангел</description>
+      <pubDate>Mon, 31 May 2021 00:37:14 +0000</pubDate>
+      <dc:date>2021-05-31T00:37:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>О ПОНОМАРЬОВ - Чомусь Так Гірко</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835773.mp3</link>
+      <description>О ПОНОМАРЬОВ - Чомусь Так Гірко</description>
+      <pubDate>Mon, 31 May 2021 00:30:05 +0000</pubDate>
+      <dc:date>2021-05-31T00:30:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ОКЕАН ЕЛЬЗИ - Ластівка З Мого Міста</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835772.mp3</link>
+      <description>ОКЕАН ЕЛЬЗИ - Ластівка З Мого Міста</description>
+      <pubDate>Mon, 31 May 2021 00:23:36 +0000</pubDate>
+      <dc:date>2021-05-31T00:23:36+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ПЛАЧ ЄРЕМІЇ - Я Піду В Далекі Гори</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835771.mp3</link>
+      <description>ПЛАЧ ЄРЕМІЇ - Я Піду В Далекі Гори</description>
+      <pubDate>Mon, 31 May 2021 00:16:02 +0000</pubDate>
+      <dc:date>2021-05-31T00:16:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>РУСЯ - Зоряний Корсар</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835770.mp3</link>
+      <description>РУСЯ - Зоряний Корсар</description>
+      <pubDate>Mon, 31 May 2021 00:09:02 +0000</pubDate>
+      <dc:date>2021-05-31T00:09:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>СТЕП - Ти Не Пожалкуєш</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210531/2835769.mp3</link>
+      <description>СТЕП - Ти Не Пожалкуєш</description>
+      <pubDate>Mon, 31 May 2021 00:00:10 +0000</pubDate>
+      <dc:date>2021-05-31T00:00:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Наркомани На Городі</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835461.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Наркомани На Городі</description>
+      <pubDate>Sat, 29 May 2021 22:35:09 +0000</pubDate>
+      <dc:date>2021-05-29T22:35:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МАРИНА ОДОЛЬСЬКА - Біль</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835463.mp3</link>
+      <description>МАРИНА ОДОЛЬСЬКА - Біль</description>
+      <pubDate>Sat, 29 May 2021 18:33:12 +0000</pubDate>
+      <dc:date>2021-05-29T18:33:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ОКЕАН ЕЛЬЗИ - Сосни</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835401.mp3</link>
+      <description>ОКЕАН ЕЛЬЗИ - Сосни</description>
+      <pubDate>Sat, 29 May 2021 05:48:23 +0000</pubDate>
+      <dc:date>2021-05-29T05:48:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>THE ВЙО - Мануна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835400.mp3</link>
+      <description>THE ВЙО - Мануна</description>
+      <pubDate>Sat, 29 May 2021 05:40:56 +0000</pubDate>
+      <dc:date>2021-05-29T05:40:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>РУСЯ - Не Стій Під Вікном</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835399.mp3</link>
+      <description>РУСЯ - Не Стій Під Вікном</description>
+      <pubDate>Sat, 29 May 2021 05:30:29 +0000</pubDate>
+      <dc:date>2021-05-29T05:30:29+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>О ПОНОМАРЬОВ - З Ранку До Ночі</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835406.mp3</link>
+      <description>О ПОНОМАРЬОВ - З Ранку До Ночі</description>
+      <pubDate>Sat, 29 May 2021 05:18:16 +0000</pubDate>
+      <dc:date>2021-05-29T05:18:16+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>THE ВЙО - Зорі</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835397.mp3</link>
+      <description>THE ВЙО - Зорі</description>
+      <pubDate>Sat, 29 May 2021 05:06:41 +0000</pubDate>
+      <dc:date>2021-05-29T05:06:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>EL КРАВЧУК - Я Нічий</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210529/2835396.mp3</link>
+      <description>EL КРАВЧУК - Я Нічий</description>
+      <pubDate>Sat, 29 May 2021 05:00:12 +0000</pubDate>
+      <dc:date>2021-05-29T05:00:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВХІД У ЗМІННОМУ ВЗУТТІ - Сірко Собака</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834459.mp3</link>
+      <description>ВХІД У ЗМІННОМУ ВЗУТТІ - Сірко Собака</description>
+      <pubDate>Fri, 28 May 2021 02:47:14 +0000</pubDate>
+      <dc:date>2021-05-28T02:47:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>THE ВЙО - Ганжа</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834457.mp3</link>
+      <description>THE ВЙО - Ганжа</description>
+      <pubDate>Fri, 28 May 2021 02:39:26 +0000</pubDate>
+      <dc:date>2021-05-28T02:39:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>РУСЛАНА - Світанок</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834455.mp3</link>
+      <description>РУСЛАНА - Світанок</description>
+      <pubDate>Fri, 28 May 2021 02:31:51 +0000</pubDate>
+      <dc:date>2021-05-28T02:31:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>РУСЯ - Русалонька</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834453.mp3</link>
+      <description>РУСЯ - Русалонька</description>
+      <pubDate>Fri, 28 May 2021 02:24:41 +0000</pubDate>
+      <dc:date>2021-05-28T02:24:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ТАРАС ПЕТРИНЕНКО - Абориген</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834451.mp3</link>
+      <description>ТАРАС ПЕТРИНЕНКО - Абориген</description>
+      <pubDate>Fri, 28 May 2021 02:16:15 +0000</pubDate>
+      <dc:date>2021-05-28T02:16:15+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ФАНТОМ 2 - Без контролю</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834449.mp3</link>
+      <description>ФАНТОМ 2 - Без контролю</description>
+      <pubDate>Fri, 28 May 2021 02:07:51 +0000</pubDate>
+      <dc:date>2021-05-28T02:07:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЮРКО ЮРЧЕНКО - В Пустелі Диких Снів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210528/2834448.mp3</link>
+      <description>ЮРКО ЮРЧЕНКО - В Пустелі Диких Снів</description>
+      <pubDate>Fri, 28 May 2021 02:00:10 +0000</pubDate>
+      <dc:date>2021-05-28T02:00:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ТНМК - Зачекай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2829469.mp3</link>
+      <description>ТНМК - Зачекай</description>
+      <pubDate>Thu, 27 May 2021 18:33:14 +0000</pubDate>
+      <dc:date>2021-05-27T18:33:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МЕРТВИЙ ПІВЕНЬ - Франсуа</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2834443.mp3</link>
+      <description>МЕРТВИЙ ПІВЕНЬ - Франсуа</description>
+      <pubDate>Thu, 27 May 2021 15:33:25 +0000</pubDate>
+      <dc:date>2021-05-27T15:33:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>EL КРАВЧУК - Війна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2832315.mp3</link>
+      <description>EL КРАВЧУК - Війна</description>
+      <pubDate>Thu, 27 May 2021 00:46:22 +0000</pubDate>
+      <dc:date>2021-05-27T00:46:22+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МАРІЯ БУРМАКА - Ми Йдемо</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2832313.mp3</link>
+      <description>МАРІЯ БУРМАКА - Ми Йдемо</description>
+      <pubDate>Thu, 27 May 2021 00:39:12 +0000</pubDate>
+      <dc:date>2021-05-27T00:39:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МЕРТВИЙ ПІВЕНЬ - Beautifull Карпати</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2832311.mp3</link>
+      <description>МЕРТВИЙ ПІВЕНЬ - Beautifull Карпати</description>
+      <pubDate>Thu, 27 May 2021 00:25:14 +0000</pubDate>
+      <dc:date>2021-05-27T00:25:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Я Розкажу</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2832309.mp3</link>
+      <description>ІРИНА БІЛИК - Я Розкажу</description>
+      <pubDate>Thu, 27 May 2021 00:17:37 +0000</pubDate>
+      <dc:date>2021-05-27T00:17:37+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Було Не Любити</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210527/2832307.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Було Не Любити</description>
+      <pubDate>Thu, 27 May 2021 00:06:34 +0000</pubDate>
+      <dc:date>2021-05-27T00:06:34+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ФАНТОМ 2 - Двоє</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2834162.mp3</link>
+      <description>ФАНТОМ 2 - Двоє</description>
+      <pubDate>Wed, 26 May 2021 21:32:51 +0000</pubDate>
+      <dc:date>2021-05-26T21:32:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКА ВРАДІЙ - Мамо Я Дурна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2834164.mp3</link>
+      <description>ВІКА ВРАДІЙ - Мамо Я Дурна</description>
+      <pubDate>Wed, 26 May 2021 20:34:00 +0000</pubDate>
+      <dc:date>2021-05-26T20:34:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>СТЕП - Все В Нас Є</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2832004.mp3</link>
+      <description>СТЕП - Все В Нас Є</description>
+      <pubDate>Wed, 26 May 2021 04:50:30 +0000</pubDate>
+      <dc:date>2021-05-26T04:50:30+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Nova</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2832003.mp3</link>
+      <description>ІРИНА БІЛИК - Nova</description>
+      <pubDate>Wed, 26 May 2021 04:43:57 +0000</pubDate>
+      <dc:date>2021-05-26T04:43:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ХВИЛЮ ТРИМАЙ - Хей Хай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2832002.mp3</link>
+      <description>ХВИЛЮ ТРИМАЙ - Хей Хай</description>
+      <pubDate>Wed, 26 May 2021 04:38:05 +0000</pubDate>
+      <dc:date>2021-05-26T04:38:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ФАНТОМ 2 - Я Досягну</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2832001.mp3</link>
+      <description>ФАНТОМ 2 - Я Досягну</description>
+      <pubDate>Wed, 26 May 2021 04:31:53 +0000</pubDate>
+      <dc:date>2021-05-26T04:31:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЮРКО ЮРЧЕНКО - Я Йду</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2831999.mp3</link>
+      <description>ЮРКО ЮРЧЕНКО - Я Йду</description>
+      <pubDate>Wed, 26 May 2021 04:20:52 +0000</pubDate>
+      <dc:date>2021-05-26T04:20:52+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКА ВРАДІЙ - То Моє Море</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2831998.mp3</link>
+      <description>ВІКА ВРАДІЙ - То Моє Море</description>
+      <pubDate>Wed, 26 May 2021 04:12:55 +0000</pubDate>
+      <dc:date>2021-05-26T04:12:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Рок-Н-Рол До Рана</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2831997.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Рок-Н-Рол До Рана</description>
+      <pubDate>Wed, 26 May 2021 04:07:02 +0000</pubDate>
+      <dc:date>2021-05-26T04:07:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВАН-ГОГ - Не Відлітай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210526/2831995.mp3</link>
+      <description>ВАН-ГОГ - Не Відлітай</description>
+      <pubDate>Wed, 26 May 2021 04:00:13 +0000</pubDate>
+      <dc:date>2021-05-26T04:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>МАРИНА ОДОЛЬСЬКА Мій Літак</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829878.mp3</link>
+      <description>МАРИНА ОДОЛЬСЬКА Мій Літак</description>
+      <pubDate>Tue, 25 May 2021 00:52:04 +0000</pubDate>
+      <dc:date>2021-05-25T00:52:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЛА МАНШ - Доторкнись</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829877.mp3</link>
+      <description>ЛА МАНШ - Доторкнись</description>
+      <pubDate>Tue, 25 May 2021 00:48:51 +0000</pubDate>
+      <dc:date>2021-05-25T00:48:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>КАТЯ CHILLY - Русалки In Da House</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829876.mp3</link>
+      <description>КАТЯ CHILLY - Русалки In Da House</description>
+      <pubDate>Tue, 25 May 2021 00:45:52 +0000</pubDate>
+      <dc:date>2021-05-25T00:45:52+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ІРИНА БІЛИК - Годі Вже</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829875.mp3</link>
+      <description>ІРИНА БІЛИК - Годі Вже</description>
+      <pubDate>Tue, 25 May 2021 00:43:03 +0000</pubDate>
+      <dc:date>2021-05-25T00:43:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ЖАБА В ДИРИЖАБЛІ - Спить Місяць</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829874.mp3</link>
+      <description>ЖАБА В ДИРИЖАБЛІ - Спить Місяць</description>
+      <pubDate>Tue, 25 May 2021 00:40:00 +0000</pubDate>
+      <dc:date>2021-05-25T00:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ГАВАЙСЬКІ ГІТАРИ - Якщо Є Життя</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829873.mp3</link>
+      <description>ГАВАЙСЬКІ ГІТАРИ - Якщо Є Життя</description>
+      <pubDate>Tue, 25 May 2021 00:36:23 +0000</pubDate>
+      <dc:date>2021-05-25T00:36:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВХІД У ЗМІННОМУ ВЗУТТІ - Час Що Минає</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829872.mp3</link>
+      <description>ВХІД У ЗМІННОМУ ВЗУТТІ - Час Що Минає</description>
+      <pubDate>Tue, 25 May 2021 00:33:01 +0000</pubDate>
+      <dc:date>2021-05-25T00:33:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВОПЛІ ВІДОПЛЯСОВА - Весна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829871.mp3</link>
+      <description>ВОПЛІ ВІДОПЛЯСОВА - Весна</description>
+      <pubDate>Tue, 25 May 2021 00:28:14 +0000</pubDate>
+      <dc:date>2021-05-25T00:28:14+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКТОР ПАВЛІК - Шикидим</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829870.mp3</link>
+      <description>ВІКТОР ПАВЛІК - Шикидим</description>
+      <pubDate>Tue, 25 May 2021 00:24:33 +0000</pubDate>
+      <dc:date>2021-05-25T00:24:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКА ВРАДІЙ - Булка З Маком</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829869.mp3</link>
+      <description>ВІКА ВРАДІЙ - Булка З Маком</description>
+      <pubDate>Tue, 25 May 2021 00:20:35 +0000</pubDate>
+      <dc:date>2021-05-25T00:20:35+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВЕЧІРНЯ ШКОЛА - День Народження Наташі</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829868.mp3</link>
+      <description>ВЕЧІРНЯ ШКОЛА - День Народження Наташі</description>
+      <pubDate>Tue, 25 May 2021 00:17:17 +0000</pubDate>
+      <dc:date>2021-05-25T00:17:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВАН ГОГ - Зроби Так</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829867.mp3</link>
+      <description>ВАН ГОГ - Зроби Так</description>
+      <pubDate>Tue, 25 May 2021 00:14:03 +0000</pubDate>
+      <dc:date>2021-05-25T00:14:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>БРАТИ ГАДЮКІНИ - Міську Важай</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829866.mp3</link>
+      <description>БРАТИ ГАДЮКІНИ - Міську Важай</description>
+      <pubDate>Tue, 25 May 2021 00:11:12 +0000</pubDate>
+      <dc:date>2021-05-25T00:11:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>АКВА ВІТА - А Тепер Усе Інакше</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829865.mp3</link>
+      <description>АКВА ВІТА - А Тепер Усе Інакше</description>
+      <pubDate>Tue, 25 May 2021 00:07:33 +0000</pubDate>
+      <dc:date>2021-05-25T00:07:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>THE ВЙО - Космішна</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2829864.mp3</link>
+      <description>THE ВЙО - Космішна</description>
+      <pubDate>Tue, 25 May 2021 00:04:40 +0000</pubDate>
+      <dc:date>2021-05-25T00:04:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>EL КРАВЧУК - Доля</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210525/2828802.mp3</link>
+      <description>EL КРАВЧУК - Доля</description>
+      <pubDate>Tue, 25 May 2021 00:00:12 +0000</pubDate>
+      <dc:date>2021-05-25T00:00:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <item>
+      <title>ВІКА ВРАДІЙ - Рок-Н-Ролл</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20210524/2829930.mp3</link>
+      <description>ВІКА ВРАДІЙ - Рок-Н-Ролл</description>
+      <pubDate>Mon, 24 May 2021 21:32:58 +0000</pubDate>
+      <dc:date>2021-05-24T21:32:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677056739_63f5dae338a4b.png"/>
+    </item>
+    <dc:date>2024-03-20T11:54:17+00:00</dc:date>
+  </channel>
+</rss>

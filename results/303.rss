@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Как это будет по-украински</title>
+    <link>https://ukr.radio/prog.html?id=303</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:34:08 +0000</pubDate>
+    <item>
+      <title>
+	Одинаковы ли по значению слова &quot;строчка&quot; и &quot;стрічка&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20190615/2257053.mp3</link>
+      <description>
+	Одинаковы ли по значению слова &quot;строчка&quot; и &quot;стрічка&quot;.</description>
+      <pubDate>Sat, 15 Jun 2019 20:00:50 +0000</pubDate>
+      <dc:date>2019-06-15T20:00:50+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1679061593_641472591a164.png"/>
+    </item>
+    <dc:date>2024-03-20T11:34:08+00:00</dc:date>
+  </channel>
+</rss>

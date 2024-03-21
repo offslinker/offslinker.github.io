@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Новини словацькою мовою</title>
+    <link>https://ukr.radio/prog.html?id=1137</link>
+    <description>Достовірна інформація з перевірених джерел. Дізнаємося про хід війни, про життя в прифронтових регіонах України. Говоримо правду та розвінчуємо фейки і пропаганду.</description>
+    <pubDate>Wed, 20 Mar 2024 11:26:48 +0000</pubDate>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240319/3789638.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 19 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-19T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240319/3789636.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 19 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-19T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240318/3789505.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 18 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-18T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240318/3789503.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 18 Mar 2024 12:39:17 +0000</pubDate>
+      <dc:date>2024-03-18T12:39:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240315/3789004.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 15 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-15T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240315/3789002.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 15 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-15T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240314/3788747.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 14 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-14T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240314/3788745.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 14 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-14T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240313/3788495.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 13 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-13T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240313/3788493.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 13 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-13T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240312/3784958.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 12 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-12T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240312/3784956.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 12 Mar 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-03-12T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240311/3779399.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 11 Mar 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-03-11T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240311/3779397.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 11 Mar 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-03-11T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240308/3778898.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 08 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-08T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240308/3778896.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 08 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-08T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240307/3778641.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 07 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-07T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240307/3778639.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 07 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-07T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240306/3778389.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 06 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-06T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240306/3778387.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 06 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-06T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240305/3778131.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 05 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-05T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240305/3778129.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 05 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-05T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240304/3774293.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 04 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-04T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240304/3774291.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 04 Mar 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-03-04T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240301/3773792.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 01 Mar 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-03-01T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240301/3773790.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 01 Mar 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-03-01T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240229/3773535.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 29 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-29T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240229/3773533.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 29 Feb 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-02-29T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240228/3773283.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 28 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-28T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240228/3773281.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 28 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-28T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240227/3765445.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 27 Feb 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-02-27T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240227/3765443.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 27 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-27T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240226/3765265.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 26 Feb 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-02-26T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240226/3765263.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 26 Feb 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-02-26T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240223/3764764.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 23 Feb 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-02-23T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240223/3764762.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 23 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-23T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240222/3764507.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 22 Feb 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-02-22T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240222/3764505.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 22 Feb 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-02-22T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240221/3764255.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 21 Feb 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-02-21T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240221/3764253.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 21 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-21T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240220/3755982.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 20 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-20T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240220/3755980.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 20 Feb 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-02-20T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240219/3755849.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 19 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-19T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240219/3755847.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 19 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-19T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240216/3755348.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 16 Feb 2024 17:39:11 +0000</pubDate>
+      <dc:date>2024-02-16T17:39:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240216/3755346.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 16 Feb 2024 12:39:11 +0000</pubDate>
+      <dc:date>2024-02-16T12:39:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240215/3755091.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 15 Feb 2024 17:39:08 +0000</pubDate>
+      <dc:date>2024-02-15T17:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240215/3755089.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 15 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-15T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240214/3754839.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 14 Feb 2024 17:39:06 +0000</pubDate>
+      <dc:date>2024-02-14T17:39:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240214/3754837.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 14 Feb 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-02-14T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240213/3749689.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 13 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-13T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240213/3749687.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 13 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-13T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240212/3749556.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 12 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-12T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240212/3749554.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 12 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-12T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240209/3749055.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 09 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-09T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240209/3749053.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 09 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-09T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240208/3748798.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 08 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-08T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240208/3748796.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 08 Feb 2024 12:39:07 +0000</pubDate>
+      <dc:date>2024-02-08T12:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240207/3748546.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 07 Feb 2024 17:39:07 +0000</pubDate>
+      <dc:date>2024-02-07T17:39:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240207/3748544.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 07 Feb 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-02-07T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240206/3740165.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 06 Feb 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-02-06T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/files/audio_manual/65c2292db983d4.10756844.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 06 Feb 2024 12:39:08 +0000</pubDate>
+      <dc:date>2024-02-06T12:39:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/files/audio_manual/65c109b417af97.05621914.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 05 Feb 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-02-05T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/files/audio_manual/65c0c87505e2c0.22954931.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 05 Feb 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-02-05T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240202/3739526.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 02 Feb 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-02-02T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240202/3739524.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 02 Feb 2024 12:39:06 +0000</pubDate>
+      <dc:date>2024-02-02T12:39:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/files/audio_manual/65bba3f17a1d83.19761209.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 01 Feb 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-02-01T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240119/3724362.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 19 Jan 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-01-19T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240119/3724360.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Fri, 19 Jan 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-01-19T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240118/3724105.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 18 Jan 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-01-18T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240118/3724103.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Thu, 18 Jan 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-01-18T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240117/3722197.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 17 Jan 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-01-17T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240117/3722195.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Wed, 17 Jan 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-01-17T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240116/3718422.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 16 Jan 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-01-16T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240116/3718420.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Tue, 16 Jan 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-01-16T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240115/3718289.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 15 Jan 2024 17:39:05 +0000</pubDate>
+      <dc:date>2024-01-15T17:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <item>
+      <title>Správy v slovenskom jazyku</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240115/3718287.mp3</link>
+      <description>Správy v slovenskom jazyku</description>
+      <pubDate>Mon, 15 Jan 2024 12:39:05 +0000</pubDate>
+      <dc:date>2024-01-15T12:39:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1706652080_65b971b06a261.png"/>
+    </item>
+    <dc:date>2024-03-20T11:26:48+00:00</dc:date>
+  </channel>
+</rss>

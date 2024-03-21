@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Українська музика на Українському радіо</title>
+    <link>https://ukr.radio/prog.html?id=968</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:30:42 +0000</pubDate>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20221023/3271958.mp3</link>
+      <description></description>
+      <pubDate>Sun, 23 Oct 2022 16:38:25 +0000</pubDate>
+      <dc:date>2022-10-23T16:38:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20221016/3264600.mp3</link>
+      <description></description>
+      <pubDate>Sun, 16 Oct 2022 16:40:10 +0000</pubDate>
+      <dc:date>2022-10-16T16:40:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20221009/3260180.mp3</link>
+      <description></description>
+      <pubDate>Sun, 09 Oct 2022 16:41:45 +0000</pubDate>
+      <dc:date>2022-10-09T16:41:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title>Добірка української музики</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20221002/3254266.mp3</link>
+      <description>Добірка української музики</description>
+      <pubDate>Sun, 02 Oct 2022 16:39:17 +0000</pubDate>
+      <dc:date>2022-10-02T16:39:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title>Добірка української музики.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220828/3224997.mp3</link>
+      <description>Добірка української музики.</description>
+      <pubDate>Sun, 28 Aug 2022 16:40:04 +0000</pubDate>
+      <dc:date>2022-08-28T16:40:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title>Добірка української музики.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220821/3219558.mp3</link>
+      <description>Добірка української музики.</description>
+      <pubDate>Sun, 21 Aug 2022 16:40:06 +0000</pubDate>
+      <dc:date>2022-08-21T16:40:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220814/3213375.mp3</link>
+      <description></description>
+      <pubDate>Sun, 14 Aug 2022 16:42:59 +0000</pubDate>
+      <dc:date>2022-08-14T16:42:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220807/3208396.mp3</link>
+      <description></description>
+      <pubDate>Sun, 07 Aug 2022 16:38:59 +0000</pubDate>
+      <dc:date>2022-08-07T16:38:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220731/3201970.mp3</link>
+      <description></description>
+      <pubDate>Sun, 31 Jul 2022 16:40:13 +0000</pubDate>
+      <dc:date>2022-07-31T16:40:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212570_63bb329aded0b.png"/>
+    </item>
+    <dc:date>2024-03-20T11:30:42+00:00</dc:date>
+  </channel>
+</rss>

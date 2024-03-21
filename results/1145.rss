@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Культурний компас під час війни</title>
+    <link>https://ukr.radio/prog.html?id=1145</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:56:58 +0000</pubDate>
+    <item>
+      <title>Filmul lui Mstislav Chernov „20 de zile la Mariupol” a câștigat Premiul BAFTA (versiunea britanică a Premiului Oscar).</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240303/3774155.mp3</link>
+      <description>Filmul lui Mstislav Chernov „20 de zile la Mariupol” a câștigat Premiul BAFTA (versiunea britanică a Premiului Oscar).</description>
+      <pubDate>Sun, 03 Mar 2024 23:08:02 +0000</pubDate>
+      <dc:date>2024-03-03T23:08:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154594_65c11ca2c5a44.png"/>
+    </item>
+    <item>
+      <title>Cu ocazia centenarului nașterii celebrului regizor de film Serghei Parajanov, la Muzeul sub cerul liber din Cernăuți au fost organizate lecturi literari a scenariilor lui Parajanov pentru a colecta fonduri în sprijinul Forțelor Armate Ucrainene. Un interviu cu actorul și regizorul Ivan Danilin.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240204/3739889.mp3</link>
+      <description>Cu ocazia centenarului nașterii celebrului regizor de film Serghei Parajanov, la Muzeul sub cerul liber din Cernăuți au fost organizate lecturi literari a scenariilor lui Parajanov pentru a colecta fonduri în sprijinul Forțelor Armate Ucrainene. Un interviu cu actorul și regizorul Ivan Danilin.</description>
+      <pubDate>Sun, 04 Feb 2024 23:08:05 +0000</pubDate>
+      <dc:date>2024-02-04T23:08:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1707154594_65c11ca2c5a44.png"/>
+    </item>
+    <dc:date>2024-03-20T11:56:58+00:00</dc:date>
+  </channel>
+</rss>

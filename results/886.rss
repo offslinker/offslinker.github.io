@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Теорія неймовірності</title>
+    <link>https://ukr.radio/prog.html?id=886</link>
+    <description>25 кадр – не діє, електромобілі не замінять весь транспорт, рівень океану не підніметься на десятки метрів через потепління... У які ще наукові забобони ми схильні вірити?  Розбиваємо стереотипи вщент з автором найвідоміших українських технотриллерів Максом Кідруком.</description>
+    <pubDate>Wed, 20 Mar 2024 11:13:40 +0000</pubDate>
+    <item>
+      <title>Про доброту.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220212/3069700.mp3</link>
+      <description>Про доброту.</description>
+      <pubDate>Sat, 12 Feb 2022 11:49:21 +0000</pubDate>
+      <dc:date>2022-02-12T11:49:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Термоядерний реактор і перспективи термоядерної енергетики.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220206/3062817.mp3</link>
+      <description>Термоядерний реактор і перспективи термоядерної енергетики.</description>
+      <pubDate>Sun, 06 Feb 2022 11:38:46 +0000</pubDate>
+      <dc:date>2022-02-06T11:38:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Заборона використання пластикових пакетів не вирішить проблему зміни клімату на планеті. Чому пластик не є суцільним злом для екології?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220131/3067419.mp3</link>
+      <description>Заборона використання пластикових пакетів не вирішить проблему зміни клімату на планеті. Чому пластик не є суцільним злом для екології?</description>
+      <pubDate>Mon, 31 Jan 2022 07:23:00 +0000</pubDate>
+      <dc:date>2022-01-31T07:23:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Інсектицид ДДТ.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220130/3056488.mp3</link>
+      <description>Інсектицид ДДТ.</description>
+      <pubDate>Sun, 30 Jan 2022 11:38:41 +0000</pubDate>
+      <dc:date>2022-01-30T11:38:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чорні діри.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220129/3056300.mp3</link>
+      <description>Чорні діри.</description>
+      <pubDate>Sat, 29 Jan 2022 11:50:46 +0000</pubDate>
+      <dc:date>2022-01-29T11:50:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Великий фінал проекту &quot;Теорії неймовірності&quot; на Українському радіо. Радіоверсія зустрічі ведучого програми Макса Кідрука зі слухачами.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220128/3056037.mp3</link>
+      <description>Великий фінал проекту &quot;Теорії неймовірності&quot; на Українському радіо. Радіоверсія зустрічі ведучого програми Макса Кідрука зі слухачами.</description>
+      <pubDate>Fri, 28 Jan 2022 19:12:01 +0000</pubDate>
+      <dc:date>2022-01-28T19:12:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Як хімічний склад зорі впливає на зародження життя на планетах.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220123/3053286.mp3</link>
+      <description>Як хімічний склад зорі впливає на зародження життя на планетах.</description>
+      <pubDate>Sun, 23 Jan 2022 11:40:26 +0000</pubDate>
+      <dc:date>2022-01-23T11:40:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Резистентність мікробів до антибіотиків.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220116/3047784.mp3</link>
+      <description>Резистентність мікробів до антибіотиків.</description>
+      <pubDate>Sun, 16 Jan 2022 11:34:02 +0000</pubDate>
+      <dc:date>2022-01-16T11:34:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чорні діри та як помирають зірки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220115/3047603.mp3</link>
+      <description>Чорні діри та як помирають зірки.</description>
+      <pubDate>Sat, 15 Jan 2022 11:51:11 +0000</pubDate>
+      <dc:date>2022-01-15T11:51:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Інсектицид ДДТ.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220109/3037316.mp3</link>
+      <description>Інсектицид ДДТ.</description>
+      <pubDate>Sun, 09 Jan 2022 11:39:39 +0000</pubDate>
+      <dc:date>2022-01-09T11:39:39+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Про азотні добрива та отруйні хімічні гази, винайдені Нобелівським лауреатом Фріцом Габером.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220108/3037138.mp3</link>
+      <description>Про азотні добрива та отруйні хімічні гази, винайдені Нобелівським лауреатом Фріцом Габером.</description>
+      <pubDate>Sat, 08 Jan 2022 11:49:08 +0000</pubDate>
+      <dc:date>2022-01-08T11:49:08+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Рак та надмірна обережність, яка шкодить.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220105/3036405.mp3</link>
+      <description>Рак та надмірна обережність, яка шкодить.</description>
+      <pubDate>Wed, 05 Jan 2022 07:30:06 +0000</pubDate>
+      <dc:date>2022-01-05T07:30:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Зміни клімату.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220103/3031923.mp3</link>
+      <description>Зміни клімату.</description>
+      <pubDate>Mon, 03 Jan 2022 07:38:46 +0000</pubDate>
+      <dc:date>2022-01-03T07:38:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Про американського вченого Лайнуса Полінга та вітаміни.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220102/3030293.mp3</link>
+      <description>Про американського вченого Лайнуса Полінга та вітаміни.</description>
+      <pubDate>Sun, 02 Jan 2022 11:40:46 +0000</pubDate>
+      <dc:date>2022-01-02T11:40:46+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>ТОП-10 наукових відкриттів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211231/3027951.mp3</link>
+      <description>ТОП-10 наукових відкриттів.</description>
+      <pubDate>Fri, 31 Dec 2021 16:10:01 +0000</pubDate>
+      <dc:date>2021-12-31T16:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Яким би був світ, якби не було науки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211231/3027961.mp3</link>
+      <description>Яким би був світ, якби не було науки.</description>
+      <pubDate>Fri, 31 Dec 2021 07:38:39 +0000</pubDate>
+      <dc:date>2021-12-31T07:38:39+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Квантовий комп&#39;ютер: чи варто розраховувати на його появу найближчий час.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211228/3027195.mp3</link>
+      <description>Квантовий комп&#39;ютер: чи варто розраховувати на його появу найближчий час.</description>
+      <pubDate>Tue, 28 Dec 2021 07:37:57 +0000</pubDate>
+      <dc:date>2021-12-28T07:37:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Як хімічний склад зорі впливає на життя на планетах.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211227/3026929.mp3</link>
+      <description>Як хімічний склад зорі впливає на життя на планетах.</description>
+      <pubDate>Mon, 27 Dec 2021 07:46:24 +0000</pubDate>
+      <dc:date>2021-12-27T07:46:24+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тераформування Венери.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211226/3025495.mp3</link>
+      <description>Тераформування Венери.</description>
+      <pubDate>Sun, 26 Dec 2021 11:39:41 +0000</pubDate>
+      <dc:date>2021-12-26T11:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чому трава зелена.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211224/3025091.mp3</link>
+      <description>Чому трава зелена.</description>
+      <pubDate>Fri, 24 Dec 2021 07:28:02 +0000</pubDate>
+      <dc:date>2021-12-24T07:28:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тераформування Венери.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211223/3024833.mp3</link>
+      <description>Тераформування Венери.</description>
+      <pubDate>Thu, 23 Dec 2021 07:25:56 +0000</pubDate>
+      <dc:date>2021-12-23T07:25:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Найкраща епоха для життя.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211222/3023415.mp3</link>
+      <description>Найкраща епоха для життя.</description>
+      <pubDate>Wed, 22 Dec 2021 07:24:56 +0000</pubDate>
+      <dc:date>2021-12-22T07:24:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Як виникають чорні діри.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211221/3023160.mp3</link>
+      <description>Як виникають чорні діри.</description>
+      <pubDate>Tue, 21 Dec 2021 07:27:20 +0000</pubDate>
+      <dc:date>2021-12-21T07:27:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Рак та надмірна обережність, яка шкодить.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211220/3022896.mp3</link>
+      <description>Рак та надмірна обережність, яка шкодить.</description>
+      <pubDate>Mon, 20 Dec 2021 07:26:30 +0000</pubDate>
+      <dc:date>2021-12-20T07:26:30+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Зоряні війни.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211219/3020098.mp3</link>
+      <description>Зоряні війни.</description>
+      <pubDate>Sun, 19 Dec 2021 11:41:44 +0000</pubDate>
+      <dc:date>2021-12-19T11:41:44+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Гугл та вимирання динозаврів, та ще про те, чи можна довіряти інформації, яку дізнаємося в інтернеті.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211218/3018405.mp3</link>
+      <description>Гугл та вимирання динозаврів, та ще про те, чи можна довіряти інформації, яку дізнаємося в інтернеті.</description>
+      <pubDate>Sat, 18 Dec 2021 11:50:01 +0000</pubDate>
+      <dc:date>2021-12-18T11:50:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Еволюція Всесвіту.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211217/3018180.mp3</link>
+      <description>Еволюція Всесвіту.</description>
+      <pubDate>Fri, 17 Dec 2021 07:37:55 +0000</pubDate>
+      <dc:date>2021-12-17T07:37:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Позаземне життя.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211216/3017920.mp3</link>
+      <description>Позаземне життя.</description>
+      <pubDate>Thu, 16 Dec 2021 07:37:55 +0000</pubDate>
+      <dc:date>2021-12-16T07:37:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Докази теорії еволюції.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211214/3017405.mp3</link>
+      <description>Докази теорії еволюції.</description>
+      <pubDate>Tue, 14 Dec 2021 07:37:51 +0000</pubDate>
+      <dc:date>2021-12-14T07:37:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>ДДТ- дихлордифеніл трихлорметилметан.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211213/3017140.mp3</link>
+      <description>ДДТ- дихлордифеніл трихлорметилметан.</description>
+      <pubDate>Mon, 13 Dec 2021 07:35:57 +0000</pubDate>
+      <dc:date>2021-12-13T07:35:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Про Ілона Маска та чому ми не побачимо людей на Марсі до кінця цього десятиліття.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211212/3011306.mp3</link>
+      <description>Про Ілона Маска та чому ми не побачимо людей на Марсі до кінця цього десятиліття.</description>
+      <pubDate>Sun, 12 Dec 2021 11:39:41 +0000</pubDate>
+      <dc:date>2021-12-12T11:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Дефібриляція.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211210/3010905.mp3</link>
+      <description>Дефібриляція.</description>
+      <pubDate>Fri, 10 Dec 2021 07:27:31 +0000</pubDate>
+      <dc:date>2021-12-10T07:27:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Фріц Габер - вчений хімік і його винаходи.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211209/3010647.mp3</link>
+      <description>Фріц Габер - вчений хімік і його винаходи.</description>
+      <pubDate>Thu, 09 Dec 2021 07:28:27 +0000</pubDate>
+      <dc:date>2021-12-09T07:28:27+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Великий адронний колайдер.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211208/3010395.mp3</link>
+      <description>Великий адронний колайдер.</description>
+      <pubDate>Wed, 08 Dec 2021 07:26:31 +0000</pubDate>
+      <dc:date>2021-12-08T07:26:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Як ми виявляєм чорні діри.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211207/3010140.mp3</link>
+      <description>Як ми виявляєм чорні діри.</description>
+      <pubDate>Tue, 07 Dec 2021 07:25:18 +0000</pubDate>
+      <dc:date>2021-12-07T07:25:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чорні діри.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211206/3009866.mp3</link>
+      <description>Чорні діри.</description>
+      <pubDate>Mon, 06 Dec 2021 07:27:00 +0000</pubDate>
+      <dc:date>2021-12-06T07:27:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Сонячна електростанція в космосі.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211203/3004853.mp3</link>
+      <description>Сонячна електростанція в космосі.</description>
+      <pubDate>Fri, 03 Dec 2021 07:38:43 +0000</pubDate>
+      <dc:date>2021-12-03T07:38:43+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Яким чином на глобальне потепління впливає вирубка лісів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211125/2997684.mp3</link>
+      <description>Яким чином на глобальне потепління впливає вирубка лісів.</description>
+      <pubDate>Thu, 25 Nov 2021 07:28:39 +0000</pubDate>
+      <dc:date>2021-11-25T07:28:39+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Космічні промені.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211124/2997154.mp3</link>
+      <description>Космічні промені.</description>
+      <pubDate>Wed, 24 Nov 2021 07:25:45 +0000</pubDate>
+      <dc:date>2021-11-24T07:25:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Додаткові виміри.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211123/2996899.mp3</link>
+      <description>Додаткові виміри.</description>
+      <pubDate>Tue, 23 Nov 2021 07:28:06 +0000</pubDate>
+      <dc:date>2021-11-23T07:28:06+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Сонячна електростанція у Сахарі.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211122/2994733.mp3</link>
+      <description>Сонячна електростанція у Сахарі.</description>
+      <pubDate>Mon, 22 Nov 2021 07:27:11 +0000</pubDate>
+      <dc:date>2021-11-22T07:27:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чи можемо довіряти інформації, яку ми бачимо в інтернеті.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211121/2992208.mp3</link>
+      <description>Чи можемо довіряти інформації, яку ми бачимо в інтернеті.</description>
+      <pubDate>Sun, 21 Nov 2021 11:38:40 +0000</pubDate>
+      <dc:date>2021-11-21T11:38:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Хто відібрав у Плутона статус планети?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211120/2992030.mp3</link>
+      <description>Хто відібрав у Плутона статус планети?</description>
+      <pubDate>Sat, 20 Nov 2021 11:51:20 +0000</pubDate>
+      <dc:date>2021-11-20T11:51:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Американський вчений Лайнус Полінг та вітаміни.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211119/2991805.mp3</link>
+      <description>Американський вчений Лайнус Полінг та вітаміни.</description>
+      <pubDate>Fri, 19 Nov 2021 07:37:13 +0000</pubDate>
+      <dc:date>2021-11-19T07:37:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Безпечність вакцин.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211118/2991531.mp3</link>
+      <description>Безпечність вакцин.</description>
+      <pubDate>Thu, 18 Nov 2021 07:37:57 +0000</pubDate>
+      <dc:date>2021-11-18T07:37:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>РНК-вакцини і міфи про них.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211117/2991276.mp3</link>
+      <description>РНК-вакцини і міфи про них.</description>
+      <pubDate>Wed, 17 Nov 2021 07:38:57 +0000</pubDate>
+      <dc:date>2021-11-17T07:38:57+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Вакцини і міфи про шкідливі домішки у них.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211116/2990980.mp3</link>
+      <description>Вакцини і міфи про шкідливі домішки у них.</description>
+      <pubDate>Tue, 16 Nov 2021 07:39:01 +0000</pubDate>
+      <dc:date>2021-11-16T07:39:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Вакцини і фейки про їхній вплив на організм.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211115/2990710.mp3</link>
+      <description>Вакцини і фейки про їхній вплив на організм.</description>
+      <pubDate>Mon, 15 Nov 2021 07:37:16 +0000</pubDate>
+      <dc:date>2021-11-15T07:37:16+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Походження життя на Землі.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211114/2984818.mp3</link>
+      <description>Походження життя на Землі.</description>
+      <pubDate>Sun, 14 Nov 2021 11:39:52 +0000</pubDate>
+      <dc:date>2021-11-14T11:39:52+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Вакцини і вакцинація.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211112/2984415.mp3</link>
+      <description>Вакцини і вакцинація.</description>
+      <pubDate>Fri, 12 Nov 2021 07:27:31 +0000</pubDate>
+      <dc:date>2021-11-12T07:27:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тиранозаври.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211108/2980811.mp3</link>
+      <description>Тиранозаври.</description>
+      <pubDate>Mon, 08 Nov 2021 07:29:38 +0000</pubDate>
+      <dc:date>2021-11-08T07:29:38+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Космічний ліфт.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211105/2978237.mp3</link>
+      <description>Космічний ліфт.</description>
+      <pubDate>Fri, 05 Nov 2021 07:36:55 +0000</pubDate>
+      <dc:date>2021-11-05T07:36:55+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Термоядерний реактор і перспективи термоядерної енергетики на Землі.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211104/2977977.mp3</link>
+      <description>Термоядерний реактор і перспективи термоядерної енергетики на Землі.</description>
+      <pubDate>Thu, 04 Nov 2021 07:36:47 +0000</pubDate>
+      <dc:date>2021-11-04T07:36:47+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Лосиний тест для авто.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211103/2977723.mp3</link>
+      <description>Лосиний тест для авто.</description>
+      <pubDate>Wed, 03 Nov 2021 07:39:27 +0000</pubDate>
+      <dc:date>2021-11-03T07:39:27+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Теплокровність.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211102/2976446.mp3</link>
+      <description>Теплокровність.</description>
+      <pubDate>Tue, 02 Nov 2021 07:37:01 +0000</pubDate>
+      <dc:date>2021-11-02T07:37:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Зародження життя на Землі.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211101/2976182.mp3</link>
+      <description>Зародження життя на Землі.</description>
+      <pubDate>Mon, 01 Nov 2021 07:36:59 +0000</pubDate>
+      <dc:date>2021-11-01T07:36:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тривимірний біодрук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211030/2971676.mp3</link>
+      <description>Тривимірний біодрук.</description>
+      <pubDate>Sat, 30 Oct 2021 11:49:48 +0000</pubDate>
+      <dc:date>2021-10-30T11:49:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Гугл та вимирання динозаврів, та ще про те, чи можна довіряти інформації, яку дізнаємося в інтернеті.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211029/2971153.mp3</link>
+      <description>Гугл та вимирання динозаврів, та ще про те, чи можна довіряти інформації, яку дізнаємося в інтернеті.</description>
+      <pubDate>Fri, 29 Oct 2021 07:28:58 +0000</pubDate>
+      <dc:date>2021-10-29T07:28:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Штам Андромеди.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211028/2970894.mp3</link>
+      <description>Штам Андромеди.</description>
+      <pubDate>Thu, 28 Oct 2021 07:30:26 +0000</pubDate>
+      <dc:date>2021-10-28T07:30:26+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Електрифікація в літаках.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211027/2970642.mp3</link>
+      <description>Електрифікація в літаках.</description>
+      <pubDate>Wed, 27 Oct 2021 07:27:49 +0000</pubDate>
+      <dc:date>2021-10-27T07:27:49+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тривимірний біодрук.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211026/2970387.mp3</link>
+      <description>Тривимірний біодрук.</description>
+      <pubDate>Tue, 26 Oct 2021 07:29:58 +0000</pubDate>
+      <dc:date>2021-10-26T07:29:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чому ми не побачимо людей на Марсі до кінця цього десятиліття.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211018/2965015.mp3</link>
+      <description>Чому ми не побачимо людей на Марсі до кінця цього десятиліття.</description>
+      <pubDate>Mon, 18 Oct 2021 16:49:21 +0000</pubDate>
+      <dc:date>2021-10-18T16:49:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тераформування Марса.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211017/2959664.mp3</link>
+      <description>Тераформування Марса.</description>
+      <pubDate>Sun, 17 Oct 2021 11:39:50 +0000</pubDate>
+      <dc:date>2021-10-17T11:39:50+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Еволюція крил.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211015/2959257.mp3</link>
+      <description>Еволюція крил.</description>
+      <pubDate>Fri, 15 Oct 2021 07:27:27 +0000</pubDate>
+      <dc:date>2021-10-15T07:27:27+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Міфи про тиранозавра.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211014/2958999.mp3</link>
+      <description>Міфи про тиранозавра.</description>
+      <pubDate>Thu, 14 Oct 2021 07:24:51 +0000</pubDate>
+      <dc:date>2021-10-14T07:24:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Міфи про колонізацію Марса.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211013/2958747.mp3</link>
+      <description>Міфи про колонізацію Марса.</description>
+      <pubDate>Wed, 13 Oct 2021 07:26:17 +0000</pubDate>
+      <dc:date>2021-10-13T07:26:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Тераформування Марса.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211012/2958491.mp3</link>
+      <description>Тераформування Марса.</description>
+      <pubDate>Tue, 12 Oct 2021 07:24:29 +0000</pubDate>
+      <dc:date>2021-10-12T07:24:29+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Як ми боремося із застудою?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211011/2958224.mp3</link>
+      <description>Як ми боремося із застудою?</description>
+      <pubDate>Mon, 11 Oct 2021 07:28:12 +0000</pubDate>
+      <dc:date>2021-10-11T07:28:12+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Восьминоги реалізують генератор невидимості.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211008/2953244.mp3</link>
+      <description>Восьминоги реалізують генератор невидимості.</description>
+      <pubDate>Fri, 08 Oct 2021 07:27:23 +0000</pubDate>
+      <dc:date>2021-10-08T07:27:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Доброта є результатом еволюції.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211007/2952985.mp3</link>
+      <description>Доброта є результатом еволюції.</description>
+      <pubDate>Thu, 07 Oct 2021 07:23:25 +0000</pubDate>
+      <dc:date>2021-10-07T07:23:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Технологічний прогрес як зростає так і сповільнюється.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211006/2952723.mp3</link>
+      <description>Технологічний прогрес як зростає так і сповільнюється.</description>
+      <pubDate>Wed, 06 Oct 2021 07:27:33 +0000</pubDate>
+      <dc:date>2021-10-06T07:27:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Віруси. Співраця між клітинними формами життя та вірусами.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211005/2952466.mp3</link>
+      <description>Віруси. Співраця між клітинними формами життя та вірусами.</description>
+      <pubDate>Tue, 05 Oct 2021 07:30:31 +0000</pubDate>
+      <dc:date>2021-10-05T07:30:31+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Промислове освоєння астероїдів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211004/2951337.mp3</link>
+      <description>Промислове освоєння астероїдів.</description>
+      <pubDate>Mon, 04 Oct 2021 07:30:28 +0000</pubDate>
+      <dc:date>2021-10-04T07:30:28+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Походження життя на Землі від мікроорганізмів, що сформувалися на Марсі і потім потрапили на нашу планету з метеоритом.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211003/2946168.mp3</link>
+      <description>Походження життя на Землі від мікроорганізмів, що сформувалися на Марсі і потім потрапили на нашу планету з метеоритом.</description>
+      <pubDate>Sun, 03 Oct 2021 11:38:00 +0000</pubDate>
+      <dc:date>2021-10-03T11:38:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Війна екоактивістів з нафтовими компаніями: чи справді викопні вуглеводні - суцільне зло.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211002/2944959.mp3</link>
+      <description>Війна екоактивістів з нафтовими компаніями: чи справді викопні вуглеводні - суцільне зло.</description>
+      <pubDate>Sat, 02 Oct 2021 11:49:41 +0000</pubDate>
+      <dc:date>2021-10-02T11:49:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Як помирають зірки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211001/2944736.mp3</link>
+      <description>Як помирають зірки.</description>
+      <pubDate>Fri, 01 Oct 2021 07:30:00 +0000</pubDate>
+      <dc:date>2021-10-01T07:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Хто відібрав в Плутону статус планети?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210930/2944429.mp3</link>
+      <description>Хто відібрав в Плутону статус планети?</description>
+      <pubDate>Thu, 30 Sep 2021 07:36:37 +0000</pubDate>
+      <dc:date>2021-09-30T07:36:37+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>&quot;Нам дує&quot; або міфи про протяги.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210929/2944175.mp3</link>
+      <description>&quot;Нам дує&quot; або міфи про протяги.</description>
+      <pubDate>Wed, 29 Sep 2021 07:36:03 +0000</pubDate>
+      <dc:date>2021-09-29T07:36:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Війна екоактивістів з нафтовими компаніями: чи справді викопні вуглеводні - суцільне зло. </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210928/2943920.mp3</link>
+      <description>Війна екоактивістів з нафтовими компаніями: чи справді викопні вуглеводні - суцільне зло. </description>
+      <pubDate>Tue, 28 Sep 2021 07:31:36 +0000</pubDate>
+      <dc:date>2021-09-28T07:31:36+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Походження життя на Землі від мікроорганізмів, що сформувалися на Марсі і потім потрапили на нашу планету з метеоритом.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210927/2943657.mp3</link>
+      <description>Походження життя на Землі від мікроорганізмів, що сформувалися на Марсі і потім потрапили на нашу планету з метеоритом.</description>
+      <pubDate>Mon, 27 Sep 2021 07:35:09 +0000</pubDate>
+      <dc:date>2021-09-27T07:35:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чому ми не побачимо людей на Марсі до кінця цього десятиліття.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210924/2935945.mp3</link>
+      <description>Чому ми не побачимо людей на Марсі до кінця цього десятиліття.</description>
+      <pubDate>Fri, 24 Sep 2021 07:35:56 +0000</pubDate>
+      <dc:date>2021-09-24T07:35:56+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Корисні бактерії.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210923/2935679.mp3</link>
+      <description>Корисні бактерії.</description>
+      <pubDate>Thu, 23 Sep 2021 07:29:45 +0000</pubDate>
+      <dc:date>2021-09-23T07:29:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Генномодифіковані продукти: міфи і правда.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210922/2935423.mp3</link>
+      <description>Генномодифіковані продукти: міфи і правда.</description>
+      <pubDate>Wed, 22 Sep 2021 07:17:27 +0000</pubDate>
+      <dc:date>2021-09-22T07:17:27+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Гороскопи: чому наше життя не залежить від зірок?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210921/2935166.mp3</link>
+      <description>Гороскопи: чому наше життя не залежить від зірок?</description>
+      <pubDate>Tue, 21 Sep 2021 07:30:42 +0000</pubDate>
+      <dc:date>2021-09-21T07:30:42+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Про резистентність мікробів до антибіотиків.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210920/2934903.mp3</link>
+      <description>Про резистентність мікробів до антибіотиків.</description>
+      <pubDate>Mon, 20 Sep 2021 07:29:29 +0000</pubDate>
+      <dc:date>2021-09-20T07:29:29+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Дизайнерські діти: чи можливо за допомогою генної інженерії запрограмувати якості людини ще до народження.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210919/2925045.mp3</link>
+      <description>Дизайнерські діти: чи можливо за допомогою генної інженерії запрограмувати якості людини ще до народження.</description>
+      <pubDate>Sun, 19 Sep 2021 11:39:41 +0000</pubDate>
+      <dc:date>2021-09-19T11:39:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Дизайнерські діти: чи можливо за допомогою генної інженерії запрограмувати якості людини ще до народження.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210917/2931061.mp3</link>
+      <description>Дизайнерські діти: чи можливо за допомогою генної інженерії запрограмувати якості людини ще до народження.</description>
+      <pubDate>Fri, 17 Sep 2021 07:27:54 +0000</pubDate>
+      <dc:date>2021-09-17T07:27:54+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Чому люди старіють і чи можемо ми цьому якось зарадити?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210916/2931059.mp3</link>
+      <description>Чому люди старіють і чи можемо ми цьому якось зарадити?</description>
+      <pubDate>Thu, 16 Sep 2021 07:26:04 +0000</pubDate>
+      <dc:date>2021-09-16T07:26:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Наука, як явище. Чи можна довіряти науковим теоріям?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210915/2931056.mp3</link>
+      <description>Наука, як явище. Чи можна довіряти науковим теоріям?</description>
+      <pubDate>Wed, 15 Sep 2021 07:28:58 +0000</pubDate>
+      <dc:date>2021-09-15T07:28:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>&quot;Тесла&quot; Ілона Маска і чому електроавтомобілі не є повноцінною заміною машин з двигуном внутрішнього згоряння.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210914/2929524.mp3</link>
+      <description>&quot;Тесла&quot; Ілона Маска і чому електроавтомобілі не є повноцінною заміною машин з двигуном внутрішнього згоряння.</description>
+      <pubDate>Tue, 14 Sep 2021 07:27:00 +0000</pubDate>
+      <dc:date>2021-09-14T07:27:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>“Зоряні війни”: що не так з космічними винищувачами Джорджа Лукаса?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210913/2929522.mp3</link>
+      <description>“Зоряні війни”: що не так з космічними винищувачами Джорджа Лукаса?</description>
+      <pubDate>Mon, 13 Sep 2021 07:28:07 +0000</pubDate>
+      <dc:date>2021-09-13T07:28:07+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Глобальна зміна клімату – найбільший соціальний виклик часу. Чому ж ми і досі його ігноруємо?!</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210912/2932779.mp3</link>
+      <description>Глобальна зміна клімату – найбільший соціальний виклик часу. Чому ж ми і досі його ігноруємо?!</description>
+      <pubDate>Sun, 12 Sep 2021 07:52:18 +0000</pubDate>
+      <dc:date>2021-09-12T07:52:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Один з найхимерніших можливих наслідків глобального потепління – гриби, що винищать людство.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210910/2928755.mp3</link>
+      <description>Один з найхимерніших можливих наслідків глобального потепління – гриби, що винищать людство.</description>
+      <pubDate>Fri, 10 Sep 2021 07:30:53 +0000</pubDate>
+      <dc:date>2021-09-10T07:30:53+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Глобальна зміна клімату – найбільший соціальний виклик часу. Чому ж ми і досі його ігноруємо?!</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210909/2928753.mp3</link>
+      <description>Глобальна зміна клімату – найбільший соціальний виклик часу. Чому ж ми і досі його ігноруємо?!</description>
+      <pubDate>Thu, 09 Sep 2021 07:24:33 +0000</pubDate>
+      <dc:date>2021-09-09T07:24:33+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Глобальна зміна клімату і що вона нам готує.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210908/2928752.mp3</link>
+      <description>Глобальна зміна клімату і що вона нам готує.</description>
+      <pubDate>Wed, 08 Sep 2021 07:27:01 +0000</pubDate>
+      <dc:date>2021-09-08T07:27:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>25-тий кадр: як насправді він впливає на підсвідомість? Ігри в які грає з нами наш мозок.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210907/2928750.mp3</link>
+      <description>25-тий кадр: як насправді він впливає на підсвідомість? Ігри в які грає з нами наш мозок.</description>
+      <pubDate>Tue, 07 Sep 2021 07:30:48 +0000</pubDate>
+      <dc:date>2021-09-07T07:30:48+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Заборона використання пластикових пакетів не вирішить проблему зміни клімату на планеті. Чому пластик не є суцільним злом для екології?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210906/2918647.mp3</link>
+      <description>Заборона використання пластикових пакетів не вирішить проблему зміни клімату на планеті. Чому пластик не є суцільним злом для екології?</description>
+      <pubDate>Mon, 06 Sep 2021 11:52:41 +0000</pubDate>
+      <dc:date>2021-09-06T11:52:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <item>
+      <title>Заборона використання пластикових пакетів не вирішить проблему зміни клімату на планеті. Чому пластик не є суцільним злом для екології?</title>
+      <link>https://ukr.radio/files/audio_manual/613b5fe0eb4cc1.67741798.mp3</link>
+      <description>Заборона використання пластикових пакетів не вирішить проблему зміни клімату на планеті. Чому пластик не є суцільним злом для екології?</description>
+      <pubDate>Mon, 06 Sep 2021 07:26:45 +0000</pubDate>
+      <dc:date>2021-09-06T07:26:45+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673209280_63bb25c07b2e0.png"/>
+    </item>
+    <dc:date>2024-03-20T11:13:40+00:00</dc:date>
+  </channel>
+</rss>

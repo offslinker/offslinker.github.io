@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Спецпроєкт до Дня Конституції України</title>
+    <link>https://ukr.radio/prog.html?id=965</link>
+    <description>Історії Конституції України.</description>
+    <pubDate>Wed, 20 Mar 2024 11:25:06 +0000</pubDate>
+    <item>
+      <title>Історії Конституції України</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220628/3175198.mp3</link>
+      <description>Історії Конституції України</description>
+      <pubDate>Tue, 28 Jun 2022 18:00:04 +0000</pubDate>
+      <dc:date>2022-06-28T18:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789537_63e284e11ba70.png"/>
+    </item>
+    <item>
+      <title>Ліки від амнезії. 30 історій про українську Незалежність.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220628/3177675.mp3</link>
+      <description>Ліки від амнезії. 30 історій про українську Незалежність.</description>
+      <pubDate>Tue, 28 Jun 2022 16:39:51 +0000</pubDate>
+      <dc:date>2022-06-28T16:39:51+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789537_63e284e11ba70.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:06+00:00</dc:date>
+  </channel>
+</rss>

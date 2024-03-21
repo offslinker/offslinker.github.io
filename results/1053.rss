@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Тризуб Нептуна</title>
+    <link>https://ukr.radio/prog.html?id=1053</link>
+    <description>Програма Українського Радіо до Дня Військово-Морських Сил Збройних Сил України. Про сучасне та майбутнє ВМС України: найцікавіші морські операції цієї війни та якими стануть військово-морські сили України після перемоги.</description>
+    <pubDate>Wed, 20 Mar 2024 10:57:11 +0000</pubDate>
+    <item>
+      <title>
+&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
+
+Тризуб Нептуна. Програма Українського Радіо до Дня Військово-Морських Сил Збройних Сил України. Про найцікавіші морські операції цієї війни та якими стануть Військово-Морські Сили України після перемоги.
+ </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230702/3499271.mp3</link>
+      <description>
+&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;
+
+Тризуб Нептуна. Програма Українського Радіо до Дня Військово-Морських Сил Збройних Сил України. Про найцікавіші морські операції цієї війни та якими стануть Військово-Морські Сили України після перемоги.
+ </description>
+      <pubDate>Sun, 02 Jul 2023 13:00:13 +0000</pubDate>
+      <dc:date>2023-07-02T13:00:13+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1688373127_64a2878786658.png"/>
+    </item>
+    <dc:date>2024-03-20T10:57:11+00:00</dc:date>
+  </channel>
+</rss>

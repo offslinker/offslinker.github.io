@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Міжнародний контекст </title>
+    <link>https://ukr.radio/prog.html?id=575</link>
+    <description>У цій програмі увага головним — політичним, соціальним, економічним подіям тижня у світі.
+
+Ця програма підсумовує міжнародні події тижня і ті, що хвилюють, і ті, що дивують, і ті, що обурюють та жахають, і ті, що дають надію та надихають.</description>
+    <pubDate>Wed, 20 Mar 2024 11:54:57 +0000</pubDate>
+    <item>
+      <title>
+	Зазирнути за фіранку. Звички, забобони, традиції і все про те, чим та як живуть люди в інших країнах.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200309/2440720.mp3</link>
+      <description>
+	Зазирнути за фіранку. Звички, забобони, традиції і все про те, чим та як живуть люди в інших країнах.</description>
+      <pubDate>Mon, 09 Mar 2020 18:10:00 +0000</pubDate>
+      <dc:date>2020-03-09T18:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675794335_63e2979fcd6c2.png"/>
+    </item>
+    <item>
+      <title>
+	Що очікує на світ у 2020 році?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200101/2392128.mp3</link>
+      <description>
+	Що очікує на світ у 2020 році?</description>
+      <pubDate>Wed, 01 Jan 2020 19:13:01 +0000</pubDate>
+      <dc:date>2020-01-01T19:13:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675794335_63e2979fcd6c2.png"/>
+    </item>
+    <dc:date>2024-03-20T11:54:57+00:00</dc:date>
+  </channel>
+</rss>

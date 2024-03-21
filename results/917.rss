@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Свідки Голодомору</title>
+    <link>https://ukr.radio/prog.html?id=917</link>
+    <description>Історії очевидців голодомору 1932-33-го років.
+Навіщо сталінський режим прагнув знищити українську націю? Чому у людей конфісковували майно та їжу, вбивали та переселяли на інші землі? Як вдалося вижити?
+Про ціну життя та шматка хліба в часи геноциду розповідають свідки трагедії з усіх куточків України.</description>
+    <pubDate>Wed, 20 Mar 2024 12:05:02 +0000</pubDate>
+    <item>
+      <title>Історії очевидців голодомору 1932-33-го років. Ціна життя та шматка хліба в часи геноциду у розповідях свідків трагедії з усіх куточків України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211127/2998042.mp3</link>
+      <description>Історії очевидців голодомору 1932-33-го років. Ціна життя та шматка хліба в часи геноциду у розповідях свідків трагедії з усіх куточків України.</description>
+      <pubDate>Sat, 27 Nov 2021 16:20:21 +0000</pubDate>
+      <dc:date>2021-11-27T16:20:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673211899_63bb2ffba6182.png"/>
+    </item>
+    <item>
+      <title>Ціна життя та шматка хліба в часи геноциду у розповідях свідків трагедії з усіх куточків України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211127/2998153.mp3</link>
+      <description>Ціна життя та шматка хліба в часи геноциду у розповідях свідків трагедії з усіх куточків України.</description>
+      <pubDate>Sat, 27 Nov 2021 15:05:01 +0000</pubDate>
+      <dc:date>2021-11-27T15:05:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673211899_63bb2ffba6182.png"/>
+    </item>
+    <item>
+      <title>Історії очевидців голодомору 1932-33-го років.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211127/2998030.mp3</link>
+      <description>Історії очевидців голодомору 1932-33-го років.</description>
+      <pubDate>Sat, 27 Nov 2021 06:24:41 +0000</pubDate>
+      <dc:date>2021-11-27T06:24:41+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673211899_63bb2ffba6182.png"/>
+    </item>
+    <dc:date>2024-03-20T12:05:02+00:00</dc:date>
+  </channel>
+</rss>

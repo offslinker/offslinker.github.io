@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Кров, піт та дипломатія: тернистий шлях у кандидати</title>
+    <link>https://ukr.radio/prog.html?id=963</link>
+    <description>Спецпроєкт Українского радіо. Що на практиці означає для України статус “Кандидата на вступ до Євросоюзу”, чи відчують зміни українці, а також про масштабність пройденого Україною європейського шляху.</description>
+    <pubDate>Wed, 20 Mar 2024 11:56:59 +0000</pubDate>
+    <item>
+      <title>Що на практиці означає для України статус &quot;Кандидата на вступ до Євросоюзу&quot;, чи відчують зміни українці, а також про масштабність пройденого Україною європейського шляху. Радіофільм.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220622/3171310.mp3</link>
+      <description>Що на практиці означає для України статус &quot;Кандидата на вступ до Євросоюзу&quot;, чи відчують зміни українці, а також про масштабність пройденого Україною європейського шляху. Радіофільм.</description>
+      <pubDate>Wed, 22 Jun 2022 14:31:19 +0000</pubDate>
+      <dc:date>2022-06-22T14:31:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673208916_63bb24544c3fd.png"/>
+    </item>
+    <dc:date>2024-03-20T11:56:59+00:00</dc:date>
+  </channel>
+</rss>

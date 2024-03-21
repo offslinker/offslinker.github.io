@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Сьогодні. Київ</title>
+    <link>https://ukr.radio/prog.html?id=899</link>
+    <description>Актуальні події та тенденції у регіоні. Розбираємо показові приклади, вивчаємо передісторію події та її можливі наслідки. Робимо висновки разом з експертами та аудиторією.</description>
+    <pubDate>Wed, 20 Mar 2024 11:25:14 +0000</pubDate>
+    <item>
+      <title>Як житиме столиця найближчим часом?  Гостя студії - Ганна Старостенко, заступниця голови Київської міської державної адміністрації.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220223/3082116.mp3</link>
+      <description>Як житиме столиця найближчим часом?  Гостя студії - Ганна Старостенко, заступниця голови Київської міської державної адміністрації.</description>
+      <pubDate>Wed, 23 Feb 2022 17:10:00 +0000</pubDate>
+      <dc:date>2022-02-23T17:10:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чому навчають жінок на тренінгах із самооборони у Києві. Гостя - Олена Білецька, голова ГО &quot;Українська жіноча варта&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220222/3081886.mp3</link>
+      <description>Чому навчають жінок на тренінгах із самооборони у Києві. Гостя - Олена Білецька, голова ГО &quot;Українська жіноча варта&quot;.</description>
+      <pubDate>Tue, 22 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-22T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Як змінилося життя після Революції Гідності. Гості: Марія Назарова, засновниця ініціативи &quot;РеаніМетро&quot; та Олена Максименко, журналістка, ветеранка добровольчого батальйону &quot;Госпітальєри&quot;, письменниця.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220218/3075514.mp3</link>
+      <description>Як змінилося життя після Революції Гідності. Гості: Марія Назарова, засновниця ініціативи &quot;РеаніМетро&quot; та Олена Максименко, журналістка, ветеранка добровольчого батальйону &quot;Госпітальєри&quot;, письменниця.</description>
+      <pubDate>Fri, 18 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-18T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чи надійна система цивільного захисту столиці. Спікер - Роман Ткачук, директор Департаменту муніципальної безпеки КМДА.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220217/3075249.mp3</link>
+      <description>Чи надійна система цивільного захисту столиці. Спікер - Роман Ткачук, директор Департаменту муніципальної безпеки КМДА.</description>
+      <pubDate>Thu, 17 Feb 2022 12:20:04 +0000</pubDate>
+      <dc:date>2022-02-17T12:20:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>З 16-го лютого і київський метрополітен змінює алгоритм роботи шести станцій. Гостя - Наталя Макогон, заступниця начальника КП &quot;Київський метрополітен&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220216/3074995.mp3</link>
+      <description>З 16-го лютого і київський метрополітен змінює алгоритм роботи шести станцій. Гостя - Наталя Макогон, заступниця начальника КП &quot;Київський метрополітен&quot;.</description>
+      <pubDate>Wed, 16 Feb 2022 12:20:04 +0000</pubDate>
+      <dc:date>2022-02-16T12:20:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Аеромоніторинг тепломереж у столиці: як виявляють потенційно аварійні ділянки. Гість - Олександр Пелипишин, начальник відділу експлуатації тепломереж КП &quot;Київтеплоенерго&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220215/3074696.mp3</link>
+      <description>Аеромоніторинг тепломереж у столиці: як виявляють потенційно аварійні ділянки. Гість - Олександр Пелипишин, начальник відділу експлуатації тепломереж КП &quot;Київтеплоенерго&quot;.</description>
+      <pubDate>Tue, 15 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-15T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Хто найбільше забруднює повітря у Києві. Гость студії: Олександр Возний, начальник Управління екології та природних ресурсів КМДА, Артем Романюков, співзасновник Saveecobo.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220211/3069462.mp3</link>
+      <description>Хто найбільше забруднює повітря у Києві. Гость студії: Олександр Возний, начальник Управління екології та природних ресурсів КМДА, Артем Романюков, співзасновник Saveecobo.</description>
+      <pubDate>Fri, 11 Feb 2022 12:20:01 +0000</pubDate>
+      <dc:date>2022-02-11T12:20:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Як дізнатися про штраф за порушення ПДР? Гість - Денис Дмитров, засновник групи компаній Штрафи UA, експерт із безпеки дорожнього руху.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220210/3069201.mp3</link>
+      <description>Як дізнатися про штраф за порушення ПДР? Гість - Денис Дмитров, засновник групи компаній Штрафи UA, експерт із безпеки дорожнього руху.</description>
+      <pubDate>Thu, 10 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-10T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Громадський бюджет Києва: як відбувається подача проєктів. Гостя - Ольга Бернасовська, членкиня міської робочої групи з питань Громадського бюджету.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220209/3068947.mp3</link>
+      <description>Громадський бюджет Києва: як відбувається подача проєктів. Гостя - Ольга Бернасовська, членкиня міської робочої групи з питань Громадського бюджету.</description>
+      <pubDate>Wed, 09 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-09T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Дизайн-код Києва: як оформити рекламну вивіску згідно правил. Гостя - Оксана Поліщук, начальниця Управління з питань реклами КМДА.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220208/3068678.mp3</link>
+      <description>Дизайн-код Києва: як оформити рекламну вивіску згідно правил. Гостя - Оксана Поліщук, начальниця Управління з питань реклами КМДА.</description>
+      <pubDate>Tue, 08 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-08T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Роли з тарганами: що робити, якщо знайшли живий &quot;сюрприз&quot; у їжі. Гостя - Лариса Самолюк, Головний спеціаліст відділу державного контролю управління безпечності харчових продуктів та ветеринарної медицини Головного управління Держпродспоживслужби в м. Києві.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220203/3061337.mp3</link>
+      <description>Роли з тарганами: що робити, якщо знайшли живий &quot;сюрприз&quot; у їжі. Гостя - Лариса Самолюк, Головний спеціаліст відділу державного контролю управління безпечності харчових продуктів та ветеринарної медицини Головного управління Держпродспоживслужби в м. Києві.</description>
+      <pubDate>Thu, 03 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-03T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>40 тисяч боргу за опалення: чому потрібно передавати реальні показники лічильників. Гостя - Юлія Петрик, заступниця комерційного директора &quot;Центру комунального сервісу&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220202/3061081.mp3</link>
+      <description>40 тисяч боргу за опалення: чому потрібно передавати реальні показники лічильників. Гостя - Юлія Петрик, заступниця комерційного директора &quot;Центру комунального сервісу&quot;.</description>
+      <pubDate>Wed, 02 Feb 2022 12:20:02 +0000</pubDate>
+      <dc:date>2022-02-02T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чому відбуваються ДТП на залізничних переїздах. Спікер - Олег Васильєв, транспортний експерт.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220201/3060823.mp3</link>
+      <description>Чому відбуваються ДТП на залізничних переїздах. Спікер - Олег Васильєв, транспортний експерт.</description>
+      <pubDate>Tue, 01 Feb 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-02-01T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чи є альтернатива солі у боротьбі з ожеледдю на столичних вулицях. Спікер - Сергій Волков, еколог, експерт із охорони довкілля.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220128/3056060.mp3</link>
+      <description>Чи є альтернатива солі у боротьбі з ожеледдю на столичних вулицях. Спікер - Сергій Волков, еколог, експерт із охорони довкілля.</description>
+      <pubDate>Fri, 28 Jan 2022 12:20:02 +0000</pubDate>
+      <dc:date>2022-01-28T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Головне бомбосховище Києва — метрополітен. Спікерка - Наталя Макогон, заступниця начальника КП &quot;Київський метрополітен&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220127/3055799.mp3</link>
+      <description>Головне бомбосховище Києва — метрополітен. Спікерка - Наталя Макогон, заступниця начальника КП &quot;Київський метрополітен&quot;.</description>
+      <pubDate>Thu, 27 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-27T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Голови київських РДА призначатимуться за пропозиціями прем’єра: як це позначиться на житті столиці? Спікер - Юрій Ганущак, директор ГО &quot;Інститут розвитку територій&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220126/3055543.mp3</link>
+      <description>Голови київських РДА призначатимуться за пропозиціями прем’єра: як це позначиться на житті столиці? Спікер - Юрій Ганущак, директор ГО &quot;Інститут розвитку територій&quot;.</description>
+      <pubDate>Wed, 26 Jan 2022 12:20:02 +0000</pubDate>
+      <dc:date>2022-01-26T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чат-бот для пацієнтів, які отримують препарати за програмою &quot;Доступні ліки&quot;. Учасниця - Наталія Гуран, голова правління ГО &quot;Ліки контроль&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220125/3055283.mp3</link>
+      <description>Чат-бот для пацієнтів, які отримують препарати за програмою &quot;Доступні ліки&quot;. Учасниця - Наталія Гуран, голова правління ГО &quot;Ліки контроль&quot;.</description>
+      <pubDate>Tue, 25 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-25T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Безоплатний проїзд у громадському транспорті Києва: за яких умов це можливо. Спікер - Дмитро Беспалов, експерт із транспортного планування.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220121/3049545.mp3</link>
+      <description>Безоплатний проїзд у громадському транспорті Києва: за яких умов це можливо. Спікер - Дмитро Беспалов, експерт із транспортного планування.</description>
+      <pubDate>Fri, 21 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-21T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Яких збитків завдає незаконна риболовля на Київщині. Гість студії - Володимир Мухін, начальник Управління Державного агентства рибного господарства у Києві та Київській області.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220120/3049276.mp3</link>
+      <description>Яких збитків завдає незаконна риболовля на Київщині. Гість студії - Володимир Мухін, начальник Управління Державного агентства рибного господарства у Києві та Київській області.</description>
+      <pubDate>Thu, 20 Jan 2022 12:20:01 +0000</pubDate>
+      <dc:date>2022-01-20T12:20:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чому діти випадають з вікон: як запобігти трагедії? Гості: Олена Лізвінська, експертка з безпеки дітей та Вадим Лавренюк, юрист.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220119/3049007.mp3</link>
+      <description>Чому діти випадають з вікон: як запобігти трагедії? Гості: Олена Лізвінська, експертка з безпеки дітей та Вадим Лавренюк, юрист.</description>
+      <pubDate>Wed, 19 Jan 2022 12:20:02 +0000</pubDate>
+      <dc:date>2022-01-19T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чи в усіх таксі має бути дитяче автокрісло? Спікери: Олена Лівінська, засновниця інформаційної платформи &quot;Мікроб і Я&quot;; Анастасія Саракуз, директорка з комунікацій Еліт Таксі та Ольга Дробишева, голова громадської організації &quot;Traffic Challenge&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220118/3048454.mp3</link>
+      <description>Чи в усіх таксі має бути дитяче автокрісло? Спікери: Олена Лівінська, засновниця інформаційної платформи &quot;Мікроб і Я&quot;; Анастасія Саракуз, директорка з комунікацій Еліт Таксі та Ольга Дробишева, голова громадської організації &quot;Traffic Challenge&quot;.</description>
+      <pubDate>Tue, 18 Jan 2022 12:20:02 +0000</pubDate>
+      <dc:date>2022-01-18T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Кого у Києві штрафують за неприбраний сніг? Гість - Олексій Кулеба, перший заступник голови КМДА з питань здійснення самоврядних повноважень.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220114/3047376.mp3</link>
+      <description>Кого у Києві штрафують за неприбраний сніг? Гість - Олексій Кулеба, перший заступник голови КМДА з питань здійснення самоврядних повноважень.</description>
+      <pubDate>Fri, 14 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-14T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Паркування у Києві: як вдалося вдосконалити систему. Гість - Сергій Дубенко, керівник інспекції з паркування.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220113/3047119.mp3</link>
+      <description>Паркування у Києві: як вдалося вдосконалити систему. Гість - Сергій Дубенко, керівник інспекції з паркування.</description>
+      <pubDate>Thu, 13 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-13T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Оренда балкону за ціною кімнати: як формується вартість помешкання. Гість студії - Едуард Бразас, ріелтор, керівник Комітету з інформаційних технологій та аналітики Асоціації фахівців з нерухомості України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220111/3043570.mp3</link>
+      <description>Оренда балкону за ціною кімнати: як формується вартість помешкання. Гість студії - Едуард Бразас, ріелтор, керівник Комітету з інформаційних технологій та аналітики Асоціації фахівців з нерухомості України.</description>
+      <pubDate>Tue, 11 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-11T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Туристична айдентика Київщини. У студії: Олег Білий, арт-директор та дизайнер &quot;Вайт Студіо Дизайн&quot;, Аліна Ясенок, маркетолог, копірайтер.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220106/3036654.mp3</link>
+      <description>Туристична айдентика Київщини. У студії: Олег Білий, арт-директор та дизайнер &quot;Вайт Студіо Дизайн&quot;, Аліна Ясенок, маркетолог, копірайтер.</description>
+      <pubDate>Thu, 06 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-06T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Правове навчання у київських школах: навіщо це потрібно. Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220105/3036399.mp3</link>
+      <description>Правове навчання у київських школах: навіщо це потрібно. Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</description>
+      <pubDate>Wed, 05 Jan 2022 12:20:03 +0000</pubDate>
+      <dc:date>2022-01-05T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Лінгвістичний ландшафт столиці. У студії Ольга Шевчук-Клюжева, членкиня Національної комісії зі стандартів державної мови, доцентка кафедри української мови Київського університету імені Бориса Грінченка.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20220104/3036145.mp3</link>
+      <description>Лінгвістичний ландшафт столиці. У студії Ольга Шевчук-Клюжева, членкиня Національної комісії зі стандартів державної мови, доцентка кафедри української мови Київського університету імені Бориса Грінченка.</description>
+      <pubDate>Tue, 04 Jan 2022 12:20:02 +0000</pubDate>
+      <dc:date>2022-01-04T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Як кияни одружувалися у 2021 році. Спікерка - Карина Мінчук, начальник Деснянського відділу ДРАЦС у місті Києві.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211231/3027958.mp3</link>
+      <description>Як кияни одружувалися у 2021 році. Спікерка - Карина Мінчук, начальник Деснянського відділу ДРАЦС у місті Києві.</description>
+      <pubDate>Fri, 31 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-31T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чим живе столичний зоопарк. Гість студії - Сергій Харьков, заступник генерального директора Київського зоопарку.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211230/3027699.mp3</link>
+      <description>Чим живе столичний зоопарк. Гість студії - Сергій Харьков, заступник генерального директора Київського зоопарку.</description>
+      <pubDate>Thu, 30 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-30T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Допомога волонтерів: новорічно-різдвяні свята у будинках для літніх людей. Гості студії: Євгенія Токовенко та Людмила Харченко, волонтерки Спільноти святого Егідія.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211229/3027444.mp3</link>
+      <description>Допомога волонтерів: новорічно-різдвяні свята у будинках для літніх людей. Гості студії: Євгенія Токовенко та Людмила Харченко, волонтерки Спільноти святого Егідія.</description>
+      <pubDate>Wed, 29 Dec 2021 12:20:01 +0000</pubDate>
+      <dc:date>2021-12-29T12:20:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Переосмислення промзон столиці: чи можуть вони перетворитись на громадські простори. Гість студії - Олексій Кулеба, перший заступник голови КМДА з питань здійснення самоврядних повноважень.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211228/3027190.mp3</link>
+      <description>Переосмислення промзон столиці: чи можуть вони перетворитись на громадські простори. Гість студії - Олексій Кулеба, перший заступник голови КМДА з питань здійснення самоврядних повноважень.</description>
+      <pubDate>Tue, 28 Dec 2021 12:20:04 +0000</pubDate>
+      <dc:date>2021-12-28T12:20:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Стихійна торгівля та незаконні МАФи: як цьому протидіють у Києві. Гість - Тимур Ткаченко, директор Департаменту міського благоустрою КМДА.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211224/3025088.mp3</link>
+      <description>Стихійна торгівля та незаконні МАФи: як цьому протидіють у Києві. Гість - Тимур Ткаченко, директор Департаменту міського благоустрою КМДА.</description>
+      <pubDate>Fri, 24 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-24T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Як соціальний патруль працює у Києві. Розповідає Вікторія Селіверстова, заступниця директора Будинку соціального піклування.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211223/3024830.mp3</link>
+      <description>Як соціальний патруль працює у Києві. Розповідає Вікторія Селіверстова, заступниця директора Будинку соціального піклування.</description>
+      <pubDate>Thu, 23 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-23T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Альбом безбар’єрних рішень: як міське середовище може бути дружнім до різних користувачів. Гостя студії - Софія Брем, архітекторка, спеціалістка з фізичної безбар&#39;єрності в Big City Lab.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211222/3023409.mp3</link>
+      <description>Альбом безбар’єрних рішень: як міське середовище може бути дружнім до різних користувачів. Гостя студії - Софія Брем, архітекторка, спеціалістка з фізичної безбар&#39;єрності в Big City Lab.</description>
+      <pubDate>Wed, 22 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-22T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Безпілотники на варті: як виявляють порушення природоохоронного законодавства у Києві. Гість - Павло Іванов, начальник Державної екологічної інспекції Столичного округу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211221/3023155.mp3</link>
+      <description>Безпілотники на варті: як виявляють порушення природоохоронного законодавства у Києві. Гість - Павло Іванов, начальник Державної екологічної інспекції Столичного округу.</description>
+      <pubDate>Tue, 21 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-21T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>У Києві прибирають покинуті автівки: як це відбувається? Спікер - Олексій Шевчук, радник Київського міського голови з правових питань.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211217/3018177.mp3</link>
+      <description>У Києві прибирають покинуті автівки: як це відбувається? Спікер - Олексій Шевчук, радник Київського міського голови з правових питань.</description>
+      <pubDate>Fri, 17 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-17T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Фіксований розклад руху громадського транспорту Києва: де він з’являється. Спікер - Влад Самойленко, голова ГО &quot;Урбан Крю&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211216/3017917.mp3</link>
+      <description>Фіксований розклад руху громадського транспорту Києва: де він з’являється. Спікер - Влад Самойленко, голова ГО &quot;Урбан Крю&quot;.</description>
+      <pubDate>Thu, 16 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-16T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Заборонені ліки: які медикаменти можуть вилучити в аеропорту &quot;Бориспіль&quot;. Гості: Наталія Гуран, голова правління ГО &quot;Ліки Контроль&quot; та Катерина Іщенко, юристка юридичної фірми &quot;Анте&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211215/3017656.mp3</link>
+      <description>Заборонені ліки: які медикаменти можуть вилучити в аеропорту &quot;Бориспіль&quot;. Гості: Наталія Гуран, голова правління ГО &quot;Ліки Контроль&quot; та Катерина Іщенко, юристка юридичної фірми &quot;Анте&quot;.</description>
+      <pubDate>Wed, 15 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-15T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Ярмарок Добросусідства: як об’єднати громаду. Спікерка Олена Медведенко, представниця ГО &quot;Микільська Слобідка&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211214/3017400.mp3</link>
+      <description>Ярмарок Добросусідства: як об’єднати громаду. Спікерка Олена Медведенко, представниця ГО &quot;Микільська Слобідка&quot;.</description>
+      <pubDate>Tue, 14 Dec 2021 12:20:01 +0000</pubDate>
+      <dc:date>2021-12-14T12:20:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Застосунок Deputy: як налагодити комунікацію між киянами та депутатами? Гість студії - Дмитро Харламов, СEO та один із засновнків проєкту Deputy.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211210/3010902.mp3</link>
+      <description>Застосунок Deputy: як налагодити комунікацію між киянами та депутатами? Гість студії - Дмитро Харламов, СEO та один із засновнків проєкту Deputy.</description>
+      <pubDate>Fri, 10 Dec 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-12-10T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Томограф для дерев: як у Києві обстежують зелених &quot;велетнів&quot;. Гість - Олексій Король, генеральний директор КО &quot;Київзеленбуд&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211209/3010644.mp3</link>
+      <description>Томограф для дерев: як у Києві обстежують зелених &quot;велетнів&quot;. Гість - Олексій Король, генеральний директор КО &quot;Київзеленбуд&quot;.</description>
+      <pubDate>Thu, 09 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-09T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Ремонтне кафе: як дати друге життя побутовій техніці. Гості: Артем Синицин, член громадської організації ХакЛаб, організатор Repair та Володимир Бабій, член громадської організації ХакЛаб, організатор Repair Cafe.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211208/3010389.mp3</link>
+      <description>Ремонтне кафе: як дати друге життя побутовій техніці. Гості: Артем Синицин, член громадської організації ХакЛаб, організатор Repair та Володимир Бабій, член громадської організації ХакЛаб, організатор Repair Cafe.</description>
+      <pubDate>Wed, 08 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-08T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Чи захищений ваш будинок від пожежі? Гість - Борис Платкевич, перший заступник Голови Громадської ради при Держтехногенбезпеки України, Президент Українського Союзу  пожежної та техногенної безпеки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211207/3010135.mp3</link>
+      <description>Чи захищений ваш будинок від пожежі? Гість - Борис Платкевич, перший заступник Голови Громадської ради при Держтехногенбезпеки України, Президент Українського Союзу  пожежної та техногенної безпеки.</description>
+      <pubDate>Tue, 07 Dec 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-12-07T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Тепло, сухо і чисто: норми для громадського транспорту Києва взимку. Учасник - Святослав Товстига, засновник ГО &quot;За якісний транспорт&quot;, радник міністра інфраструктури 2017-2019 р.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211201/3004331.mp3</link>
+      <description>Тепло, сухо і чисто: норми для громадського транспорту Києва взимку. Учасник - Святослав Товстига, засновник ГО &quot;За якісний транспорт&quot;, радник міністра інфраструктури 2017-2019 р.</description>
+      <pubDate>Wed, 01 Dec 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-12-01T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Безбар’єрний Київ: чого не вистачає місту. Спікерки: Вікторія Тітова, директорка урбан-бюро Big City Lab та Софія Брем, архітекторка, спеціалістка з фізичної безбар&#39;єрності в Big City Lab.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211130/3004072.mp3</link>
+      <description>Безбар’єрний Київ: чого не вистачає місту. Спікерки: Вікторія Тітова, директорка урбан-бюро Big City Lab та Софія Брем, архітекторка, спеціалістка з фізичної безбар&#39;єрності в Big City Lab.</description>
+      <pubDate>Tue, 30 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-30T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Як пройти безоплатне тестування на ВІЛ у Києві. Гостя студії - Христина Бродич, директорка найбільшого в країні проекту з тестування на ВІЛ HealthLink.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211125/2997681.mp3</link>
+      <description>Як пройти безоплатне тестування на ВІЛ у Києві. Гостя студії - Христина Бродич, директорка найбільшого в країні проекту з тестування на ВІЛ HealthLink.</description>
+      <pubDate>Thu, 25 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-25T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Що варто знати про штрафи за порушення правил дорожнього руху? Гість - Денис Дмитров, засновник групи компаній Штрафи UA, експерт із безпеки дорожнього руху.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211123/2996894.mp3</link>
+      <description>Що варто знати про штрафи за порушення правил дорожнього руху? Гість - Денис Дмитров, засновник групи компаній Штрафи UA, експерт із безпеки дорожнього руху.</description>
+      <pubDate>Tue, 23 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-23T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Столичний ринок праці: кому у Києві платять 80 тисяч гривень на місяць? У студії - Тетяна Пашкіна, експерт ринку праці.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211119/2991802.mp3</link>
+      <description>Столичний ринок праці: кому у Києві платять 80 тисяч гривень на місяць? У студії - Тетяна Пашкіна, експерт ринку праці.</description>
+      <pubDate>Fri, 19 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-19T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Година пік для шиномонтажу: чому важливо змінювати шини вчасно? Гість студії - Богдан Ткач, менеджер про роботі з клієнтами мережі автосервісів Oiler.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211118/2991528.mp3</link>
+      <description>Година пік для шиномонтажу: чому важливо змінювати шини вчасно? Гість студії - Богдан Ткач, менеджер про роботі з клієнтами мережі автосервісів Oiler.</description>
+      <pubDate>Thu, 18 Nov 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-11-18T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>20 гривень за поїздку у транспорті: платити або йти пішки? Спікер - Дмитро Беспалов, експерт із транспортного планування.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211117/2991270.mp3</link>
+      <description>20 гривень за поїздку у транспорті: платити або йти пішки? Спікер - Дмитро Беспалов, експерт із транспортного планування.</description>
+      <pubDate>Wed, 17 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-17T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>У Києві змінилися правила отримання інсуліну для осіб із цукровим діабетом. Гостя - Ганна Старостенко, заступниця голови КМДА.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211116/2990975.mp3</link>
+      <description>У Києві змінилися правила отримання інсуліну для осіб із цукровим діабетом. Гостя - Ганна Старостенко, заступниця голови КМДА.</description>
+      <pubDate>Tue, 16 Nov 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-11-16T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Що робити, якщо потрапили у ДТП? Гість - Тарас Гук, експерт громадської організації LEAD office.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211112/2984412.mp3</link>
+      <description>Що робити, якщо потрапили у ДТП? Гість - Тарас Гук, експерт громадської організації LEAD office.</description>
+      <pubDate>Fri, 12 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-12T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Яким чином кияни зможуть брати участь у плануванні громадських просторів. Гості:- Наталія Чорногуб, керівник ГО &quot;Парк Наталка&quot;, експертка проєкту Ради Європи &quot;Зміцнення громадської участі у демократичному процесі прийняття рішень в Україні&quot; та  Дарина Соколова, менеджерка  цього ж проєкту.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211111/2984153.mp3</link>
+      <description>Яким чином кияни зможуть брати участь у плануванні громадських просторів. Гості:- Наталія Чорногуб, керівник ГО &quot;Парк Наталка&quot;, експертка проєкту Ради Європи &quot;Зміцнення громадської участі у демократичному процесі прийняття рішень в Україні&quot; та  Дарина Соколова, менеджерка  цього ж проєкту.</description>
+      <pubDate>Thu, 11 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-11T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Карантинні рейди у Києві: які заклади порушують найбільше? Гостя - Оксана Тимошок, головний спеціаліст Головного управління Держпродспоживслужби в м. Києві.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211110/2983898.mp3</link>
+      <description>Карантинні рейди у Києві: які заклади порушують найбільше? Гостя - Оксана Тимошок, головний спеціаліст Головного управління Держпродспоживслужби в м. Києві.</description>
+      <pubDate>Wed, 10 Nov 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-11-10T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Київ — лідер за кількістю електромобілів в Україні. Гостя програми - Марина Китіна, експерт з інноваційного транспорту.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211105/2978234.mp3</link>
+      <description>Київ — лідер за кількістю електромобілів в Україні. Гостя програми - Марина Китіна, експерт з інноваційного транспорту.</description>
+      <pubDate>Fri, 05 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-05T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Пункти допомоги з СOVID-сертифікатами у Києві: як і де вони працюватимуть? Гість студії - Мстислав Банік, керівник з розвитку електронних послуг в Мінцифрі.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211104/2977974.mp3</link>
+      <description>Пункти допомоги з СOVID-сертифікатами у Києві: як і де вони працюватимуть? Гість студії - Мстислав Банік, керівник з розвитку електронних послуг в Мінцифрі.</description>
+      <pubDate>Thu, 04 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-04T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Зменшення швидкості на столичних дорогах: який це матиме ефект? Гостя - Юлія Дядюк, аналітик Кампанії &quot;За безпечні дороги&quot; Центру демократії та верховенства права.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211103/2977717.mp3</link>
+      <description>Зменшення швидкості на столичних дорогах: який це матиме ефект? Гостя - Юлія Дядюк, аналітик Кампанії &quot;За безпечні дороги&quot; Центру демократії та верховенства права.</description>
+      <pubDate>Wed, 03 Nov 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-11-03T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Київ у &quot;червоній&quot; зоні: що і як працює? Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211102/2976441.mp3</link>
+      <description>Київ у &quot;червоній&quot; зоні: що і як працює? Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</description>
+      <pubDate>Tue, 02 Nov 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-11-02T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Ринок новобудов у Києві: як не втратити гроші. Гість - Володимир Копоть, співзасновник онлайн сервісу юридичної перевірки нерухомості Monitor.Estate.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211029/2971150.mp3</link>
+      <description>Ринок новобудов у Києві: як не втратити гроші. Гість - Володимир Копоть, співзасновник онлайн сервісу юридичної перевірки нерухомості Monitor.Estate.</description>
+      <pubDate>Fri, 29 Oct 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-10-29T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Підвищення вартості проїзду у громадському транспорті: скільки доведеться платити? Гість - Дмитро Живило, голова підрозділу ГО &quot;Український транспортний союз&quot; у м. Києві.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211028/2970891.mp3</link>
+      <description>Підвищення вартості проїзду у громадському транспорті: скільки доведеться платити? Гість - Дмитро Живило, голова підрозділу ГО &quot;Український транспортний союз&quot; у м. Києві.</description>
+      <pubDate>Thu, 28 Oct 2021 12:20:01 +0000</pubDate>
+      <dc:date>2021-10-28T12:20:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Нарахування за комунальні послуги: як відкоригувати показання. У студії - Юлія Петрик, заступниця комерційного директора &quot;Центру комунального сервісу&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211027/2970636.mp3</link>
+      <description>Нарахування за комунальні послуги: як відкоригувати показання. У студії - Юлія Петрик, заступниця комерційного директора &quot;Центру комунального сервісу&quot;.</description>
+      <pubDate>Wed, 27 Oct 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-10-27T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Як працює ініціатива &quot;Допоможи бездомному&quot;. Гостя студії - Ольга Роменська, співзасновниця ініціативи &quot;Допоможи бездомному&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211026/2970382.mp3</link>
+      <description>Як працює ініціатива &quot;Допоможи бездомному&quot;. Гостя студії - Ольга Роменська, співзасновниця ініціативи &quot;Допоможи бездомному&quot;.</description>
+      <pubDate>Tue, 26 Oct 2021 12:24:10 +0000</pubDate>
+      <dc:date>2021-10-26T12:24:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Де кияни поважного віку можуть пройти правничі тренінги? Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211020/2965549.mp3</link>
+      <description>Де кияни поважного віку можуть пройти правничі тренінги? Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</description>
+      <pubDate>Wed, 20 Oct 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-10-20T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Музей науки: чому важливе масштабування в регіони. Гість - Євген Кудрявець, заступник директора МАН зі стратегічних питань і міжнародних відносин, генеральний менеджер Музею науки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211019/2965290.mp3</link>
+      <description>Музей науки: чому важливе масштабування в регіони. Гість - Євген Кудрявець, заступник директора МАН зі стратегічних питань і міжнародних відносин, генеральний менеджер Музею науки.</description>
+      <pubDate>Tue, 19 Oct 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-10-19T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Проєкт &quot;Інклюзивний туризм історичними вулицями Києва&quot;. Гостя - Оксана Вербовська, директорка Київського міського Центру соціальної, професійної та трудової реабілітації інвалідів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211008/2953241.mp3</link>
+      <description>Проєкт &quot;Інклюзивний туризм історичними вулицями Києва&quot;. Гостя - Оксана Вербовська, директорка Київського міського Центру соціальної, професійної та трудової реабілітації інвалідів.</description>
+      <pubDate>Fri, 08 Oct 2021 12:20:01 +0000</pubDate>
+      <dc:date>2021-10-08T12:20:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Музей науки: чому важливе масштабування в регіони. Гість - Євген Кудрявець, заступник директора МАН зі стратегічних питань і міжнародних відносин, генеральний менеджер Музею науки.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211006/2952717.mp3</link>
+      <description>Музей науки: чому важливе масштабування в регіони. Гість - Євген Кудрявець, заступник директора МАН зі стратегічних питань і міжнародних відносин, генеральний менеджер Музею науки.</description>
+      <pubDate>Wed, 06 Oct 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-10-06T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Де кияни поважного віку можуть пройти правничі тренінги? Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211005/2952461.mp3</link>
+      <description>Де кияни поважного віку можуть пройти правничі тренінги? Гість - Сергій Бреус, директор Правобережного київського місцевого центру з надання безоплатної вторинної правової допомоги.</description>
+      <pubDate>Tue, 05 Oct 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-10-05T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Нетворкінги по-київськи: як взаємодіяти громадськості, владі та бізнесу. У студії - Ольга Гвоздік, громадська активістка, співорганізаторка нетворкінгів у Києві.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20211001/2944733.mp3</link>
+      <description>Нетворкінги по-київськи: як взаємодіяти громадськості, владі та бізнесу. У студії - Ольга Гвоздік, громадська активістка, співорганізаторка нетворкінгів у Києві.</description>
+      <pubDate>Fri, 01 Oct 2021 12:20:04 +0000</pubDate>
+      <dc:date>2021-10-01T12:20:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Соціальна квартира для жінок у Києві: як отримати допомогу. Гостя студії - Галина Скіпальська, виконавча директорка МБФ &quot;Українська фундація громадського здоров’я&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210929/2944169.mp3</link>
+      <description>Соціальна квартира для жінок у Києві: як отримати допомогу. Гостя студії - Галина Скіпальська, виконавча директорка МБФ &quot;Українська фундація громадського здоров’я&quot;.</description>
+      <pubDate>Wed, 29 Sep 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-09-29T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Стратегія цифрового розвитку Києва: які переваги отримають містяни? Гість студії - Олег Половинко, директор Департаменту інформаційно-комунікаційних технологій.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210928/2943915.mp3</link>
+      <description>Стратегія цифрового розвитку Києва: які переваги отримають містяни? Гість студії - Олег Половинко, директор Департаменту інформаційно-комунікаційних технологій.</description>
+      <pubDate>Tue, 28 Sep 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-09-28T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>У Києві відкривається перший в Україні державний бізнес-інкубатор повного циклу. Гість: Віталій Лісовий, керівник бізнес-інкубатора Ukrainian Future Малої академії наук України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210922/2935417.mp3</link>
+      <description>У Києві відкривається перший в Україні державний бізнес-інкубатор повного циклу. Гість: Віталій Лісовий, керівник бізнес-інкубатора Ukrainian Future Малої академії наук України.</description>
+      <pubDate>Wed, 22 Sep 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-09-22T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Електронні петиції: яким чином вони допомагають киянам? Гість - Сергій Лобойко, експерт із питань електронної демократії РПР.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210921/2935161.mp3</link>
+      <description>Електронні петиції: яким чином вони допомагають киянам? Гість - Сергій Лобойко, експерт із питань електронної демократії РПР.</description>
+      <pubDate>Tue, 21 Sep 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-09-21T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Які рішення допоможуть місту розв’язати проблему з заторами. У студії - Дмитро Беспалов, експерт із транспортного планування.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210916/2924382.mp3</link>
+      <description>Які рішення допоможуть місту розв’язати проблему з заторами. У студії - Дмитро Беспалов, експерт із транспортного планування.</description>
+      <pubDate>Thu, 16 Sep 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-09-16T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Палії сміття та листя: на порушників чекають рейди екоінспекторів і штрафи. Гість - Павло Іванов, начальник Державної екологічної інспекції Столичного округу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210915/2923325.mp3</link>
+      <description>Палії сміття та листя: на порушників чекають рейди екоінспекторів і штрафи. Гість - Павло Іванов, начальник Державної екологічної інспекції Столичного округу.</description>
+      <pubDate>Wed, 15 Sep 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-09-15T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>&quot;Швидка&quot; на гелікоптерах. Як працює цивільна аеромедична евакуація. Гостя студії - Тетяна Потупалова, державний експерт Директорату високотехнологічної медичної допомоги та інновацій МОЗ України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210910/2919599.mp3</link>
+      <description>&quot;Швидка&quot; на гелікоптерах. Як працює цивільна аеромедична евакуація. Гостя студії - Тетяна Потупалова, державний експерт Директорату високотехнологічної медичної допомоги та інновацій МОЗ України.</description>
+      <pubDate>Fri, 10 Sep 2021 12:20:04 +0000</pubDate>
+      <dc:date>2021-09-10T12:20:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Мобільні пункти здачі крові: де їх знайти в Києві. Гостя - Алла Закревська, голова Оболонської районної організації Товариства Червоного Хреста м. Києва.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210909/2919343.mp3</link>
+      <description>Мобільні пункти здачі крові: де їх знайти в Києві. Гостя - Алла Закревська, голова Оболонської районної організації Товариства Червоного Хреста м. Києва.</description>
+      <pubDate>Thu, 09 Sep 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-09-09T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Старій техніці не місце на смітниках: у Києві її прийматимуть на утилізацію. Гостя - Ольга Зірко, маркетинг-директор Центру управління відходами.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210908/2919086.mp3</link>
+      <description>Старій техніці не місце на смітниках: у Києві її прийматимуть на утилізацію. Гостя - Ольга Зірко, маркетинг-директор Центру управління відходами.</description>
+      <pubDate>Wed, 08 Sep 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-09-08T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Інспекційна кампанія Держпраці з виявлення незадекларованих працівників. Гість студії - Валентин Шаботинський, начальник управління з питань праці Головного управління Держпраці у Київській області.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210907/2918833.mp3</link>
+      <description>Інспекційна кампанія Держпраці з виявлення незадекларованих працівників. Гість студії - Валентин Шаботинський, начальник управління з питань праці Головного управління Держпраці у Київській області.</description>
+      <pubDate>Tue, 07 Sep 2021 12:20:02 +0000</pubDate>
+      <dc:date>2021-09-07T12:20:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <item>
+      <title>Нові тарифи на опалення: чи по кишені киянам тепло. У студії - Олег Гарник, аналітик Асоціації міст України.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210906/2918567.mp3</link>
+      <description>Нові тарифи на опалення: чи по кишені киянам тепло. У студії - Олег Гарник, аналітик Асоціації міст України.</description>
+      <pubDate>Mon, 06 Sep 2021 12:20:03 +0000</pubDate>
+      <dc:date>2021-09-06T12:20:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212211_63bb3133c0324.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:14+00:00</dc:date>
+  </channel>
+</rss>

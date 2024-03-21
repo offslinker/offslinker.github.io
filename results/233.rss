@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Футболоманія</title>
+    <link>https://ukr.radio/prog.html?id=233</link>
+    <description>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</description>
+    <pubDate>Wed, 20 Mar 2024 11:50:47 +0000</pubDate>
+    <item>
+      <title>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200831/2584450.mp3</link>
+      <description>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</description>
+      <pubDate>Mon, 31 Aug 2020 20:20:00 +0000</pubDate>
+      <dc:date>2020-08-31T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677057077_63f5dc35c6a03.png"/>
+    </item>
+    <item>
+      <title>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200831/2584449.mp3</link>
+      <description>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</description>
+      <pubDate>Mon, 31 Aug 2020 19:20:10 +0000</pubDate>
+      <dc:date>2020-08-31T19:20:10+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677057077_63f5dc35c6a03.png"/>
+    </item>
+    <item>
+      <title>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR2/20200831/2580322.mp3</link>
+      <description>Це не просто програма про футбол, а ефірно-спортивна баталія між експертами, ведучими і слухачами, які часом знаються на футболі не гірше за арбітрів.</description>
+      <pubDate>Mon, 31 Aug 2020 19:04:03 +0000</pubDate>
+      <dc:date>2020-08-31T19:04:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1677057077_63f5dc35c6a03.png"/>
+    </item>
+    <dc:date>2024-03-20T11:50:47+00:00</dc:date>
+  </channel>
+</rss>

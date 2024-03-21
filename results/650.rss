@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Таємниці архівних манускриптів</title>
+    <link>https://ukr.radio/prog.html?id=650</link>
+    <description>&quot;Чого не було в документах, того не було в історії&quot; — літературознавець Сергій Гальченко розшифровує унікальний архівний фонд та розповідає про невідомі сторінки української культури. </description>
+    <pubDate>Wed, 20 Mar 2024 11:56:57 +0000</pubDate>
+    <item>
+      <title>Архівні мандри Сергія Гальченка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220210/3066163.mp3</link>
+      <description>Архівні мандри Сергія Гальченка</description>
+      <pubDate>Thu, 10 Feb 2022 23:00:04 +0000</pubDate>
+      <dc:date>2022-02-10T23:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Офорт Тараса Шевченка &quot;Притча про робітників на винограднику&quot; (1858)</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220207/3065414.mp3</link>
+      <description>Офорт Тараса Шевченка &quot;Притча про робітників на винограднику&quot; (1858)</description>
+      <pubDate>Mon, 07 Feb 2022 23:00:04 +0000</pubDate>
+      <dc:date>2022-02-07T23:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>З архівної практики Сергія Гальченка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220205/3064952.mp3</link>
+      <description>З архівної практики Сергія Гальченка</description>
+      <pubDate>Sat, 05 Feb 2022 23:00:05 +0000</pubDate>
+      <dc:date>2022-02-05T23:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Івана Ковальова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220131/3057701.mp3</link>
+      <description>Архів Івана Ковальова</description>
+      <pubDate>Mon, 31 Jan 2022 23:00:04 +0000</pubDate>
+      <dc:date>2022-01-31T23:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Історія вірша Павла Тичини &quot;Пам’яті тридцяти&quot;. Андрій Ніковський про подвиг Героїв Крут</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220129/3052270.mp3</link>
+      <description>Історія вірша Павла Тичини &quot;Пам’яті тридцяти&quot;. Андрій Ніковський про подвиг Героїв Крут</description>
+      <pubDate>Sat, 29 Jan 2022 18:07:09 +0000</pubDate>
+      <dc:date>2022-01-29T18:07:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Поетична спадщина Володимира Сосюри</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220124/3050947.mp3</link>
+      <description>Поетична спадщина Володимира Сосюри</description>
+      <pubDate>Mon, 24 Jan 2022 23:00:04 +0000</pubDate>
+      <dc:date>2022-01-24T23:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Історії архівно-музейних колекцій</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220120/3045941.mp3</link>
+      <description>Історії архівно-музейних колекцій</description>
+      <pubDate>Thu, 20 Jan 2022 23:00:05 +0000</pubDate>
+      <dc:date>2022-01-20T23:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Олеся Гончара (лист Віталію Коротичу 1988 р.). Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220117/3045192.mp3</link>
+      <description>Архів Олеся Гончара (лист Віталію Коротичу 1988 р.). Передача 2</description>
+      <pubDate>Mon, 17 Jan 2022 23:00:05 +0000</pubDate>
+      <dc:date>2022-01-17T23:00:05+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Івана Огієнка. Твори письменника, листи до Івана Франка, Осипа Маковея. Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220115/3040459.mp3</link>
+      <description>Архів Івана Огієнка. Твори письменника, листи до Івана Франка, Осипа Маковея. Передача 2</description>
+      <pubDate>Sat, 15 Jan 2022 18:07:11 +0000</pubDate>
+      <dc:date>2022-01-15T18:07:11+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Івана Огієнка. Незнані вірші митрополита (романс «Не питай…»). До 140-річчя від дня народження видатного громадського, політичного і церковного діяча, історика, письменника, мовознавця. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220114/3040187.mp3</link>
+      <description>Архів Івана Огієнка. Незнані вірші митрополита (романс «Не питай…»). До 140-річчя від дня народження видатного громадського, політичного і церковного діяча, історика, письменника, мовознавця. Передача 1</description>
+      <pubDate>Fri, 14 Jan 2022 18:07:09 +0000</pubDate>
+      <dc:date>2022-01-14T18:07:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Тиждень української літератури в Москві. Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211209/3008568.mp3</link>
+      <description>Тиждень української літератури в Москві. Передача 2</description>
+      <pubDate>Thu, 09 Dec 2021 05:20:00 +0000</pubDate>
+      <dc:date>2021-12-09T05:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Центральний державний архів-музей літератури і мистецтв України</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20211207/3003596.mp3</link>
+      <description>Центральний державний архів-музей літератури і мистецтв України</description>
+      <pubDate>Tue, 07 Dec 2021 05:20:00 +0000</pubDate>
+      <dc:date>2021-12-07T05:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Володимира Винниченка. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210904/2917936.mp3</link>
+      <description>Архів Володимира Винниченка. Передача 1</description>
+      <pubDate>Sat, 04 Sep 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-09-04T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Степана Руданського</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210828/2912425.mp3</link>
+      <description>Архів Степана Руданського</description>
+      <pubDate>Sat, 28 Aug 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-08-28T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Івана Огієнка. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210821/2905290.mp3</link>
+      <description>Архів Івана Огієнка. Передача 1</description>
+      <pubDate>Sat, 21 Aug 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-08-21T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Хоровий диригент Павло Тичина. Передача 5</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210814/2902348.mp3</link>
+      <description>Хоровий диригент Павло Тичина. Передача 5</description>
+      <pubDate>Sat, 14 Aug 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-08-14T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Епістолярій Івана Карпенка-Карого</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210807/2892855.mp3</link>
+      <description>Епістолярій Івана Карпенка-Карого</description>
+      <pubDate>Sat, 07 Aug 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-08-07T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Рукописи Євгена Маланюка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210731/2886788.mp3</link>
+      <description>Рукописи Євгена Маланюка</description>
+      <pubDate>Sat, 31 Jul 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-07-31T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Перекладач Павло Зенкевич</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210724/2881703.mp3</link>
+      <description>Перекладач Павло Зенкевич</description>
+      <pubDate>Sat, 24 Jul 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-07-24T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архівні мандри Сергія Гальченка. Архів Юрія Лавріненка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210710/2867233.mp3</link>
+      <description>Архівні мандри Сергія Гальченка. Архів Юрія Лавріненка</description>
+      <pubDate>Sat, 10 Jul 2021 20:20:40 +0000</pubDate>
+      <dc:date>2021-07-10T20:20:40+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архівні мандри Сергія Гальченка. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210703/2860625.mp3</link>
+      <description>Архівні мандри Сергія Гальченка. Передача 1</description>
+      <pubDate>Sat, 03 Jul 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-07-03T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Мусія Кононенка. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210626/2855501.mp3</link>
+      <description>Архів Мусія Кононенка. Передача 1</description>
+      <pubDate>Sat, 26 Jun 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-06-26T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Панаса Мирного</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210619/2846238.mp3</link>
+      <description>Архів Панаса Мирного</description>
+      <pubDate>Sat, 19 Jun 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-06-19T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Михайла Івченка. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210612/2839709.mp3</link>
+      <description>Архів Михайла Івченка. Передача 1</description>
+      <pubDate>Sat, 12 Jun 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-06-12T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Знищення та формування архіву Остапа Вишні</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210610/2839190.mp3</link>
+      <description>Знищення та формування архіву Остапа Вишні</description>
+      <pubDate>Thu, 10 Jun 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-06-10T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Літературна спадщина Остапа Вишні</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210605/2831301.mp3</link>
+      <description>Літературна спадщина Остапа Вишні</description>
+      <pubDate>Sat, 05 Jun 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-06-05T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Григорія Косинки. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210529/2825480.mp3</link>
+      <description>Архів Григорія Косинки. Передача 1</description>
+      <pubDate>Sat, 29 May 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-05-29T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Перепоховання Тараса Шевченка на Чернечій горі (Канів). За листами Григорія Честахівського</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210522/2821578.mp3</link>
+      <description>Перепоховання Тараса Шевченка на Чернечій горі (Канів). За листами Григорія Честахівського</description>
+      <pubDate>Sat, 22 May 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-05-22T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Літературна спадщина Олеся Гончара. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210515/2817223.mp3</link>
+      <description>Літературна спадщина Олеся Гончара. Передача 1</description>
+      <pubDate>Sat, 15 May 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-05-15T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Івана Ковальова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210514/2814648.mp3</link>
+      <description>Архів Івана Ковальова</description>
+      <pubDate>Fri, 14 May 2021 21:00:04 +0000</pubDate>
+      <dc:date>2021-05-14T21:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Андрія Малишка (Друга світова війна. Фронтові вірші й нотатки поета). Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210508/2813166.mp3</link>
+      <description>Архів Андрія Малишка (Друга світова війна. Фронтові вірші й нотатки поета). Передача 2</description>
+      <pubDate>Sat, 08 May 2021 20:20:20 +0000</pubDate>
+      <dc:date>2021-05-08T20:20:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Літературна та епістолярна спадщина Павла Тичини</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210501/2803813.mp3</link>
+      <description>Літературна та епістолярна спадщина Павла Тичини</description>
+      <pubDate>Sat, 01 May 2021 20:20:20 +0000</pubDate>
+      <dc:date>2021-05-01T20:20:20+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Збірка листів Катерини Білокур</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210430/2812192.mp3</link>
+      <description>Збірка листів Катерини Білокур</description>
+      <pubDate>Fri, 30 Apr 2021 21:49:50 +0000</pubDate>
+      <dc:date>2021-04-30T21:49:50+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Листи Михайла Коцюбинського до Олександри Аплаксіної, передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210429/2800424.mp3</link>
+      <description>Листи Михайла Коцюбинського до Олександри Аплаксіної, передача 2</description>
+      <pubDate>Thu, 29 Apr 2021 02:40:01 +0000</pubDate>
+      <dc:date>2021-04-29T02:40:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Григорія Косинки. Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210424/2798252.mp3</link>
+      <description>Архів Григорія Косинки. Передача 2</description>
+      <pubDate>Sat, 24 Apr 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-04-24T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Михайлини Коцюбинської. Передача 3</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210417/2791280.mp3</link>
+      <description>Архів Михайлини Коцюбинської. Передача 3</description>
+      <pubDate>Sat, 17 Apr 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-04-17T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Михайлини Коцюбинської. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210410/2780378.mp3</link>
+      <description>Архів Михайлини Коцюбинської. Передача 1</description>
+      <pubDate>Sat, 10 Apr 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-04-10T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Відділ рукописних фондів</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210406/2779273.mp3</link>
+      <description>Відділ рукописних фондів</description>
+      <pubDate>Tue, 06 Apr 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-04-06T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Повернення в Україну архівних матеріалів </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210403/2778593.mp3</link>
+      <description>Повернення в Україну архівних матеріалів </description>
+      <pubDate>Sat, 03 Apr 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-04-03T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Григорія Костюка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210402/2778345.mp3</link>
+      <description>Архів Григорія Костюка</description>
+      <pubDate>Fri, 02 Apr 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-04-02T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архіви вчених Юрія Шевельова та Григорія Костюка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210401/2775509.mp3</link>
+      <description>Архіви вчених Юрія Шевельова та Григорія Костюка</description>
+      <pubDate>Thu, 01 Apr 2021 02:40:01 +0000</pubDate>
+      <dc:date>2021-04-01T02:40:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Володимира Винниченка. Частина 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210330/2773123.mp3</link>
+      <description>Архів Володимира Винниченка. Частина 1</description>
+      <pubDate>Tue, 30 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-30T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Центральний державний архів-музей літератури і мистецтва України</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210329/2770427.mp3</link>
+      <description>Центральний державний архів-музей літератури і мистецтва України</description>
+      <pubDate>Mon, 29 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-29T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Валер&#39;яна Поліщука, частина 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210327/2769921.mp3</link>
+      <description>Архів Валер&#39;яна Поліщука, частина 1</description>
+      <pubDate>Sat, 27 Mar 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-03-27T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Літературна спадщина Олеся Гончара. Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210326/2769673.mp3</link>
+      <description>Літературна спадщина Олеся Гончара. Передача 2</description>
+      <pubDate>Fri, 26 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-26T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Літературна спадщина Олеся Гончара. Передача 1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210325/2769029.mp3</link>
+      <description>Літературна спадщина Олеся Гончара. Передача 1</description>
+      <pubDate>Thu, 25 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-25T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Михайла Драй-Хмари</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210323/2768443.mp3</link>
+      <description>Архів Михайла Драй-Хмари</description>
+      <pubDate>Tue, 23 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-23T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Рукописи Максима Рильського. Передача 3</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210321/2765292.mp3</link>
+      <description>Рукописи Максима Рильського. Передача 3</description>
+      <pubDate>Sun, 21 Mar 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-03-21T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Максима Рильського. Передача 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210320/2765041.mp3</link>
+      <description>Архів Максима Рильського. Передача 2</description>
+      <pubDate>Sat, 20 Mar 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-03-20T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Василя Симоненка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210317/2762906.mp3</link>
+      <description>Архів Василя Симоненка</description>
+      <pubDate>Wed, 17 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-17T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Образ дерева у творчості Тараса Шевченка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210314/2758234.mp3</link>
+      <description>Образ дерева у творчості Тараса Шевченка</description>
+      <pubDate>Sun, 14 Mar 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-03-14T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>&quot;Кобзар&quot; Тараса Шевченко 1844 року</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210313/2757983.mp3</link>
+      <description>&quot;Кобзар&quot; Тараса Шевченко 1844 року</description>
+      <pubDate>Sat, 13 Mar 2021 20:20:00 +0000</pubDate>
+      <dc:date>2021-03-13T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Другий &quot;Кобзар&quot; Тараса Шевченка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210309/2756498.mp3</link>
+      <description>Другий &quot;Кобзар&quot; Тараса Шевченка</description>
+      <pubDate>Tue, 09 Mar 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-03-09T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архіви Івана Жука</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210225/2744744.mp3</link>
+      <description>Архіви Івана Жука</description>
+      <pubDate>Thu, 25 Feb 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-02-25T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Михайла Івченка. Передача 3</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210218/2737965.mp3</link>
+      <description>Архів Михайла Івченка. Передача 3</description>
+      <pubDate>Thu, 18 Feb 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-02-18T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Архів Михайла Івченка</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210216/2737379.mp3</link>
+      <description>Архів Михайла Івченка</description>
+      <pubDate>Tue, 16 Feb 2021 02:40:00 +0000</pubDate>
+      <dc:date>2021-02-16T02:40:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>Епістолярій Івана Карпенка-Карого</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20210124/2717060.mp3</link>
+      <description>Епістолярій Івана Карпенка-Карого</description>
+      <pubDate>Sun, 24 Jan 2021 20:19:25 +0000</pubDate>
+      <dc:date>2021-01-24T20:19:25+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Щоденник Остапа Вишні. Передача 6.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201017/2624521.mp3</link>
+      <description>
+	Щоденник Остапа Вишні. Передача 6.</description>
+      <pubDate>Sat, 17 Oct 2020 20:20:00 +0000</pubDate>
+      <dc:date>2020-10-17T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Архіви Михайла Драй-Хмари</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20201010/2618742.mp3</link>
+      <description>
+	Архіви Михайла Драй-Хмари</description>
+      <pubDate>Sat, 10 Oct 2020 20:20:00 +0000</pubDate>
+      <dc:date>2020-10-10T20:20:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Архів літературознавця Юрія Кобилецького</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200719/2550939.mp3</link>
+      <description>
+	Архів літературознавця Юрія Кобилецького</description>
+      <pubDate>Sun, 19 Jul 2020 14:29:00 +0000</pubDate>
+      <dc:date>2020-07-19T14:29:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Слідча справа Григорія Косинки</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20200512/2495706.mp3</link>
+      <description>
+	Слідча справа Григорія Косинки</description>
+      <pubDate>Tue, 12 May 2020 17:49:58 +0000</pubDate>
+      <dc:date>2020-05-12T17:49:58+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Про листи Михайла Коцюбинського до Олександри Аплаксіної. Пер.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190802/2286840.mp3</link>
+      <description>
+	Про листи Михайла Коцюбинського до Олександри Аплаксіної. Пер.2</description>
+      <pubDate>Fri, 02 Aug 2019 15:45:00 +0000</pubDate>
+      <dc:date>2019-08-02T15:45:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Про архів Юрія Бадзя</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190728/2281752.mp3</link>
+      <description>
+	Про архів Юрія Бадзя</description>
+      <pubDate>Sun, 28 Jul 2019 14:50:00 +0000</pubDate>
+      <dc:date>2019-07-28T14:50:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Архів Михайлини Коцюбинської. Пер. 3</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190727/2281635.mp3</link>
+      <description>
+	Архів Михайлини Коцюбинської. Пер. 3</description>
+      <pubDate>Sat, 27 Jul 2019 15:45:00 +0000</pubDate>
+      <dc:date>2019-07-27T15:45:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Архів Валер&#39;яна Поліщука. Пер.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190713/2270952.mp3</link>
+      <description>
+	Архів Валер&#39;яна Поліщука. Пер.1</description>
+      <pubDate>Sat, 13 Jul 2019 15:45:00 +0000</pubDate>
+      <dc:date>2019-07-13T15:45:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <item>
+      <title>
+	Архів Остапа Вишні. Пер. 2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20190530/2242070.mp3</link>
+      <description>
+	Архів Остапа Вишні. Пер. 2</description>
+      <pubDate>Thu, 30 May 2019 15:45:00 +0000</pubDate>
+      <dc:date>2019-05-30T15:45:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675789744_63e285b00acbb.png"/>
+    </item>
+    <dc:date>2024-03-20T11:56:57+00:00</dc:date>
+  </channel>
+</rss>

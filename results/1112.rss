@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Голодомор. Літописці</title>
+    <link>https://ukr.radio/prog.html?id=1112</link>
+    <description>Документальний серіал до 90-х роковин Голодомору. Літопис найжахливіших подій в історії України — голоду, який був штучно створений комуністичним режимом СРСР задля знищення українського народу.</description>
+    <pubDate>Wed, 20 Mar 2024 11:25:22 +0000</pubDate>
+    <item>
+      <title>4 серія &quot;Тінь&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231125/3659555.mp3</link>
+      <description>4 серія &quot;Тінь&quot;.</description>
+      <pubDate>Sat, 25 Nov 2023 22:08:18 +0000</pubDate>
+      <dc:date>2023-11-25T22:08:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640490_655db6ea3395e.png"/>
+    </item>
+    <item>
+      <title>3 серія  &quot;Вершники апокаліпсису&quot;. </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231124/3659443.mp3</link>
+      <description>3 серія  &quot;Вершники апокаліпсису&quot;. </description>
+      <pubDate>Fri, 24 Nov 2023 22:07:39 +0000</pubDate>
+      <dc:date>2023-11-24T22:07:39+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640490_655db6ea3395e.png"/>
+    </item>
+    <item>
+      <title>2 серія &quot;Ура Сталіну!&quot;</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231123/3658905.mp3</link>
+      <description>2 серія &quot;Ура Сталіну!&quot;</description>
+      <pubDate>Thu, 23 Nov 2023 22:07:21 +0000</pubDate>
+      <dc:date>2023-11-23T22:07:21+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640490_655db6ea3395e.png"/>
+    </item>
+    <item>
+      <title>1 серія &quot;Столиця відчаю&quot;.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231122/3658645.mp3</link>
+      <description>1 серія &quot;Столиця відчаю&quot;.</description>
+      <pubDate>Wed, 22 Nov 2023 22:07:04 +0000</pubDate>
+      <dc:date>2023-11-22T22:07:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1700640490_655db6ea3395e.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:22+00:00</dc:date>
+  </channel>
+</rss>

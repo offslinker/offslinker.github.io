@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Кримський аспект</title>
+    <link>https://ukr.radio/prog.html?id=864</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:26:13 +0000</pubDate>
+    <item>
+      <title>&quot;Фонтан сліз&quot; - найвідоміша пам&#39;ятка в Бахчисарайському палаці. Збудований іранським майстром Омером у 1764 р. біля мавзолею Діляри-Бікеч — жінки, що мешкала в палаці у правління Кирима Ґерая (1758-64; 1768-69). Постать Діляри-Бікеч дотепер залишається цілком загадковою.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20231112/3645728.mp3</link>
+      <description>&quot;Фонтан сліз&quot; - найвідоміша пам&#39;ятка в Бахчисарайському палаці. Збудований іранським майстром Омером у 1764 р. біля мавзолею Діляри-Бікеч — жінки, що мешкала в палаці у правління Кирима Ґерая (1758-64; 1768-69). Постать Діляри-Бікеч дотепер залишається цілком загадковою.</description>
+      <pubDate>Sun, 12 Nov 2023 03:21:36 +0000</pubDate>
+      <dc:date>2023-11-12T03:21:36+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1686724320_64895ee0a041c.png"/>
+    </item>
+    <dc:date>2024-03-20T11:26:13+00:00</dc:date>
+  </channel>
+</rss>

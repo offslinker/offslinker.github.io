@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Щоденник Шевченка</title>
+    <link>https://ukr.radio/prog.html?id=1158</link>
+    <description>До 210-річчя Тараса Шевченка - радіодокументальний проєкт, створений на основі щоденникових текстів, писаних в очікуванні на звільнення із заслання. Шлях з півострова Мангишлак до Петербурга. Рік життя поета між 1857 і 1858. Над проєктом працювали Інна Мочарник та Ганна Малієнко</description>
+    <pubDate>Wed, 20 Mar 2024 10:57:44 +0000</pubDate>
+    <item>
+      <title>П&#39;ята серія: в’їзд до столиць заборонено</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240315/3792572.mp3</link>
+      <description>П&#39;ята серія: в’їзд до столиць заборонено</description>
+      <pubDate>Fri, 15 Mar 2024 20:30:02 +0000</pubDate>
+      <dc:date>2024-03-15T20:30:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1710166045_65ef101db1d57.png"/>
+    </item>
+    <item>
+      <title>Четвертра серія: мандрівка на волю</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240314/3790674.mp3</link>
+      <description>Четвертра серія: мандрівка на волю</description>
+      <pubDate>Thu, 14 Mar 2024 20:28:09 +0000</pubDate>
+      <dc:date>2024-03-14T20:28:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1710166045_65ef101db1d57.png"/>
+    </item>
+    <item>
+      <title>Третя серія: “на валізах”</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240313/3790419.mp3</link>
+      <description>Третя серія: “на валізах”</description>
+      <pubDate>Wed, 13 Mar 2024 20:30:19 +0000</pubDate>
+      <dc:date>2024-03-13T20:30:19+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1710166045_65ef101db1d57.png"/>
+    </item>
+    <item>
+      <title>Друга серія: спогади про майстерню Брюллова</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240312/3788147.mp3</link>
+      <description>Друга серія: спогади про майстерню Брюллова</description>
+      <pubDate>Tue, 12 Mar 2024 20:30:00 +0000</pubDate>
+      <dc:date>2024-03-12T20:30:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1710166045_65ef101db1d57.png"/>
+    </item>
+    <item>
+      <title>Перша серія: останні дні в армії</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20240311/3787145.mp3</link>
+      <description>Перша серія: останні дні в армії</description>
+      <pubDate>Mon, 11 Mar 2024 20:30:22 +0000</pubDate>
+      <dc:date>2024-03-11T20:30:22+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1710166045_65ef101db1d57.png"/>
+    </item>
+    <dc:date>2024-03-20T10:57:44+00:00</dc:date>
+  </channel>
+</rss>

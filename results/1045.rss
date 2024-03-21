@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Фінал Євробачення </title>
+    <link>https://ukr.radio/prog.html?id=1045</link>
+    <description>Фінал Євробачення </description>
+    <pubDate>Wed, 20 Mar 2024 11:23:30 +0000</pubDate>
+    <item>
+      <title>Фінал Євробачення 2023</title>
+      <link>https://ukr.radio</link>
+      <description>Фінал Євробачення 2023</description>
+      <pubDate>Sun, 14 May 2023 02:00:00 +0000</pubDate>
+      <dc:date>2023-05-14T02:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683881478_645dfe06cf275.png"/>
+    </item>
+    <item>
+      <title>Фінал Євробачення 2023</title>
+      <link>https://ukr.radio</link>
+      <description>Фінал Євробачення 2023</description>
+      <pubDate>Sun, 14 May 2023 01:00:00 +0000</pubDate>
+      <dc:date>2023-05-14T01:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683881478_645dfe06cf275.png"/>
+    </item>
+    <item>
+      <title>Фінал Євробачення 2023</title>
+      <link>https://ukr.radio</link>
+      <description>Фінал Євробачення 2023</description>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <dc:date>2023-05-14T00:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683881478_645dfe06cf275.png"/>
+    </item>
+    <item>
+      <title>Фінал Євробачення 2023</title>
+      <link>https://ukr.radio</link>
+      <description>Фінал Євробачення 2023</description>
+      <pubDate>Sat, 13 May 2023 23:00:00 +0000</pubDate>
+      <dc:date>2023-05-13T23:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683881478_645dfe06cf275.png"/>
+    </item>
+    <item>
+      <title>Фінал Євробачення 2023</title>
+      <link>https://ukr.radio</link>
+      <description>Фінал Євробачення 2023</description>
+      <pubDate>Sat, 13 May 2023 22:00:00 +0000</pubDate>
+      <dc:date>2023-05-13T22:00:00+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1683881478_645dfe06cf275.png"/>
+    </item>
+    <dc:date>2024-03-20T11:23:30+00:00</dc:date>
+  </channel>
+</rss>

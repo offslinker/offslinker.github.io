@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Радіодетектив. Смерть у бокалі шампанського</title>
+    <link>https://ukr.radio/prog.html?id=1061</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:30:43 +0000</pubDate>
+    <item>
+      <title>Агата Крісті. &quot;Смерть у бокалі шампанського&quot;. Український переклад Володимира Брюггена. Інсценівка Ніни Новоселицької. Постановка Юрія Дзюби. Запис 1982 року. Ч.3</title>
+      <link>https://ukr.radio/files/audio_manual/6527bc72b6b947.34820930.mp3</link>
+      <description>Агата Крісті. &quot;Смерть у бокалі шампанського&quot;. Український переклад Володимира Брюггена. Інсценівка Ніни Новоселицької. Постановка Юрія Дзюби. Запис 1982 року. Ч.3</description>
+      <pubDate>Fri, 13 Jan 2023 18:00:04 +0000</pubDate>
+      <dc:date>2023-01-13T18:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252596_64aff2f4b46a5.png"/>
+    </item>
+    <item>
+      <title>Агата Крісті. &quot;Смерть у бокалі шампанського&quot;. Український переклад Володимира Брюггена. Інсценівка Ніни Новоселицької. Постановка Юрія Дзюби. Запис 1982 року. Ч.2</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230112/3338031.mp3</link>
+      <description>Агата Крісті. &quot;Смерть у бокалі шампанського&quot;. Український переклад Володимира Брюггена. Інсценівка Ніни Новоселицької. Постановка Юрія Дзюби. Запис 1982 року. Ч.2</description>
+      <pubDate>Thu, 12 Jan 2023 18:00:04 +0000</pubDate>
+      <dc:date>2023-01-12T18:00:04+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252596_64aff2f4b46a5.png"/>
+    </item>
+    <item>
+      <title>Агата Крісті. &quot;Смерть у бокалі шампанського&quot;. Український переклад Володимира Брюггена. Інсценівка Ніни Новоселицької. Постановка Юрія Дзюби. Запис 1982 року. Ч.1</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20230111/3335953.mp3</link>
+      <description>Агата Крісті. &quot;Смерть у бокалі шампанського&quot;. Український переклад Володимира Брюггена. Інсценівка Ніни Новоселицької. Постановка Юрія Дзюби. Запис 1982 року. Ч.1</description>
+      <pubDate>Wed, 11 Jan 2023 18:00:03 +0000</pubDate>
+      <dc:date>2023-01-11T18:00:03+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1689252596_64aff2f4b46a5.png"/>
+    </item>
+    <dc:date>2024-03-20T11:30:43+00:00</dc:date>
+  </channel>
+</rss>

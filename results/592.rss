@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Релігійний тижневик</title>
+    <link>https://ukr.radio/prog.html?id=592</link>
+    <description>Інформаційна програма про важливі суспільно-резонансні події в релігійному середовищі України та світу.</description>
+    <pubDate>Wed, 20 Mar 2024 11:50:36 +0000</pubDate>
+    <item>
+      <title>Інформаційна програма про важливі суспільно-резонансні події в релігійному середовищі України та світу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220122/3048021.mp3</link>
+      <description>Інформаційна програма про важливі суспільно-резонансні події в релігійному середовищі України та світу.</description>
+      <pubDate>Sat, 22 Jan 2022 06:05:09 +0000</pubDate>
+      <dc:date>2022-01-22T06:05:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788169_63e27f8974a72.png"/>
+    </item>
+    <item>
+      <title>Інформаційна програма про важливі суспільно-резонансні події в релігійному середовищі України та світу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR3/20220115/3040450.mp3</link>
+      <description>Інформаційна програма про важливі суспільно-резонансні події в релігійному середовищі України та світу.</description>
+      <pubDate>Sat, 15 Jan 2022 06:05:09 +0000</pubDate>
+      <dc:date>2022-01-15T06:05:09+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1675788169_63e27f8974a72.png"/>
+    </item>
+    <dc:date>2024-03-20T11:50:36+00:00</dc:date>
+  </channel>
+</rss>

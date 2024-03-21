@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Україна. Сьогодення</title>
+    <link>https://ukr.radio/prog.html?id=100</link>
+    <description>У цій програмі увага головним, насамперед, політичним подіям тижня, так чи інакше пов’язаним з Україною. У програмі, насамперед, звертається увага на &quot;теми особливого значення&quot;, які й обговорюються за участю фахівців. Ця програма – це &quot;завершальний інформаційно-аналітичний акорд політичного тижня&quot;.</description>
+    <pubDate>Wed, 20 Mar 2024 11:26:53 +0000</pubDate>
+    <item>
+      <title>7 років для Стерненка збурили країну. Які політичні наслідки матиме резонансна справа?/ 7 років окупації Криму. Які країни вже дали згоду на участь у Кримській платформі з деокупації півострова?/ В Україні стартувала вакцинація.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20210228/2743551.mp3</link>
+      <description>7 років для Стерненка збурили країну. Які політичні наслідки матиме резонансна справа?/ 7 років окупації Криму. Які країни вже дали згоду на участь у Кримській платформі з деокупації півострова?/ В Україні стартувала вакцинація.</description>
+      <pubDate>Sun, 28 Feb 2021 19:09:59 +0000</pubDate>
+      <dc:date>2021-02-28T19:09:59+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212530_63bb3272881b6.png"/>
+    </item>
+    <item>
+      <title>
+	Росія зухвало і відкрито зриває домовленості про перемир’я. Чи можливий мирний процес на Донбасі за цих умов?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200913/2589770.mp3</link>
+      <description>
+	Росія зухвало і відкрито зриває домовленості про перемир’я. Чи можливий мирний процес на Донбасі за цих умов?</description>
+      <pubDate>Sun, 13 Sep 2020 19:10:01 +0000</pubDate>
+      <dc:date>2020-09-13T19:10:01+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212530_63bb3272881b6.png"/>
+    </item>
+    <item>
+      <title>
+	Місцеві вибори на старті./ “Слуга народу” виключила із фракції Гео Лероса за критику президента та його офісу.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20200906/2583994.mp3</link>
+      <description>
+	Місцеві вибори на старті./ “Слуга народу” виключила із фракції Гео Лероса за критику президента та його офісу.</description>
+      <pubDate>Sun, 06 Sep 2020 19:10:02 +0000</pubDate>
+      <dc:date>2020-09-06T19:10:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212530_63bb3272881b6.png"/>
+    </item>
+    <item>
+      <title>
+	Яким був 2019-й рік для України?</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20191231/2387795.mp3</link>
+      <description>
+	Яким був 2019-й рік для України?</description>
+      <pubDate>Tue, 31 Dec 2019 19:10:43 +0000</pubDate>
+      <dc:date>2019-12-31T19:10:43+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1673212530_63bb3272881b6.png"/>
+    </item>
+    <dc:date>2024-03-20T11:26:53+00:00</dc:date>
+  </channel>
+</rss>

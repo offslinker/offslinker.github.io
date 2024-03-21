@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Знати більше з Українським радіо</title>
+    <link>https://ukr.radio/prog.html?id=1153</link>
+    <description></description>
+    <pubDate>Wed, 20 Mar 2024 11:56:55 +0000</pubDate>
+    <item>
+      <title>Sylvia Vrethammar — a Swedish singer with a unique voice and a wide vocal range, released a song of support to Ukraine in difficult time, and shared her emotions and experiences caused by the war in our country. The song &quot;Broken Soul&quot; is playing on Ukrainian Radio.</title>
+      <link>https://ukr.radio/audio_slice/AIR-RUI/20240224/3765011.mp3</link>
+      <description>Sylvia Vrethammar — a Swedish singer with a unique voice and a wide vocal range, released a song of support to Ukraine in difficult time, and shared her emotions and experiences caused by the war in our country. The song &quot;Broken Soul&quot; is playing on Ukrainian Radio.</description>
+      <pubDate>Sat, 24 Feb 2024 23:46:23 +0000</pubDate>
+      <dc:date>2024-02-24T23:46:23+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1709050220_65de096cc8d6f.png"/>
+    </item>
+    <dc:date>2024-03-20T11:56:55+00:00</dc:date>
+  </channel>
+</rss>

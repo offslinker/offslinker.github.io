@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Мережа</title>
+    <link>https://ukr.radio/merezha</link>
+    <description>Програма про історію українських спецслужб та спецоперацій. Це добірка ексклюзивних розповідей про операції, які проводили українські розвідники, військові і силовики різних часів. Учасники і дослідники спецоперацій розповідають деталі про спецзавдання, які виконувалися мережами агентів або групами військових і дозволяли протидіяти ворогу в нерівних умовах.
+
+Текстову версію програми — читати тут.</description>
+    <pubDate>Wed, 20 Mar 2024 11:25:23 +0000</pubDate>
+    <item>
+      <title>Серія 8. Звільнення Криму. Спецоперація Болбочана.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231024/3618597.mp3</link>
+      <description>Серія 8. Звільнення Криму. Спецоперація Болбочана.</description>
+      <pubDate>Tue, 24 Oct 2023 10:07:17 +0000</pubDate>
+      <dc:date>2023-10-24T10:07:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 7. Загадкові постаті ОУН.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231017/3614443.mp3</link>
+      <description>Серія 7. Загадкові постаті ОУН.</description>
+      <pubDate>Tue, 17 Oct 2023 10:07:16 +0000</pubDate>
+      <dc:date>2023-10-17T10:07:16+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 6. ОУН і західні спецслужби. </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231010/3607368.mp3</link>
+      <description>Серія 6. ОУН і західні спецслужби. </description>
+      <pubDate>Tue, 10 Oct 2023 10:07:17 +0000</pubDate>
+      <dc:date>2023-10-10T10:07:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 5. 9 замахів на Бандеру. </title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20231003/3593448.mp3</link>
+      <description>Серія 5. 9 замахів на Бандеру. </description>
+      <pubDate>Tue, 03 Oct 2023 10:07:02 +0000</pubDate>
+      <dc:date>2023-10-03T10:07:02+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 4. Озброєні ідеєю.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230926/3586397.mp3</link>
+      <description>Серія 4. Озброєні ідеєю.</description>
+      <pubDate>Tue, 26 Sep 2023 10:07:16 +0000</pubDate>
+      <dc:date>2023-09-26T10:07:16+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 3. Подвійні агенти.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230919/3580673.mp3</link>
+      <description>Серія 3. Подвійні агенти.</description>
+      <pubDate>Tue, 19 Sep 2023 10:07:18 +0000</pubDate>
+      <dc:date>2023-09-19T10:07:18+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 2. Світ знав про Голодомор.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230912/3573734.mp3</link>
+      <description>Серія 2. Світ знав про Голодомор.</description>
+      <pubDate>Tue, 12 Sep 2023 10:08:16 +0000</pubDate>
+      <dc:date>2023-09-12T10:08:16+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <item>
+      <title>Серія 1. Від Лісабона до Москви.</title>
+      <link>https://ukr.radio/audio_slice/AIR-UR1/20230905/3567785.mp3</link>
+      <description>Серія 1. Від Лісабона до Москви.</description>
+      <pubDate>Tue, 05 Sep 2023 10:07:17 +0000</pubDate>
+      <dc:date>2023-09-05T10:07:17+00:00</dc:date>
+      <itunes:image href="https://ukr.radio/images/bank/prog/size2/prog_1696964958_6525a15e00a0a.png"/>
+    </item>
+    <dc:date>2024-03-20T11:25:23+00:00</dc:date>
+  </channel>
+</rss>
